@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "COT474-E24.3-128"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.99494845,
+          20.678929176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "COT474-E24.3-127"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.99414915,
+          20.678367069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "COT474-E24.3-129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.99562436,
+          20.679416
+        ]
+      }
+    }
+  ]
+}

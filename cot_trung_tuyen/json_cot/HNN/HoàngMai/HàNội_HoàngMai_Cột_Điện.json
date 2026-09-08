@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "COT479-E5.23-77"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.83180637402678,
+          20.965593192761062
+        ]
+      }
+    }
+  ]
+}

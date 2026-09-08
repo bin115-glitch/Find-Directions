@@ -1,0 +1,304 @@
+{
+  "Table": [
+    {
+      "ID": 1,
+      "Name": "FPT"
+    },
+    {
+      "ID": 2,
+      "Name": "VNP"
+    },
+    {
+      "ID": 3,
+      "Name": "VMS"
+    },
+    {
+      "ID": 4,
+      "Name": "VNPT"
+    },
+    {
+      "ID": 5,
+      "Name": "VTEL"
+    },
+    {
+      "ID": 6,
+      "Name": "EVN Telecom"
+    },
+    {
+      "ID": 7,
+      "Name": "EVN Điện lực"
+    },
+    {
+      "ID": 8,
+      "Name": "SPT"
+    },
+    {
+      "ID": 9,
+      "Name": "SCTV"
+    },
+    {
+      "ID": 10,
+      "Name": "VTN - liên tỉnh"
+    },
+    {
+      "ID": 11,
+      "Name": "VTN1 - khu vực I"
+    },
+    {
+      "ID": 12,
+      "Name": "VTN2 - khu vực II"
+    },
+    {
+      "ID": 13,
+      "Name": "VTN3 - khu vực III"
+    },
+    {
+      "ID": 14,
+      "Name": "N/A"
+    },
+    {
+      "ID": 15,
+      "Name": ""
+    },
+    {
+      "ID": 42,
+      "Name": "Cty TTTHĐS Hà Nội"
+    },
+    {
+      "ID": 52,
+      "Name": "Cty Điện Lực"
+    },
+    {
+      "ID": 62,
+      "Name": "Cty TTTHĐS Đà Nẵng"
+    },
+    {
+      "ID": 72,
+      "Name": "Cty TTTHÐS Vinh"
+    },
+    {
+      "ID": 82,
+      "Name": "VCTV - Các tuyến trao đổi cáp với VCTV"
+    },
+    {
+      "ID": 92,
+      "Name": "BTS - Tuyến cáp trao đổi với BTS"
+    },
+    {
+      "ID": 102,
+      "Name": "Điện lực Uông Bí"
+    },
+    {
+      "ID": 112,
+      "Name": "Công ty MTĐT Uông Bí"
+    },
+    {
+      "ID": 122,
+      "Name": "Cột Bưu điện"
+    },
+    {
+      "ID": 132,
+      "Name": "Cột điện nhà Dân"
+    },
+    {
+      "ID": 142,
+      "Name": "Điện lực Thủy Nguyên"
+    },
+    {
+      "ID": 152,
+      "Name": "Cột trồng mới FPT"
+    },
+    {
+      "ID": 162,
+      "Name": "Cột điện Dầu khí"
+    },
+    {
+      "ID": 172,
+      "Name": "Hợp tác xã Lưu Kiếm"
+    },
+    {
+      "ID": 182,
+      "Name": "Khu CN Nam cầu Kiền"
+    },
+    {
+      "ID": 192,
+      "Name": "Điện lực An Dương"
+    },
+    {
+      "ID": 202,
+      "Name": "Điện lực An Lão"
+    },
+    {
+      "ID": 212,
+      "Name": "Điện lực Tiên Lãng"
+    },
+    {
+      "ID": 222,
+      "Name": "Điện lực Vĩnh Bảo"
+    },
+    {
+      "ID": 232,
+      "Name": "Điện lực Quỳnh Phụ, TB"
+    },
+    {
+      "ID": 242,
+      "Name": "Điện lực Đông Hưng, TB"
+    },
+    {
+      "ID": 252,
+      "Name": "Điện lực TP. TBH"
+    },
+    {
+      "ID": 262,
+      "Name": "XN xây lắp Điện lực, HP"
+    },
+    {
+      "ID": 272,
+      "Name": "Cty TTTHĐS Bắc Giang"
+    },
+    {
+      "ID": 282,
+      "Name": "Cty TTTHĐS Sài Gòn"
+    },
+    {
+      "ID": 292,
+      "Name": "SPC"
+    },
+    {
+      "ID": 302,
+      "Name": "Cty DLC Bình Duong"
+    },
+    {
+      "ID": 312,
+      "Name": "Cty DLC Đồng Nai"
+    },
+    {
+      "ID": 322,
+      "Name": "Cty DLC Lâm Đồng"
+    },
+    {
+      "ID": 332,
+      "Name": "ĐL Lâm Đồng"
+    },
+    {
+      "ID": 342,
+      "Name": "ĐL Đắk Lắk"
+    },
+    {
+      "ID": 352,
+      "Name": "ĐL Gia Lai"
+    },
+    {
+      "ID": 362,
+      "Name": "Công ty VT FPT"
+    },
+    {
+      "ID": 372,
+      "Name": "ĐL Kon Tum"
+    },
+    {
+      "ID": 382,
+      "Name": "ĐL Bình Dương"
+    },
+    {
+      "ID": 392,
+      "Name": "ĐL Đồng Nai"
+    },
+    {
+      "ID": 402,
+      "Name": "ĐL Quảng Nam"
+    },
+    {
+      "ID": 412,
+      "Name": "ĐL Đà Nẵng"
+    },
+    {
+      "ID": 422,
+      "Name": "ĐL ĐLK"
+    },
+    {
+      "ID": 432,
+      "Name": "ĐL NTG"
+    },
+    {
+      "ID": 442,
+      "Name": "ĐL Gò Vấp"
+    },
+    {
+      "ID": 452,
+      "Name": "ĐL Củ Chi"
+    },
+    {
+      "ID": 462,
+      "Name": "ĐL Hóc Môn"
+    },
+    {
+      "ID": 472,
+      "Name": "ÐL KTM"
+    },
+    {
+      "ID": 482,
+      "Name": "ÐL KGG"
+    },
+    {
+      "ID": 492,
+      "Name": "ĐL Lạng Sơn"
+    },
+    {
+      "ID": 502,
+      "Name": "ĐS Bắc Giang"
+    },
+    {
+      "ID": 512,
+      "Name": "ĐL Hà Nam"
+    },
+    {
+      "ID": 522,
+      "Name": "Điện lực Nghệ An"
+    },
+    {
+      "ID": 532,
+      "Name": "ĐL CTO"
+    },
+    {
+      "ID": 542,
+      "Name": "ĐL HGG"
+    },
+    {
+      "ID": 552,
+      "Name": "ĐLVLG"
+    },
+    {
+      "ID": 562,
+      "Name": "ĐLTGG"
+    },
+    {
+      "ID": 572,
+      "Name": "ĐL TVH"
+    },
+    {
+      "ID": 582,
+      "Name": "ĐL BLU"
+    },
+    {
+      "ID": 592,
+      "Name": "ĐL CMU"
+    },
+    {
+      "ID": 602,
+      "Name": "ĐL STG"
+    },
+    {
+      "ID": 612,
+      "Name": "ĐL BDH"
+    },
+    {
+      "ID": 622,
+      "Name": "Điện Lực Bình Dương"
+    },
+    {
+      "ID": 632,
+      "Name": "Điện Lực Bình Phước"
+    }
+  ]
+}

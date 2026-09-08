@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA472-TGBA-4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.86371561451239,
+          20.87417072695735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E8.11-116-24-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.86098283529282,
+          20.801749869829084
+        ]
+      }
+    }
+  ]
+}

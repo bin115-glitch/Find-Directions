@@ -1,0 +1,360 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Route Viewer</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css">
+  </head>
+  <body>
+    <!-- Panel điều khiển -->
+    <div id="control-panel" style="position: fixed; top: 10px; right: 10px; background: white; padding: 15px; border-radius: 5px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); z-index: 1000; max-width: 300px;">
+      <h3 style="margin-top: 0;">Vẽ Tuyến Đường</h3>
+      <button id="start-drawing" style="margin: 5px; padding: 8px 15px; background: #007cba; color: white; border: none; border-radius: 3px; cursor: pointer;">Bắt đầu vẽ</button>
+      <button id="stop-drawing" style="margin: 5px; padding: 8px 15px; background: #dc3545; color: white; border: none; border-radius: 3px; cursor: pointer;">Hoàn thành tuyến</button>
+      <button id="undo-last" style="margin: 5px; padding: 8px 15px; background: #ffc107; color: black; border: none; border-radius: 3px; cursor: pointer;">Quay lại</button>
+      <button id="clear-route" style="margin: 5px; padding: 8px 15px; background: #6c757d; color: white; border: none; border-radius: 3px; cursor: pointer;">Xóa tất cả</button>
+      <button id="export-coords" style="margin: 5px; padding: 8px 15px; background: #28a745; color: white; border: none; border-radius: 3px; cursor: pointer;">Xuất tọa độ</button>
+      
+      <div id="status" style="margin-top: 10px; padding: 5px; background: #f8f9fa; border-radius: 3px; font-size: 12px;">
+        Trạng thái: Chưa bắt đầu vẽ
+      </div>
+      
+      <div id="instructions" style="margin-top: 10px; padding: 5px; background: #e7f3ff; border-radius: 3px; font-size: 11px; border-left: 3px solid #007cba;">
+        <strong>Hướng dẫn:</strong><br>
+        • Click trên map để thêm điểm mới<br>
+        • Click vào marker cũ để nối tiếp<br>
+        • "Hoàn thành tuyến" để kết thúc<br>
+        • "Quay lại" để xóa đoạn vừa vẽ
+      </div>
+      
+      <div id="coordinates-list" style="margin-top: 10px; max-height: 200px; overflow-y: auto;">
+        <h4 style="margin: 5px 0;">Danh sách tọa độ:</h4>
+        <div id="coords-display" style="font-size: 11px; font-family: monospace;"></div>
+      </div>
+    </div>
+
+    <div id="map" style="height: 100vh; width: 100%;"></div>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"></script>
+    <script>
+      // Khởi tạo map với tọa độ Việt Nam (Hà Nội)
+      var map = L.map('map').setView([21.0285, 105.8542], 13);
+      
+      // Thêm tile layer (bản đồ nền)
+      L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+        maxZoom: 19
+      }).addTo(map);
+      
+      // Biến quản lý vẽ đường
+      var isDrawing = false;
+      var currentPolyline = null;
+      var allPolylines = [];
+      var allCoordinates = [];
+      var markers = [];
+      var markerToIndexMap = new Map(); // Map marker object to index
+      var routeHistory = []; // Lịch sử các tuyến đường
+      var currentRouteStartIndex = 0; // Index bắt đầu của tuyến hiện tại
+      var coordinateToNumberMap = new Map(); // Map tọa độ đến số thứ tự gốc
+      var routeColors = ['#FF0000', '#0000FF', '#008000', '#FFA500', '#800080', '#00CED1', '#FF69B4', '#8B4513']; // Đỏ, Xanh dương, Xanh lá, Cam, Tím, Xanh ngọc, Hồng, Nâu
+      var currentColorIndex = 0;
+      
+      // Cập nhật trạng thái
+      function updateStatus(message) {
+        document.getElementById('status').textContent = 'Trạng thái: ' + message;
+      }
+      
+      // Cập nhật danh sách tọa độ
+      function updateCoordinatesList() {
+        var coordsDisplay = document.getElementById('coords-display');
+        if (allCoordinates.length === 0) {
+          coordsDisplay.innerHTML = '<em>Chưa có tọa độ nào</em>';
+          return;
+        }
+        
+        var html = '';
+        allCoordinates.forEach(function(coord, index) {
+          var pointNumber = getCoordinateNumber(coord);
+          var isDuplicate = pointNumber <= index + 1;
+          
+          var bgColor = isDuplicate ? '#fff3cd' : '#e9ecef';
+          var textColor = isDuplicate ? '#856404' : '#000';
+          
+          html += '<div style="margin: 2px 0; padding: 2px; background: ' + bgColor + '; border-radius: 2px; color: ' + textColor + ';">';
+          html += '<strong>Điểm ' + pointNumber + ':</strong> ';
+          html += 'Lat: ' + coord.lat.toFixed(6) + ', Lng: ' + coord.lng.toFixed(6);
+          if (isDuplicate) {
+            html += ' <em>(tọa độ đã tồn tại)</em>';
+          }
+          html += '</div>';
+        });
+        coordsDisplay.innerHTML = html;
+      }
+      
+      // Bắt đầu vẽ
+      function startDrawing() {
+        isDrawing = true;
+        updateStatus('Đang vẽ - Click trên map hoặc marker để thêm điểm');
+        map.getContainer().style.cursor = 'crosshair';
+        
+        // Lấy màu cho tuyến đường mới
+        var color = routeColors[currentColorIndex % routeColors.length];
+        currentColorIndex++;
+
+        // Tạo polyline mới
+        currentPolyline = L.polyline([], {
+          color: color, // Gán màu ở đây
+          weight: 3,
+          opacity: 0.8
+        }).addTo(map);
+        
+        allPolylines.push(currentPolyline);
+      }
+      
+      // Hoàn thành tuyến đường
+      function completeRoute() {
+        if (!isDrawing || !currentPolyline) {
+          alert('Không có tuyến đường nào để hoàn thành!');
+          return;
+        }
+        
+        isDrawing = false;
+        updateStatus('Đã hoàn thành tuyến đường');
+        map.getContainer().style.cursor = '';
+        
+        // Lưu tuyến đường vào lịch sử
+        var routeData = {
+          polyline: currentPolyline,
+          startIndex: currentRouteStartIndex,
+          endIndex: allCoordinates.length - 1,
+          markers: markers.slice(currentRouteStartIndex),
+          coordinates: allCoordinates.slice(currentRouteStartIndex)
+        };
+        routeHistory.push(routeData);
+        
+        // Reset cho tuyến tiếp theo
+        currentPolyline = null;
+        currentRouteStartIndex = allCoordinates.length;
+        
+        // Cập nhật danh sách tọa độ
+        updateCoordinatesList();
+      }
+      
+      // Xóa tất cả tuyến đường
+      function clearRoute() {
+        // Xóa tất cả polylines
+        allPolylines.forEach(function(polyline) {
+          map.removeLayer(polyline);
+        });
+        
+        // Xóa tất cả markers
+        markers.forEach(function(marker) {
+          map.removeLayer(marker);
+        });
+        
+        // Reset arrays
+        allPolylines = [];
+        allCoordinates = [];
+        markers = [];
+        markerToIndexMap.clear();
+        routeHistory = [];
+        coordinateToNumberMap.clear();
+        currentColorIndex = 0;
+        currentPolyline = null;
+        currentRouteStartIndex = 0;
+        
+        updateStatus('Đã xóa tất cả tuyến đường');
+        updateCoordinatesList();
+      }
+      
+      // Xuất tọa độ dạng txt giống format: route1_text = "[lat lon, ...]"\nroute2_text = "[...]"
+      function exportCoordinates() {
+        if (routeHistory.length === 0 && allCoordinates.length === 0) {
+          alert('Chưa có tọa độ nào để xuất!');
+          return;
+        }
+
+        // Lấy các tuyến đã hoàn thành (và tuyến đang vẽ nếu có)
+        var routes = [];
+        routeHistory.forEach(function(route) {
+          routes.push(route.coordinates);
+        });
+        if (isDrawing && currentPolyline && allCoordinates.length > currentRouteStartIndex) {
+          routes.push(allCoordinates.slice(currentRouteStartIndex));
+        }
+
+        // Chỉ hỗ trợ xuất 2 tuyến đầu (route1, route2)
+        var outLines = [];
+        for (var r = 0; r < Math.min(2, routes.length); r++) {
+          var arr = routes[r];
+          var parts = arr.map(function(c){ return c.lat.toFixed(6) + ' ' + c.lng.toFixed(6); });
+          var text = '[' + parts.join(', ') + ']';
+          outLines.push('route' + (r+1) + '_text = "' + text + '"');
+        }
+
+        var outText = outLines.join('\n');
+        var blob = new Blob([outText], { type: 'text/plain;charset=utf-8;' });
+        var url = window.URL.createObjectURL(blob);
+        var a = document.createElement('a');
+        a.href = url;
+        a.download = 'route_coordinates.txt';
+        document.body.appendChild(a);
+        a.click();
+        document.body.removeChild(a);
+        window.URL.revokeObjectURL(url);
+      }
+      
+      // Quay lại tuyến đường cuối cùng
+      function undoLastRoute() {
+        if (routeHistory.length === 0) {
+          alert('Không có tuyến đường nào để quay lại!');
+          return;
+        }
+        
+        // Lấy tuyến đường cuối cùng
+        var lastRoute = routeHistory.pop();
+        
+        // Xóa polyline khỏi map
+        map.removeLayer(lastRoute.polyline);
+        
+        // Xóa markers khỏi map và arrays
+        lastRoute.markers.forEach(function(marker) {
+          map.removeLayer(marker);
+          var index = markers.indexOf(marker);
+          if (index > -1) {
+            markers.splice(index, 1);
+            markerToIndexMap.delete(marker);
+          }
+        });
+        
+        // Xóa coordinates
+        allCoordinates.splice(lastRoute.startIndex, lastRoute.endIndex - lastRoute.startIndex + 1);
+        
+        // Cập nhật markerToIndexMap cho các markers còn lại
+        markerToIndexMap.clear();
+        markers.forEach(function(marker, index) {
+          markerToIndexMap.set(marker, index);
+        });
+        
+        // Cập nhật currentRouteStartIndex
+        currentRouteStartIndex = Math.min(currentRouteStartIndex, allCoordinates.length);
+        
+        updateStatus('Đã quay lại tuyến đường cuối cùng');
+        updateCoordinatesList();
+      }
+      
+      // Kiểm tra tọa độ trùng lặp và trả về số thứ tự
+      function getCoordinateNumber(latlng) {
+        var coordKey = latlng.lat.toFixed(6) + ',' + latlng.lng.toFixed(6);
+        
+        // Kiểm tra xem tọa độ đã tồn tại chưa
+        for (var i = 0; i < allCoordinates.length; i++) {
+          var existingCoord = allCoordinates[i];
+          var existingKey = existingCoord.lat.toFixed(6) + ',' + existingCoord.lng.toFixed(6);
+          if (existingKey === coordKey) {
+            return i + 1; // Trả về số thứ tự gốc
+          }
+        }
+        
+        // Nếu chưa tồn tại, trả về số tiếp theo
+        return allCoordinates.length + 1;
+      }
+      
+      // Xử lý click trên map
+      map.on('click', function(e) {
+        if (!isDrawing) return;
+        
+        var latlng = e.latlng;
+        var pointNumber = getCoordinateNumber(latlng);
+        var isExistingPoint = pointNumber <= allCoordinates.length;
+        
+        // Thêm điểm vào polyline hiện tại
+        currentPolyline.addLatLng(latlng);
+        
+        // Thêm vào danh sách tọa độ
+        allCoordinates.push({
+          lat: latlng.lat,
+          lng: latlng.lng
+        });
+        
+        // Xác định màu marker
+        var markerColor = isExistingPoint ? 'blue' : 'red';
+        
+        // Thêm marker tại điểm vừa click
+        var marker = L.marker(latlng, {
+          icon: L.divIcon({
+            className: 'custom-marker',
+            html: '<div style="background: ' + markerColor + '; color: white; border-radius: 50%; width: 20px; height: 20px; display: flex; align-items: center; justify-content: center; font-size: 12px; font-weight: bold;">' + pointNumber + '</div>',
+            iconSize: [20, 20],
+            iconAnchor: [10, 10]
+          })
+        }).addTo(map);
+        
+        markers.push(marker);
+        markerToIndexMap.set(marker, allCoordinates.length - 1);
+        
+        // Bind popup cho marker
+        var popupText = 'Điểm ' + pointNumber;
+        if (isExistingPoint) {
+          popupText += ' (tọa độ đã tồn tại)';
+        }
+        popupText += '<br>Lat: ' + latlng.lat.toFixed(6) + '<br>Lng: ' + latlng.lng.toFixed(6);
+        marker.bindPopup(popupText);
+        
+        // Thêm event listener cho marker để có thể click vào để nối tiếp
+        marker.on('click', function(e) {
+          if (isDrawing) {
+            e.originalEvent.stopPropagation(); // Ngăn event bubble lên map
+            var index = markerToIndexMap.get(marker);
+            var existingCoord = allCoordinates[index];
+            var existingPointNumber = getCoordinateNumber(existingCoord);
+            
+            // Thêm điểm đã tồn tại vào polyline hiện tại
+            currentPolyline.addLatLng(existingCoord);
+            
+            // Thêm vào danh sách tọa độ
+            allCoordinates.push({
+              lat: existingCoord.lat,
+              lng: existingCoord.lng
+            });
+            
+            // Tạo marker mới cho điểm này (màu xanh để phân biệt)
+            var newMarker = L.marker(existingCoord, {
+              icon: L.divIcon({
+                className: 'custom-marker',
+                html: '<div style="background: blue; color: white; border-radius: 50%; width: 20px; height: 20px; display: flex; align-items: center; justify-content: center; font-size: 12px; font-weight: bold;">' + existingPointNumber + '</div>',
+                iconSize: [20, 20],
+                iconAnchor: [10, 10]
+              })
+            }).addTo(map);
+            
+            markers.push(newMarker);
+            markerToIndexMap.set(newMarker, allCoordinates.length - 1);
+            
+            // Bind popup cho marker mới
+            newMarker.bindPopup('Điểm ' + existingPointNumber + ' (nối từ điểm ' + existingPointNumber + ')<br>Lat: ' + existingCoord.lat.toFixed(6) + '<br>Lng: ' + existingCoord.lng.toFixed(6));
+            
+            // Cập nhật danh sách tọa độ
+            updateCoordinatesList();
+          }
+        });
+        
+        // Cập nhật danh sách tọa độ
+        updateCoordinatesList();
+      });
+      
+      // Event listeners cho các nút
+      document.getElementById('start-drawing').addEventListener('click', startDrawing);
+      document.getElementById('stop-drawing').addEventListener('click', completeRoute);
+      document.getElementById('undo-last').addEventListener('click', undoLastRoute);
+      document.getElementById('clear-route').addEventListener('click', clearRoute);
+      document.getElementById('export-coords').addEventListener('click', exportCoordinates);
+      
+      // Khởi tạo
+      updateCoordinatesList();
+    </script>
+  </body>
+</html>

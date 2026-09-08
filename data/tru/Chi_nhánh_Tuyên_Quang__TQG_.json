@@ -1,0 +1,301 @@
+{
+  "table": [
+    {
+      "id": 6089532,
+      "code": "TQG0000020",
+      "name": "CỘT DS1",
+      "cabtype": 5,
+      "latlng": "(21.57095073921711,105.31721692532301)",
+      "branchid": 262,
+      "trubangduonglist": "",
+      "aheadcode": "",
+      "type": "trudon"
+    },
+    {
+      "id": 6089542,
+      "code": "TQG0000021",
+      "name": "CỘT DS2",
+      "cabtype": 5,
+      "latlng": "(21.57079047680935,105.31764507293701)",
+      "branchid": 262,
+      "trubangduonglist": "",
+      "aheadcode": "TQG0000020",
+      "type": "trudon"
+    },
+    {
+      "id": 6089552,
+      "code": "TQG0000022",
+      "name": "CỘT DS3",
+      "cabtype": 5,
+      "latlng": "(21.57064175064201,105.31786534935236)",
+      "branchid": 262,
+      "trubangduonglist": "",
+      "aheadcode": "TQG0000021",
+      "type": "trudon"
+    },
+    {
+      "id": 6089562,
+      "code": "TQG0000023",
+      "name": "CỘT DS4",
+      "cabtype": 5,
+      "latlng": "(21.57050206638784,105.31794145703316)",
+      "branchid": 262,
+      "trubangduonglist": "",
+      "aheadcode": "TQG0000022",
+      "type": "trudon"
+    },
+    {
+      "id": 6089572,
+      "code": "TQG0000024",
+      "name": "CỘT DS5",
+      "cabtype": 5,
+      "latlng": "(21.570423805731203,105.3181778267026)",
+      "branchid": 262,
+      "trubangduonglist": "",
+      "aheadcode": "TQG0000023",
+      "type": "trudon"
+    },
+    {
+      "id": 6089582,
+      "code": "TQG0000025",
+      "name": "CỘT DS6",
+      "cabtype": 5,
+      "latlng": "(21.570372047664165,105.31829584389925)",
+      "branchid": 262,
+      "trubangduonglist": "",
+      "aheadcode": "TQG0000024",
+      "type": "trudon"
+    },
+    {
+      "id": 6089592,
+      "code": "TQG0000026",
+      "name": "CỘT DS7",
+      "cabtype": 5,
+      "latlng": "(21.570289110000125,105.31856741756201)",
+      "branchid": 262,
+      "trubangduonglist": "",
+      "aheadcode": "TQG0000025",
+      "type": "trudon"
+    },
+    {
+      "id": 6089602,
+      "code": "TQG0000027",
+      "name": "CỘT DS8",
+      "cabtype": 5,
+      "latlng": "(21.570216149760203,105.31878031790257)",
+      "branchid": 262,
+      "trubangduonglist": "",
+      "aheadcode": "TQG0000026",
+      "type": "trudon"
+    },
+    {
+      "id": 6089612,
+      "code": "TQG0000028",
+      "name": "CỘT DS9",
+      "cabtype": 5,
+      "latlng": "(21.570161585454187,105.31892817467451)",
+      "branchid": 262,
+      "trubangduonglist": "",
+      "aheadcode": "TQG0000027",
+      "type": "trudon"
+    },
+    {
+      "id": 6089622,
+      "code": "TQG0000029",
+      "name": "CỘT DS10",
+      "cabtype": 5,
+      "latlng": "(21.57012261093732,105.31902976334095)",
+      "branchid": 262,
+      "trubangduonglist": "",
+      "aheadcode": "TQG0000028",
+      "type": "trudon"
+    },
+    {
+      "id": 6089632,
+      "code": "TQG0000030",
+      "name": "CỘT DS11",
+      "cabtype": 5,
+      "latlng": "(21.570110762682127,105.31922724097967)",
+      "branchid": 262,
+      "trubangduonglist": "",
+      "aheadcode": "TQG0000029",
+      "type": "trudon"
+    },
+    {
+      "id": 6089642,
+      "code": "TQG0000031",
+      "name": "CỘT DS12",
+      "cabtype": 5,
+      "latlng": "(21.570144124871952,105.31942404806614)",
+      "branchid": 262,
+      "trubangduonglist": "",
+      "aheadcode": "TQG0000030",
+      "type": "trudon"
+    },
+    {
+      "id": 6089652,
+      "code": "TQG0000032",
+      "name": "CỘT DS13",
+      "cabtype": 5,
+      "latlng": "(21.570189023507776,105.31967382878065)",
+      "branchid": 262,
+      "trubangduonglist": "",
+      "aheadcode": "TQG0000031",
+      "type": "trudon"
+    },
+    {
+      "id": 6089662,
+      "code": "TQG0000033",
+      "name": "CỘT DS14",
+      "cabtype": 5,
+      "latlng": "(21.570176551665902,105.31987432390451)",
+      "branchid": 262,
+      "trubangduonglist": "",
+      "aheadcode": "TQG0000032",
+      "type": "trudon"
+    },
+    {
+      "id": 6089672,
+      "code": "TQG0000034",
+      "name": "CỘT DS16",
+      "cabtype": 5,
+      "latlng": "(21.57024015804833,105.32001111656427)",
+      "branchid": 262,
+      "trubangduonglist": "",
+      "aheadcode": "TQG0000033",
+      "type": "trudon"
+    },
+    {
+      "id": 6089682,
+      "code": "TQG0000035",
+      "name": "CỘT DS17",
+      "cabtype": 5,
+      "latlng": "(21.57018372297511,105.32012041658163)",
+      "branchid": 262,
+      "trubangduonglist": "",
+      "aheadcode": "TQG0000034",
+      "type": "trudon"
+    },
+    {
+      "id": 6089692,
+      "code": "TQG0000036",
+      "name": "CỘT DS18",
+      "cabtype": 5,
+      "latlng": "(21.57018621734345,105.32020289450884)",
+      "branchid": 262,
+      "trubangduonglist": "TQG0000035",
+      "aheadcode": "TQG0000035",
+      "type": "trudon"
+    },
+    {
+      "id": 6089702,
+      "code": "TQG0000037",
+      "name": "CỘTDS19",
+      "cabtype": 5,
+      "latlng": "(21.57002034175524,105.32032359391451)",
+      "branchid": 262,
+      "trubangduonglist": "",
+      "aheadcode": "TQG0000036",
+      "type": "trudon"
+    },
+    {
+      "id": 6089712,
+      "code": "TQG0000038",
+      "name": "CỘTDS20",
+      "cabtype": 5,
+      "latlng": "(21.569792730206817,105.32048117369413)",
+      "branchid": 262,
+      "trubangduonglist": "",
+      "aheadcode": "TQG0000037",
+      "type": "trudon"
+    },
+    {
+      "id": 6089722,
+      "code": "TQG0000039",
+      "name": "CỘTDS21",
+      "cabtype": 5,
+      "latlng": "(21.569599727805535,105.32059449702501)",
+      "branchid": 262,
+      "trubangduonglist": "",
+      "aheadcode": "TQG0000038",
+      "type": "trudon"
+    },
+    {
+      "id": 6089732,
+      "code": "TQG0000040",
+      "name": "CỘTDS22",
+      "cabtype": 5,
+      "latlng": "(21.56943478693907,105.32068032771349)",
+      "branchid": 262,
+      "trubangduonglist": "",
+      "aheadcode": "TQG0000039",
+      "type": "trudon"
+    },
+    {
+      "id": 6089742,
+      "code": "TQG0000041",
+      "name": "CỘTDS23",
+      "cabtype": 5,
+      "latlng": "(21.56933781783545,105.32074034214020)",
+      "branchid": 262,
+      "trubangduonglist": "TQG0000040",
+      "aheadcode": "TQG0000040",
+      "type": "trudon"
+    },
+    {
+      "id": 6089752,
+      "code": "TQG0000042",
+      "name": "CỘTDS24",
+      "cabtype": 5,
+      "latlng": "(21.56911145240858,105.32089155167343)",
+      "branchid": 262,
+      "trubangduonglist": "",
+      "aheadcode": "TQG0000041",
+      "type": "trudon"
+    },
+    {
+      "id": 6128632,
+      "code": "TQG0000043",
+      "name": "1",
+      "cabtype": 5,
+      "latlng": "(21.03168724708389,105.81690073013306)",
+      "branchid": 262,
+      "trubangduonglist": "",
+      "aheadcode": "",
+      "type": "trudon"
+    },
+    {
+      "id": 6128642,
+      "code": "TQG0000044",
+      "name": "2",
+      "cabtype": 5,
+      "latlng": "(21.03254845748926,105.81700600683689)",
+      "branchid": 262,
+      "trubangduonglist": "",
+      "aheadcode": "TQG0000043",
+      "type": "trudon"
+    },
+    {
+      "id": 6132442,
+      "code": "TQG0000043",
+      "name": "ĐFGHHGGG",
+      "cabtype": 5,
+      "latlng": "(21.03788835158352,105.81728328019381)",
+      "branchid": 262,
+      "trubangduonglist": "",
+      "aheadcode": "",
+      "type": "trudon"
+    },
+    {
+      "id": 6132452,
+      "code": "TQG0000044",
+      "name": "DCGHH",
+      "cabtype": 5,
+      "latlng": "(21.03770153362517,105.81773623824120)",
+      "branchid": 262,
+      "trubangduonglist": "",
+      "aheadcode": "",
+      "type": "trudon"
+    }
+  ]
+}

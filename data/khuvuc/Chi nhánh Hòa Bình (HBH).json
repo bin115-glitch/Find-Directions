@@ -1,0 +1,246 @@
+{
+  "table": [
+    {
+      "id": 4597052,
+      "code": "HBH0000001",
+      "name": "CỘT ĐÔI ĐẦU NGHÁCH 1/114 TRẦN HƯNG ĐẠO",
+      "cabtype": 5,
+      "latlng": "(20.82348812999501,105.35414222627878)",
+      "branchid": 272,
+      "trubangduonglist": "",
+      "aheadcode": "",
+      "type": "trudoi"
+    },
+    {
+      "id": 4638872,
+      "code": "HBH0000003",
+      "name": "cột 1A5,số nhà 26,ngõ 114,trần hưng đạo",
+      "cabtype": 5,
+      "latlng": "(20.824099838506186,105.35377543419598)",
+      "branchid": 272,
+      "trubangduonglist": "",
+      "aheadcode": "",
+      "type": "trudon"
+    },
+    {
+      "id": 4639402,
+      "code": "HBH0000004",
+      "name": "3A3,số nhà 36,ngõ 114,đường trần hưng đạo,sủi ngòi",
+      "cabtype": 5,
+      "latlng": "(20.82397041473021,105.35382203757763)",
+      "branchid": 272,
+      "trubangduonglist": "",
+      "aheadcode": "HBH0000003",
+      "type": "trudon"
+    },
+    {
+      "id": 4639872,
+      "code": "HBH0000005",
+      "name": "3A,sn46,ngõ 114,đường trần hưng đạo,sủ ngòi,tp hòa",
+      "cabtype": 5,
+      "latlng": "(20.823750425393396,105.35395346581936)",
+      "branchid": 272,
+      "trubangduonglist": "",
+      "aheadcode": "HBH0000004",
+      "type": "trudoi"
+    },
+    {
+      "id": 4640292,
+      "code": "HBH0000006",
+      "name": "3A1,sn94,ngõ 114,đường trần hưng đạo,sủ ngòi,tp ho",
+      "cabtype": 5,
+      "latlng": "(20.823479355469612,105.3541086986661)",
+      "branchid": 272,
+      "trubangduonglist": "",
+      "aheadcode": "HBH0000005",
+      "type": "trudoi"
+    },
+    {
+      "id": 4640912,
+      "code": "HBH0000007",
+      "name": "sn114,đầu ngõ 114,đường trần hưng dạo,sủ ngòi,tp h",
+      "cabtype": 5,
+      "latlng": "(20.82305849102605,105.35435009747744)",
+      "branchid": 272,
+      "trubangduonglist": "",
+      "aheadcode": "HBH0000006",
+      "type": "trudoi"
+    },
+    {
+      "id": 4641362,
+      "code": "HBH0000008",
+      "name": "sn13,ngách 3/114,đường trần hưng đạo,sủ ngòi,tp ho",
+      "cabtype": 5,
+      "latlng": "(20.823593110884314,105.35362724214792)",
+      "branchid": 272,
+      "trubangduonglist": "HBH0000005",
+      "aheadcode": "HBH0000005",
+      "type": "trudon"
+    },
+    {
+      "id": 4641722,
+      "code": "HBH0000009",
+      "name": "sn29,ngách 3/ngõ 114,đường trần hưng đạo,sủ ngòi,t",
+      "cabtype": 5,
+      "latlng": "(20.823437363090957,105.35331107676029)",
+      "branchid": 272,
+      "trubangduonglist": "",
+      "aheadcode": "HBH0000008",
+      "type": "trudon"
+    },
+    {
+      "id": 4642002,
+      "code": "HBH0000010",
+      "name": "sn43,ngõ 154,đường trần hưng đạo,sủ ngòi,tp hòa bi",
+      "cabtype": 5,
+      "latlng": "(20.82329822408107,105.35299926996233)",
+      "branchid": 272,
+      "trubangduonglist": "",
+      "aheadcode": "HBH0000009",
+      "type": "trudon"
+    },
+    {
+      "id": 4642422,
+      "code": "HBH0000011",
+      "name": "8A,ngõ 154,đường trần hưng đạo,sủ ngòi,tp hòa bình",
+      "cabtype": 5,
+      "latlng": "(20.823286629157764,105.35299256443977)",
+      "branchid": 272,
+      "trubangduonglist": "",
+      "aheadcode": "HBH0000010",
+      "type": "trudon"
+    },
+    {
+      "id": 4645822,
+      "code": "HBH0000014",
+      "name": "sn 45,ngõ 154 đường trần hưng đạo,tp hòa bình",
+      "cabtype": 5,
+      "latlng": "(20.823242129714135,105.35293959081173)",
+      "branchid": 272,
+      "trubangduonglist": "HBH0000010",
+      "aheadcode": "HBH0000010",
+      "type": "trudon"
+    },
+    {
+      "id": 4646062,
+      "code": "HBH0000015",
+      "name": "sn45,ngõ 154,đường trần hưng đạo,sủ ngòi,tp hòa bi",
+      "cabtype": 5,
+      "latlng": "(20.823269706835685,105.3529690951109)",
+      "branchid": 272,
+      "trubangduonglist": "HBH0000011",
+      "aheadcode": "HBH0000011",
+      "type": "trudon"
+    },
+    {
+      "id": 4646482,
+      "code": "HBH0000016",
+      "name": "cột 3.5,sn44/154đường trần hưng đạo,sủ ngòi,tp hòa",
+      "cabtype": 5,
+      "latlng": "(20.82299174175458,105.3531575202942)",
+      "branchid": 272,
+      "trubangduonglist": "",
+      "aheadcode": "HBH0000011",
+      "type": "trudon"
+    },
+    {
+      "id": 4646612,
+      "code": "HBH0000017",
+      "name": "sn 44 ngõ154,đường trần hưng đạo,sủ ngòi thòa bình",
+      "cabtype": 5,
+      "latlng": "(20.82299174175458,105.3531689196825)",
+      "branchid": 272,
+      "trubangduonglist": "",
+      "aheadcode": "HBH0000016",
+      "type": "trudon"
+    },
+    {
+      "id": 4646712,
+      "code": "HBH0000018",
+      "name": "cột 3.6,ngõ 154,đường trần hưng đạo,sủ ngòi,hb",
+      "cabtype": 5,
+      "latlng": "(20.82298265382333,105.35313941538334)",
+      "branchid": 272,
+      "trubangduonglist": "HBH0000016",
+      "aheadcode": "HBH0000015",
+      "type": "trudon"
+    },
+    {
+      "id": 4646812,
+      "code": "HBH0000019",
+      "name": "sn46,ngõ 154,đường trần hưng đạo,sủ ngòi,tp hb",
+      "cabtype": 5,
+      "latlng": "(20.822976072907245,105.35313405096532)",
+      "branchid": 272,
+      "trubangduonglist": "HBH0000017",
+      "aheadcode": "HBH0000018",
+      "type": "trudon"
+    },
+    {
+      "id": 4647012,
+      "code": "HBH0000020",
+      "name": "sn 150,đường trần hưng đạo,sủ ngòi,tp hb",
+      "cabtype": 5,
+      "latlng": "(20.822559280969518,105.35340059548616)",
+      "branchid": 272,
+      "trubangduonglist": "HBH0000017",
+      "aheadcode": "HBH0000017",
+      "type": "trudon"
+    },
+    {
+      "id": 4647442,
+      "code": "HBH0000021",
+      "name": "cột 73,sn 154,đường trần hưng đạo,sủ ngòi,tp hb",
+      "cabtype": 5,
+      "latlng": "(20.822535777630403,105.35335700958967)",
+      "branchid": 272,
+      "trubangduonglist": "HBH0000020",
+      "aheadcode": "HBH0000020",
+      "type": "trudon"
+    },
+    {
+      "id": 4647982,
+      "code": "HBH0000022",
+      "name": "cột 3.8,sn 56,ngách 1/114,trần hưng đạo,sủ ngòi,hb",
+      "cabtype": 5,
+      "latlng": "(20.82295350976419,105.35308141261338)",
+      "branchid": 272,
+      "trubangduonglist": "",
+      "aheadcode": "HBH0000019",
+      "type": "trudon"
+    },
+    {
+      "id": 4648212,
+      "code": "HBH0000023",
+      "name": "cột14.1sn76,ngách1/114,trần hưng đạo,sủ ngòi,tp hb",
+      "cabtype": 5,
+      "latlng": "(20.822687139070013,105.35257413983345)",
+      "branchid": 272,
+      "trubangduonglist": "",
+      "aheadcode": "HBH0000022",
+      "type": "trudon"
+    },
+    {
+      "id": 4648412,
+      "code": "HBH0000024",
+      "name": "cột3.10,ngách 1/114,trâng hưng đạo,sủ ngòi,tp hb",
+      "cabtype": 5,
+      "latlng": "(20.822512587665564,105.35224322229622)",
+      "branchid": 272,
+      "trubangduonglist": "",
+      "aheadcode": "HBH0000023",
+      "type": "trudon"
+    },
+    {
+      "id": 4648592,
+      "code": "HBH0000025",
+      "name": "cộtA34,ngách 1/114,trần hưng đạo,sủ ngòi,tphb",
+      "cabtype": 5,
+      "latlng": "(20.82251446793312,105.35222847014666)",
+      "branchid": 272,
+      "trubangduonglist": "",
+      "aheadcode": "HBH0000024",
+      "type": "trudon"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA971-A1.6-A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.72927190734136,
+          20.13307991502811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA971-A1.6-Hậu cần nghề cá"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.73032333327029,
+          20.128335338567695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA971-A1.6-Chế biến bột cá"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.72066738083562,
+          20.12947364711471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA971-A1.6-Ủy ban"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.72689898889593,
+          20.130946807080885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA971-TA-Ủy Ban"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.72689898889593,
+          20.130946807080885
+        ]
+      }
+    }
+  ]
+}

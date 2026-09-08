@@ -1,0 +1,122 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E19.2-24_1-10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.54505348,
+          20.882089607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA375-E19.2-21-105-31"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.61893225,
+          20.836833905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA375-E19.2-21-105-32"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.61894298,
+          20.833915979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373-E19.2-19-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.5507396,
+          20.8790006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA375-E19.2-21-105-31-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.62005443,
+          20.838623607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA375-E19.2-11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.55175610999999,
+          20.88279573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA375-E19.2-21-105-31-2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.6216326,
+          20.8380401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA473-E19.2-2-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.54895577461028,
+          20.88370147681759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA375-E19.2-11-6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.5479910619699,
+          20.880777550141858
+        ]
+      }
+    }
+  ]
+}

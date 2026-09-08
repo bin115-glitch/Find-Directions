@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373-E27.3-44_2/Tu RMU số 1 KĐH-2/Tủ RMU số 2 KĐT-2/Tủ RMU số 3 KĐH-2/Tủ RMU Đa Hội 4B-2/Tủ RMU ĐH 5B-2/Tủ RMU số 4 KĐH-2/Tủ RMU ĐH6B-2/Tủ RMU ĐH 7B-2/CTBA ĐH13B-1/Tủ RMU số 5 KĐH-3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.91446993502286,
+          21.123387048560357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373-E27.3-44_2/Tu RMU số 1 KĐH-2/Tủ RMU số 2 KĐT-2/Tủ RMU số 3 KĐH-2/Tủ RMU Đa Hội 4B-2/Tủ RMU ĐH 5B-2/Tủ RMU số 4 KĐH-2/Tủ RMU ĐH6B-2/Tủ RMU ĐH 7B-2/CTBA ĐH13B-1/Tủ RMU số 5KĐH-2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.91410515460595,
+          21.124040064434812
+        ]
+      }
+    }
+  ]
+}

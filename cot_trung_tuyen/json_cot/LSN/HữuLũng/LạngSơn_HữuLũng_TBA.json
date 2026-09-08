@@ -1,0 +1,4646 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA377-E7.13-36"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.29479259,
+          21.445399556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA377-E7.13-30-17"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.3041535,
+          21.445094981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA377-E7.13-30-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.30337566,
+          21.450846839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E13.1-130-Ga Song Hóa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.48960143327712,
+          21.556307199445342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E13.1-127-10-TD Cấm Sơn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.50909841060637,
+          21.543030292852325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E13.1-127-4-Thủy Sản"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.50575369596483,
+          21.550913758597055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E13.1-127-3-TBA E141"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.50091230869293,
+          21.551612272878355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA377-E13.7-12-TBA Đồng Lai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.36245399713515,
+          21.53961232810007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA379-E13.7-6-TBA Hồng Phong (Đông Phong)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.38087029999998,
+          21.5460914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA379-E13.7-30-13-TBA Cty Tiến Long"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.40812128782282,
+          21.56111173315654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA377-E13.7-26-TBA Bãi Vàng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.34458243846893,
+          21.539073429961817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA381-E13.7-71-64-60-41A-TBA Ga Voi Xô"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.33847236633301,
+          21.439008350157835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E13.1-107-TBA Kai Kinh 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.42178450000002,
+          21.55509650000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA377-E13.7-6E-11_1-TBA CTTNHH Yên Vượng 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.36374682188043,
+          21.545644856807307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA377-E13.7-6E-11-4-TBA Cty Đông Phong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.36224478483201,
+          21.54640327112544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA377-E13.7-6E-13-TBA Võ Nói 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.36300116777426,
+          21.546203688794428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA377-E13.7-6E-11-TBA CTTNHH Yên Vượng 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.36394530534747,
+          21.545579992240846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373-E13.7-12-TBA Võ Nói"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.36781101522726,
+          21.531997878856764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA377-E13.7-17-9-TBA Trường Sơn 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.3606569170952,
+          21.546667717291182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA379-E13.7-67-TBA Hòa Lạc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.4565445,
+          21.553743099999984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA381-E13.7-71-53-TBA Hòa Sơn 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.44648112579473,
+          21.50263437879692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA377-E13.7-6E-11-2-TBA Võ Nói 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.36290460824972,
+          21.54617874098376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA381-E13.7-71-31-4-TBA Chiến Thắng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.46639093756666,
+          21.52045401951583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA377-E13.7-18-TBA Mỏ Đá HàThanh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.35581821203232,
+          21.547885161346986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA377-E13.7-18-12-TBA Mỏ Đá Vĩnh Thịnh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.35586649179459,
+          21.54800490939085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA381-E13.7-71-64-36-TBA Thụy Hòa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.39752119779587,
+          21.477551059528214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA377-E13.7-18-8-TBA Kho K87"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.35296434164054,
+          21.54796499338722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA381-E13.7-71-64-60-13A-TBA Suối Ngang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.366994,
+          21.450795100000015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA377-E13.7-17-9-TBA Trường Sơn 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.36057108640671,
+          21.54665274865311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA381-E13.7-71-45-TBA Đồng Lầm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.4471674,
+          21.518419700000017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA381-E13.7-71-64-2-TBA Đồng Sơn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.4084490746917,
+          21.50828839021612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA381-E13.7-71-61-16-TBA Bắc Lệ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.4251192,
+          21.513914400000008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA381-E13.7-13-TBA Kai Kinh 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.3951702,
+          21.540237399999995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA381-E13.7-71-64-20-TBA Tân Thành 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.41590774059296,
+          21.477985355808713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA381-E13.7-71-TBA Tân Thành 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.43067150941883,
+          21.49569759378649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA381-E13.7-71-61-13-TBA Trường PTTH Tân thành"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.43358081579207,
+          21.508871979084294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA381-E13.7-71-61-17-TBA Ga Bắc Lệ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.43193393945693,
+          21.51547471611858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA381-E13.7-71-52-TBA Trai Dạ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.46197468042372,
+          21.48951120549795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA381-E13.7-71-44-TBA Hòa Sơn 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.4595177769661,
+          21.510239463986075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA375-E13.7-6I-3-TBA Thạch Kỳ Viên 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.36963143752645,
+          21.544579148315712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA377-E13.7-75-TBA GP Việt Nam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.2966731,
+          21.5523477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA381-E13.7-71-64-51-TBA Ga Phố Vị"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.37849940000001,
+          21.472956700000008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA381-E13.7-19-TBA Đồng Ngầu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.3962498307228,
+          21.546887257138103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373-E13.7-12-TBA Cty TNHH Chế biến lâm sản công nghệ cao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.3648036122322,
+          21.535086519552163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA381-E13.7-71-61-17-TBA Tân thành 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.43227726221089,
+          21.51348344605939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373-E13.7-20-TBA Cty gạch Tân Thành"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.36634856462479,
+          21.52523603626597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA375-E13.7-6I-3-TBA TKỳ Viên 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.3696689884526,
+          21.544514283272967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373-E13.7-8-TBA Đá Bia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.37138575315477,
+          21.536024625969254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373-E13.7-29-TBA Đồng Tân 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.36282950639726,
+          21.51641793978244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373-E13.7-38-2-3A-TBA Vĩnh Thịnh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.3536951,
+          21.510674999999996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373-E13.7-25-2-TBA Lâm sản Woodman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.36088657756284,
+          21.524385836222795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373-E13.7-23-TBA Đồng Tân"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.362988,
+          21.5227964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373-E13.7-32-TBA Rừng Dong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.35926216840744,
+          21.516902025740748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373-E13.7-25-TBA Thịnh Lộc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.36162251234055,
+          21.52326985172015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA375-E13.7-37-56-8-TBA Xóm Diễn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.3552710413933,
+          21.62156140186944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA381-E13.7-60-TBA TBA Thịnh Vượng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.44560247659682,
+          21.55292946208638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373-E13.7-38-TBA Tân Mỹ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.3536090810204,
+          21.51071948427019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E13.7-46-TBA Cầu Sẩy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.3573075,
+          21.507237499999967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA375-E13.7-37-29-TBA Cấp Nước Yên Vượng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.3596859574318,
+          21.597203007383406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373-E13.7-44-TBA UB Huyện"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.34696692228316,
+          21.504210455802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373-E13.7-42-6-TBA Cầu Mẹt 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.34678721427919,
+          21.508058469190544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA375-E13.7-72-TBA trục quan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.3691779,
+          21.587281499999982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373-E13.7-39A_1-TBA Ao Đẫu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.35361050000002,
+          21.507878600000005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA381-E13.7-71-64-60-TBA TBA Voi Xô"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.33432100000002,
+          21.428229100000006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA375-E13.7-37-56-TBA Xóm Làng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.3667124,
+          21.626792999999996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373-E13.7-44-TBA Bờ Hồ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.3467316,
+          21.504660799999986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373-E13.7-42-6-TBA Đầu Cầu 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.34904563426963,
+          21.508482692709237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA375-E13.7-TBA yên vượng 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.36743754148483,
+          21.575364745247125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373-E13.7-59-TBA Dốc Mới 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.3379507,
+          21.495065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E13.7-77-TBA Dốc Mới 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.3410461,
+          21.493694500000004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA377-E13.7-TBA Quyết Thắng 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.21172457933424,
+          21.63682569939697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E13.7-114-5-TBA Trường CĐ Nghề và NL Đông Bắc 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.29155248403548,
+          21.46484607230233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373-E13.7-44-TBA Bệnh viện"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.34828578318735,
+          21.503317544030086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA381-E13.7-57-TBA C.ty Việt Bắc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.4317837357519,
+          21.552964387395196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA377-E13.7-178-TBA Kép 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.23133127130284,
+          21.6268366696939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373-E13.7-50-TBA Trường THPT hữu lũng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.3421604037285,
+          21.502633289895844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373-E13.7-52- TBA Tân Lập  "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.34139432698365,
+          21.50162930000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA377-E13.7-184-TBA Quyết Thắng 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.2255535,
+          21.63055320000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA377-E13.7-197-TBA Kép 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.21370673179622,
+          21.63736423385564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA377-E13.7-193-TBA Quyết Thắng 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.22899330000001,
+          21.643566399999997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E13.7-114-5-Trường CĐ Nghề và NL Đông Bắc 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.29151012384887,
+          21.464907709494465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373-E13.7-95A-TBA Hải Sơn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.29723499999999,
+          21.456997799999993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA377-E13.7-90A-TBA Lân Nặm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.19880706071854,
+          21.52298540149875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA375-E13.7-37-52-TBA Xóm Chùa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.3413458,
+          21.61705879999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA375-E13.7-37-16-TBA Hoàng Khánh 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.37212067842484,
+          21.590534156953396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA375-E13.7-37-22-TBA Mỏ Đá Đạt Anh 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.36072665452957,
+          21.588010188774366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA375-E13.7-69-14-TBA trường bắn yên sơn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.3831278,
+          21.582912100000005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA375-E13.7-26-TBA MĐ Đèo Phiếu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.36943942453685,
+          21.563827764021497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA375-E13.7-37-13-30-TBA UB YÊN SƠN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.4035963,
+          21.592670500000004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA377-E13.7-90A-96-TBA Ktđ Đồng tiến"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.19840680000001,
+          21.52245330000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA375-E13.7-37-13-TBA thac trai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.41304045915604,
+          21.594055667490057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA375-E13.7-37-67-TBA Cầu Coong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.37509247913326,
+          21.698427673600772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA375-E13.7-37-13-18-TBA Làng Hạ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.39006465673445,
+          21.59053914498926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA375-E13.7-188-TBA Ba lẹng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.3758503,
+          21.675811699999997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA375-E13.7-83-TBA Cây Hồng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.35029640000002,
+          21.57801389999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA377-E13.7-90A-94-TBA PHước Hậu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.19973980000002,
+          21.5229521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA377-E13.7-90A-86-TBA Hải Cung 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.20701260000001,
+          21.52254330000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373-E13.7-85-TBA Văn Miêu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.3078465,
+          21.471070300000015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA375-E13.7-37-67-76-40-TBA Lân châu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.384348,
+          21.729988999999968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA377-E13.7-90A-79A_1- TBA MĐ Đồng tiến"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.21328257539359,
+          21.522624726462457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373-E13.7-75-TBA Minh Sơn 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.3234868645668,
+          21.482448049440066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA377-E13.7-90A-79-TBA Huyền sơn 1.2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.2146320939064,
+          21.5297222308068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373-E13.7-85-TBA Cã Ngoài"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.33331447839737,
+          21.48906696055373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E13.7-130-TBA Thực Giai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.29686325788498,
+          21.445943794048457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373-E13.7-94-TBA Võ Văn Minh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.29735678434373,
+          21.458790220930375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E13.7-115-TBA Bến Lường 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.29655212163925,
+          21.460108251226004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA377-E13.7-90A-85-TBA Hải Cung 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.20823327790983,
+          21.522224184641875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373-E13.7-98B-TBA Bến lường 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.29608608782287,
+          21.451403538946266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373-E13.7-64-13-TBA Nà Lim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.32246226072311,
+          21.498879965541104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373-E13.7-42-7-3- TBA An Ninh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.34482115507127,
+          21.50677580937578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA381-E13.7-28-1-TBA Xăng dầu nhật Quang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.4045003056526,
+          21.548603648127827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E13.7-114-TBA trường lâm nghiệp "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.29612165680867,
+          21.465177752575727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373-E13.7-81-TBA Minh Sơn 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.31163686513901,
+          21.478828985111505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA379-E13.7-17-TBA QUÂN VĨNH LỘC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.3930587,
+          21.549085399999996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373-E13.7-64-4-TBA Coóc mò"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.3312491774559,
+          21.500257526687765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA379-E13.7-17-4-TBA THỊNH AN BÌNH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.39301594722149,
+          21.548968073737672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373-E13.7-38-2-5-TBA Tân Mỹ 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.3512585,
+          21.509266199999978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373-E13.7-64-TBA Hố Mười"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.31247907876968,
+          21.51486086885865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA381-E13.7-28-TBA Hồng Châu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.4050672,
+          21.53626330000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA381-E13.7-71-64-2-14A-TBA Vườn Chè"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.41861450000002,
+          21.50156139999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA381-E13.7-71-63-TBA Cây Sấu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.44089251756668,
+          21.48501877841742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA381-E13.7-71-64-TBA  Phú Hòa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.38939767709489,
+          21.434648732243566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA375-E13.7-CDPT05-TBA K56"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.37109461810088,
+          21.543722464927523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA381-E13.7-13-8A-TBA Đá Đỏ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.39833144480892,
+          21.5197942002345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA377-E13.7-193-14-TBA Gốc Mỏ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.23452055821834,
+          21.649167713254453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA381-E13.7-71-14-TBA Tam Hợp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.48002449049862,
+          21.545361554704012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA377-E13.7-184-TBA Kép 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.22962584893232,
+          21.633244001835823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA377-E13.7-169-TBA Làng Trang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.23703411010233,
+          21.61774742608475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA377-E13.7-164-9-TBA Yên Bình 4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.24912384530356,
+          21.63894353102369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373-E13.7-81-5-TBA C.ty Thành An"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.31166021891092,
+          21.479784158858806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373-E13.7-81-5-2-TBA Bãi Lạc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.31033319610236,
+          21.485771126456303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E13.7-102-TBA Hố Rỗng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.3007422870518,
+          21.468986403973723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA381-E13.7-71-64-52-TBA  Cốc Lùng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.38684656088893,
+          21.464826583728144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E13.1-134-145-20-TBA Đồng Mạ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.23890194675472,
+          21.5920266759553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA381-E13.7-71-64-69-TBA  Đất Đỏ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.3857897704488,
+          21.443672441597567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA379-E13.7-32-TBA Cty Hiếu Hằng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.4082646704815,
+          21.550879937039362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA381-E13.7-71-64-1-24-TBA Tám Lăm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.39858726045675,
+          21.503502836080276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA375-E13.7-37-36-TBA MĐ Lân Đa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.3521206714088,
+          21.599967329480457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA381-E13.7-54-TBA Vân Tảo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.42887744673448,
+          21.543156138868305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA377-E13.7-145-66-TBA Gốc Sau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.19241390001787,
+          21.572968827198675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA375-E13.7-37-67-27-TBA Ba Mìn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.36138678275904,
+          21.655000561717447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA379-E13.7-11-TBA Ba Nàng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.38842881401492,
+          21.54530849429244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA381-E13.7-71-64-60-21A-TBA Phì Phà"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.36043996290509,
+          21.445429948873866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E13.1-127-2-TBA Thinh Hoa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.4967775680896,
+          21.55174060615986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA377-E13.7-164-9-8-TBA Đồng La 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.25369634096262,
+          21.63537823506431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA377-E13.7-134-Hòa Bình 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.2989901,
+          21.61959629999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA377-E13.7-164-TBA Yên Bình 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.24461382627486,
+          21.62390027011823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA377-E13.7-134-13-Hòa Bình 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.2815716,
+          21.607690399999996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA377-E13.7-134-4-TBA Đồng Lươn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.27304524183272,
+          21.601522383042767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E13.1-134-156-Yên Bình 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.2541052,
+          21.6165802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA377-E13.7-151-TBA Đồng Xa 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.25279847165967,
+          21.60669310128046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA377-E13.7-138-TBA Yên Bình 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.26699417829514,
+          21.602041098469307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA377-E13.7-134-22-Hòa Bình 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.2860521,
+          21.616889400000023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA377-E13.7-134-6-TBA Đồng Bưa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.2687257507948,
+          21.60558462981612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA377-E13.7-145-TBA Thiện Kỵ 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.18961244821548,
+          21.56493329427391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA377-E13.7-145-58-TBA Thiện Kỵ 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.19663159999999,
+          21.579575800000015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E13.1-134-145-35-TBA Tân Lập 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.2217867709424,
+          21.58860238408238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA377-E13.7-145-13-TBA Tân Lập 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.24230030548367,
+          21.587155827137813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E13.1-134-145-Tân Lập 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.2217867709424,
+          21.58860238408238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373-E13.7-84A-1-TBA Vạn An Phát"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.30887273334903,
+          21.472108375281042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA377-E13.7-158-Đồng Xa 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.2468386031464,
+          21.611899935652314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA377-E13.7-40-TBA Tự Nhiên"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.33059326187559,
+          21.546855929411908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373-E13.7-84A-TBA Cty Hoàng Thiên"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.30896270275086,
+          21.472194632244857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA377-E13.7-141-TBA TB Đồng Bụt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.26284066214393,
+          21.602468644858586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373-E13.7-39A_2-TBA Cty CP Bê Tông Lạng Sơn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.3532525637137,
+          21.507807534508895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA379-E13.7-17-3-TBA Quân Vĩnh Lộc 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.39409992470351,
+          21.548425131032264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA375-E13.7-25-TBA MĐ Đèo Phiếu 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.36809322612488,
+          21.563906677790918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA379-E13.7-6-5-TBA Hợp Tiến"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.3805923201098,
+          21.54602516874629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA377-E13.7-6E-11-4_1-TBA Cty Hoàng Khánh Linh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.36235061661463,
+          21.546559051524174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA379-E13.7-17-3-TBA Quân Vĩnh Lộc 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.39409992470351,
+          21.548425131032264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA377-E13.7-90A-82-TBA Cty Xi Măng Bắc Giang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.21132608872168,
+          21.522070772092107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373-E13.7-95A-TBA BOT Bắc Giang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.29650774973518,
+          21.457056400422434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA377-E13.7-TB Tân Cao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.19576026593077,
+          21.640375416864433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA381-E13.7-66-TBA Chằm Non"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.4532050826595,
+          21.553097708797694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA381-E13.7-71-45-17 TBA Đồng Lầm 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.44509676480165,
+          21.51886191520566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373-E13.7-42-7A-TBA Chi cục Thuế Huyện HL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.34684610742654,
+          21.508612311810214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA377-E13.1-153_1-3-TBA Bê Tông Lạng Sơn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.35537687323352,
+          21.507717698626383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LDA372-E13.1-132"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.37583064681884,
+          21.544005125010294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA377-E7.13-30-22-6-6-7-8-6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.33107337751954,
+          21.442092747633744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA379-E13.7-30-TBA Cty Lân Lừa(Tiến Long)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.40897545598787,
+          21.561828764081135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA375-E13.7-37-16-1-6-TBA Hoàng Khánh 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.3721493964813,
+          21.590474157425597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA375-E13.7-6I-TBA Gốc Me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.37156451375729,
+          21.54539325377801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA377-E13.7-102-TBA MĐ Lân Cần"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.27486914396286,
+          21.5710445892997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA377-E13.7-90A-91-TBA Đồng Phú"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.2024324596628,
+          21.52307809417699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA377-E13.7-125-TBA Hai Nồi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.27823117720463,
+          21.59437496525612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA377-E13.7-96_1-TBA Mỏ đá An Sơn 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.2792546,
+          21.56665839999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA377-E13.7-96_2-TBA Mỏ đá An Sơn 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.27920213713159,
+          21.566695475558614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E13.1-134-145-52-1-TBA Quyết Tiến"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.20253655660862,
+          21.584245834517116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E13.1-134-145-37-TBA Đá Mài"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.22149977427384,
+          21.5787443110003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E13.1-128-6-TBA Đồng Luônh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.50301102181051,
+          21.5449000168514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E13.1-123-TBA Phuong Đông"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.4947974272404,
+          21.557478269674686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E13.1-134-93-TBA Đồng Hoan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.28239756295966,
+          21.56486584624868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E13.1-134-TBA Quyết Thắng 4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.21907329024023,
+          21.636043975310393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373-E13.7-78-TBA Cty Hoa hồi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.31667259711894,
+          21.482711220891424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA375-E13.7-78-TBA Mỏ Đá Đạt Anh 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.36078420658365,
+          21.587948941193375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA377-E13.7-90A-79A-TBA Mỏ Đá Lân Hà"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.2112888268103,
+          21.526915009630795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA377-E13.7-48-TBA Sơn Thủy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.32131281873144,
+          21.547659243020295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA377-E13.7-134-6-5-TBA Tô Hiệu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.2720180540711,
+          21.611740341999525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA377-E13.7-156-7-TBA Hoàng Văn Đoàn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.25414649518144,
+          21.61648443803775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA375-E13.7-7-TBA Gốc Me 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.37430275302583,
+          21.542830250857794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA375-E13.7-7-TBA Gốc Me 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.37430275302583,
+          21.542830250857794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA381-E13.7-71-64-28-TBA Thị Hòa 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.40492419212138,
+          21.476846742040184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA377-E13.7-90A-66-TBA Lay 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.22567417559165,
+          21.527795261601327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA381-E13.7-71-64-20-1-TBA Đồng Cẩy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.4186638077297,
+          21.47351957411275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA375-E13.7-37-67-66-TBA Ao Vải"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.37941236110996,
+          21.687781398997917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA381-E13.7-93-64-60-2B-TBA Lán Thán"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.37907440257516,
+          21.454358799859474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA375-E13.7-16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.37287045338194,
+          21.55273567040544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA381-E13.7-71-61-16-5A-TBA Gốc Gạo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.42755734200733,
+          21.511904054037096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA381-E13.7-71-34-4-TBA Hòa Sơn 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.45954134336345,
+          21.51868256882961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA381-E13.7-71-64-60-44A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.33688035975136,
+          21.41626597736194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA381-E13.7-71-61-17-2-4-TBA Gốc Đào"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.43400671355927,
+          21.51745489881822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA381-E13.7-71-52-10-TBA Đoàn Kết"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.45443441736128,
+          21.49548234384325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA381-E13.7-71-52-10-TBA Đoàn Kết"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.45443441736128,
+          21.49548234384325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA381-E13.7-71-36-TBA Hòa Bình"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.46607520451319,
+          21.51180049613362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA381-E13.7-71-52-17"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.46778221729838,
+          21.46775831451858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA381-E13.7-28-14-TBA Hồng Châu 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.41025441127577,
+          21.535322462807116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373-E13.7-98C-TBA Vi Vũ Quang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.2978075178014,
+          21.449740124875145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373-E13.7-44-7-2A- TBA NHNN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.34561384450059,
+          21.507415437736235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA381-E13.7-71-8A-TBA Chín Sáu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.46490844352556,
+          21.546075376136198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373-E13.7-94"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.29724996928536,
+          21.45752894808822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373-E13.7-44-TBA Huyện ủy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.34575801324308,
+          21.50511025016816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA381-E13.7-71-64-51-1A-23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.36976156019007,
+          21.478178648786816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA381-E13.7-71-64-8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.4263597671795,
+          21.489875487466456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA381-E13.7-71-64-51-1A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.36967572949742,
+          21.479032260705452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.23523268459635,
+          21.545269903912295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.25018264692885,
+          21.536594612091314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA377-E13.7-80-18-TBA Nhị Liên"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.28748818494365,
+          21.542672738575483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA379-E13.7-31-1-TBA Làng Giãn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.40579774246123,
+          21.55009719711892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA381-E13.7-59A-TBA Làng Cống"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.43721713871037,
+          21.498103041236277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA377-E13.7-90A-15A-TBA Đồng Khu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.27435072524293,
+          21.55153663990039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA381-E13.7-71-33-55-TBA Hố Mười"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.49558737126894,
+          21.502657452585638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA381-E13.7-71-31-28-TBA Suối Trà"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.48795581309287,
+          21.522035782603382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.36953223092509,
+          21.470603247726185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.35650876512524,
+          21.434958634026785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA381-E13.7-66-2-TBA Chín Tư"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.4518666601608,
+          21.54573826830074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.2113147554413,
+          21.631190871612223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.3429157339909,
+          21.531853214157874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373-E13.7-64-22-TBA Coóc mò 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.33055611472398,
+          21.506768537260957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.46167724370164,
+          21.502969152472403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373-E13.7-69A-TBA Cã Ngoài 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.32915734277569,
+          21.486489029949205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E13.7-65-10A-TBA Làng Gai 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.34708432716141,
+          21.497348729399093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.36357991260805,
+          21.49162865620227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.35385958707978,
+          21.49581391507312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E13.7-65-10A-TBA Làng Gai 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.34708432716141,
+          21.4973537206389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E13.7-65-6A-TBA Tân Lập 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.34390859169469,
+          21.499010802740365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.3760468200409,
+          21.505242160870814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E13.7-77-27-26-5_1-TBA Cty Lê Gia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.36433093110817,
+          21.49371506148201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.38286499532805,
+          21.51412082339597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.3635504082061,
+          21.500962342082076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.38045368941815,
+          21.510335355400954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.385482831288,
+          21.499474981978008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.37928424624278,
+          21.485439143952203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.38564376383337,
+          21.49917052048575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.37842593935909,
+          21.4775870694861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.37571690826405,
+          21.491888210626428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.35702911399311,
+          21.470555822269304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.3832565978111,
+          21.49804750127156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.37324927585682,
+          21.480100478232007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.35207105059126,
+          21.46265801349699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.34026933094916,
+          21.445157250996882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.34373876829838,
+          21.45056584870417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.34007218832977,
+          21.50832221815308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373-E13.7-52-13-TBA Vườn Ươm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.34150717011855,
+          21.508986001435545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.34157690758272,
+          21.506053853155628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.34463864904073,
+          21.513309252607975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.3269105887801,
+          21.45104079212229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.34024384970611,
+          21.50809762913732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.33800554616862,
+          21.512293643252406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.32171917295281,
+          21.535271627936567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.31199348306296,
+          21.539403237404887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.35873097493118,
+          21.49087124200806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.35949808674964,
+          21.487962438482445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.33308771583025,
+          21.5250618568893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.3034238252579,
+          21.546713103738117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.36022228318134,
+          21.488172083923995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.35520655228733,
+          21.493566606503386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.24101955002754,
+          21.528674156901477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.23500570195546,
+          21.52590802014361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.23501911299417,
+          21.52570092423675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.23197748796846,
+          21.522819016824737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.20395645020143,
+          21.51436259663264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.21241613745575,
+          21.51891400343714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.21665000440669,
+          21.52042985975132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.2200262348617,
+          21.519296399945933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA377-E13.7-90A-74-4-14-TBA Hoàng Văn Thao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.21573738265204,
+          21.506652452813373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.1810591021728,
+          21.521296323574845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.18839628489158,
+          21.514381935395388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.24393135739152,
+          21.51054243669614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.2492904109394,
+          21.50420649462283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.24393135739152,
+          21.51054243669614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.23623609955288,
+          21.53232184643719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.23608522528451,
+          21.532525190378315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.23657405783617,
+          21.53010874732509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA377-E13.7-145-TBA Thanh Sơn 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.21122959634711,
+          21.542130758793284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.2663496620259,
+          21.545238062277583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.22853051499617,
+          21.555740779426394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.29603836317705,
+          21.551856608986217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.2859425284661,
+          21.55796471331003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.25679295143938,
+          21.526717999438997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.27894464516142,
+          21.553726362337766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.33369389531892,
+          21.536340094403624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.25014442572152,
+          21.527437838527483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.26877907295932,
+          21.518689118993116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.27993303896586,
+          21.501361669045806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.33643108960423,
+          21.53257329418475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.27363118891158,
+          21.522939097526294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.34958464285684,
+          21.500419595501068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.25316459300326,
+          21.54489003760808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA377-E13.7-90A-8-21-15-13-TBA Thanh Sơn 4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.23026389243664,
+          21.566194094567656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.29573795540689,
+          21.445776385173446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E13.7-41-TBA Khánh Tùng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.36131650629767,
+          21.5078668011097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373-E13.7-84A-1-TBA Đặng Văn Định"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.30856159710723,
+          21.47188123431338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373-E13.7-98B-4-TBA Cty Đại Việt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.29479738723444,
+          21.45045070109313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA377-E7.13-30-14A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.30101902955565,
+          21.444129202386765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.21665494172714,
+          21.510529324595925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E13.7-77-27-26-5_2-TBA Cty Junma Phú Thọ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.36419789525887,
+          21.493582118540612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.38481202600961,
+          21.63008010364676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.43098499259513,
+          21.58064801272802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.34296025702066,
+          21.40679951199472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.37861016769016,
+          21.497936410177175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.32030967249906,
+          21.491941831954612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.28558579454895,
+          21.508869265750246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.32634196049348,
+          21.543021343065934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA375-E13.7-83-12-TBA Yên Vượng 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.35811809084842,
+          21.581219804251205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.1831066344997,
+          21.529708290054984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.23325321434851,
+          21.62467177085221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.357007655914,
+          21.485769803737757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA375-E13.7-78_1-TBA Yên Vượng 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.36316600819644,
+          21.59086696491203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA375-E13.7-37-13-39-9-TBA Bãi Danh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.41155171768628,
+          21.587042346639343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.18904504531525,
+          21.581743506012575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.34943309793975,
+          21.50777259832964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.20595099155928,
+          21.505296788294622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.2577389900555,
+          21.51429667887468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.37205458742586,
+          21.70754687668635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.37407187001676,
+          21.470573294819648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.41716625149013,
+          21.51142837343279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.3823062516744,
+          21.591484231616523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.32522884392122,
+          21.529960366118157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.34218308699054,
+          21.43324339883067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.35038528207444,
+          21.626261398101647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.18678595473513,
+          21.555747015939538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.21763484794339,
+          21.52050621039672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.21853070575142,
+          21.52097032102317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.2141236997494,
+          21.529506264464143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.35156679511482,
+          21.460313425103045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.20623800522395,
+          21.522544858446025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.36139038574893,
+          21.652505810537438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.23438242451756,
+          21.64919513633001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.26869592424286,
+          21.60553413116174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.29767585157846,
+          21.449978564309042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA377-E13.7-90A-97-TBA Cty Tân Phát"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.19891016726584,
+          21.523309591429236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.34615137229183,
+          21.45274891308687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.43285382340407,
+          21.51014050050177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.364292536008,
+          21.527944343635852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA375-E13.1-93-78-38-TBA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.41992364483477,
+          21.668001941593186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.46678644705882,
+          21.471340836982602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.33329156417264,
+          21.420790486447554
+        ]
+      }
+    }
+  ]
+}

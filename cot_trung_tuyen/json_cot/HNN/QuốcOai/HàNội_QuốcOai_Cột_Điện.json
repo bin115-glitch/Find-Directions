@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "COT372-E19.2-22-45"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.5328,
+          20.925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "COT372-E19.2-22-46"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.5322,
+          20.92596
+        ]
+      }
+    }
+  ]
+}

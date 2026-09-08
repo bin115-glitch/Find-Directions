@@ -1,0 +1,30 @@
+[
+  {
+    "ID": "247142",
+    "Name": "NBHU96001.001/B",
+    "XCoordinate": "20.3364561368",
+    "YCoordinate": "105.918838903",
+    "Type": "2",
+    "length": "1.5X1.5X1.5",
+    "ownername": "Nhà nước",
+    "materialname": "Bê tông",
+    "capacityLid": "2",
+    "angle": null,
+    "StartDeviceID": null,
+    "StartDeviceName": null,
+    "StartNameFace": null,
+    "StartConnectType": null,
+    "LatLngTube": null,
+    "LatLng": [
+      {
+        "XCoordinate": null,
+        "YCoordinate": null
+      },
+      {
+        "XCoordinate": null,
+        "YCoordinate": null
+      }
+    ],
+    "tPipePlugSize": ""
+  }
+]

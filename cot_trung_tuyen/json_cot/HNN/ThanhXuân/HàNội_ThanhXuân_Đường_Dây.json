@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LDA123-1111"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            105.8105005876594,
+            20.996982535111027
+          ],
+          [
+            105.78200479907973,
+            20.995059367430674
+          ]
+        ]
+      }
+    }
+  ]
+}

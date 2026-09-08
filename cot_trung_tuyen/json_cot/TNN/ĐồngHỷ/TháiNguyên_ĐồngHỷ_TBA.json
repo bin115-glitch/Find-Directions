@@ -1,0 +1,4360 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA376TCCN-E6.2-156-Ao Sen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.92846604,
+          21.611510972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-185-1-12-21-Bờ Tấc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.94515701,
+          21.57207998399999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-127-11-Ba Cóc 180 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.91782899,
+          21.59289996100001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-185-1-40_1-Cao Phong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.00067002,
+          21.580971003999984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-185-1-30-Cầu Đã"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.98624601999998,
+          21.58178698300001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-185-28-26-Cây Thị 3 100 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.97494101,
+          21.629678998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-185-1-29-Cầu Đã 2 100 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.98773398000002,
+          21.58568900999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-185-19-Bơm Cây Thị 180 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.95988795,
+          21.602258859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-185-1-58-Cụm xã Hợp Tiến"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.02005191000002,
+          21.57335587800001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-185-1-30-16-Bảo Nang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.97102397999998,
+          21.57552100699999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA376TCCN-E6.2-148-5_2-10-11-Đồng Mỏ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.93628903999999,
+          21.618697028999996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-185-28-Cây Thị 4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.99124554185762,
+          21.657486636674616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-185-1-72-Đèo Bụt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.04203404,
+          21.539593991000004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA376TCCN-E6.2-170-11-Chí Son"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.94496498,
+          21.607309962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA376TCCN-E6.2-148-Đồng Chốc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.92010702,
+          21.612685025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA376TCCN-E6.2-152-K22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.92220903,
+          21.610297021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-185-1-72-Đồn Trình"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.03185486,
+          21.557268100999995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-185-28-11-Cây Thị 5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.97460498,
+          21.614255039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-127-Hoàng Gia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.89075981,
+          21.598044956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-185-1-30-Làng Tràng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.97596,
+          21.570097999999987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-185-1-70-Đồn Trình 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.02275900999999,
+          21.558844036999993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-185-1-56-Mỏ Sắt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.02835997000001,
+          21.58145296399999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA376TCCN-E6.2-165-Nam Hòa 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.93415802,
+          21.602523979000004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-185-1-12-13B-Na Tiếm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.95639496,
+          21.580774029999997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-127-14-Na Quán"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.90286897000001,
+          21.597647974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA376TCCN-E6.2-148-5_1-Nam Hòa 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.91780099,
+          21.611785981999986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-172-Quá tải Trại Cau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.94702098,
+          21.59462898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-180-Quá tải Trại Cau B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.95255361604214,
+          21.587954906226305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-185-1-4-Tổ 14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.95792198,
+          21.59030299599999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-185-1-18-Tổ 16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.97353301999999,
+          21.585340993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-45-Thị Trấn 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.84478814953496,
+          21.62630846644862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-185-1-5-TT Trại Cau 250 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.95722996999999,
+          21.587233039999997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-127-9-Trại Gião"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.91341801,
+          21.602133968999993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-185-1-51-UB Hợp Tiến"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.01235798999998,
+          21.576835038000006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-156-Anh Thắng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.93534398,
+          21.60689204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA376TCCN-E6.2-148-5_2-10-11-2-Anh Thắng 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.93553399999999,
+          21.614847975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-185-1-12-Trại Đèo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.94177089000002,
+          21.578956664999993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-185-UB Cây Thị 160 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.96580398,
+          21.60858904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-185-1-12-3-UB Tân Lợi 180 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.96682398,
+          21.583158011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-167_1-H&P 400 kVA (KH)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.94168003000001,
+          21.59859496199999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-185-1-33-Đặng Quốc Lưu 180 kVA (KH)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.99357096000001,
+          21.58373099799998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-171-Hải Bình 400 kVA (KH)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.947629,
+          21.598298997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-171-Hải Thành 560 kVA (KH)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.9475,
+          21.59814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-156-Anh Thắng 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.93538899,
+          21.606915006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-185-1-12-14-4-Đức Hạnh 320 kVA (KH)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.95794503,
+          21.578286029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-185-1-14-4-Kim Sơn 2 630 kVA (KH)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.96868501,
+          21.589831011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-185-5-Khoáng sản 630 kVA (KH)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.950563,
+          21.595904035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA376TCCN-E6.2-170-Luyện kim đen 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.944638,
+          21.616872037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-185-1-14-Kim Sơn 560 kVA (KH)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.97505299,
+          21.595652997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA376TCCN-E6.2-156-9-Trần Minh Thoản"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.92837099,
+          21.611484988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA376TCCN-E6.2-170-15-Luyện kim đen 2 400 kVA (KH)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.93997498,
+          21.610843018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA376TCCN-E6.2-170-Luyện kim đen 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.94462099,
+          21.616930962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-185-1-12-Nhẫn 3 560 kVA (KH)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.9654496,
+          21.585962931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-185-1-12-14-Nhẫn 2 630 kVA (KH)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.95998904,
+          21.577948993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373TCCN-E6.2-25-48A-24-Bình Minh 180 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.82107802,
+          21.681919964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373TCCN-E6.2-25-48A-43-42-Chè Hòa Bình 400 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.82597297,
+          21.725913975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-184-Trung gian Trại Cau 6400 kVA (KH)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.95489603,
+          21.590053969999992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373TCCN-E6.2-25-48A-43-52-Hoà Bình 2 180 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.82938592,
+          21.731827106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-185-17-Pha Phi Cóc 320 kVA (KH)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.964513,
+          21.599206002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373TCCN-E6.2-25-54-Hóa Trung 3 250 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.84664316,
+          21.653237175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373TCCN-E6.2-25-38-Hóa Thượng 250 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.82214026,
+          21.654932499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373TCCN-E6.2-25-60-Kho Xăng Dầu 50 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.84379289,
+          21.667577187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373TCCN-E6.2-25-56-HTX Tân Long 180 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.83558391,
+          21.666501956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373TCCN-E6.2-25-48A-43-33-Hòa Bình 1 250 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.82418952,
+          21.720562209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373TCCN-E6.2-25-48A-57-Minh Lập 250 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.80092901,
+          21.697019963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373TCCN-E6.2-25-48B-KM7 160 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.82877202,
+          21.66071903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373TCCN-E6.2-25-48A-Minh Lý 250 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.79402803,
+          21.683072979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373TCCN-E6.2-25-48A-78-Minh Lập 6 180 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.80579798,
+          21.668928014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373TCCN-E6.2-25-48A-78-16-Minh Lập 5 100 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.79977298,
+          21.673291968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373TCCN-E6.2-25-48A-45-Minh Tiến 180 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.81239303,
+          21.69762698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373TCCN-E6.2-25-43-Tướng Quân 100 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.823333,
+          21.663151961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373TCCN-E6.2-25-31-06-Sông Cầu 3 Re2 100 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.81111202,
+          21.657450004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373TCCN-E6.2-25-31-Bơm Việt Cường 320 kVA (KH)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.81213897,
+          21.649574032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373TCCN-E6.2-25-42-Trung đoàn 601 180 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.81906382,
+          21.657060356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373TCCN-E6.2-25-48A-48-Bơm Trại Cài 320 kVA (KH)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.80191699,
+          21.703264983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373TCCN-E6.2-25-48A-7-Văn Hữu 180 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.82615804,
+          21.666931026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373TCCN-E6.2-25-48A-38-Đại Khai 180 kVA (KH)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.81921497,
+          21.693045013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373TCCN-E6.2-25-54-09-Mỏ sắt Tương Lai 750 kVA (KH)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8416234,
+          21.661950079999986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373TCCN-E6.2-25-48A-79-Phương Nhung 320 kVA (KH)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.79453597,
+          21.684421962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA376TCCN-E6.2-54-Linh Nham 2 180 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.85691549,
+          21.634904828999993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA473-E6.2-250 Quân Khu 250 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.83908903,
+          21.638872714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA473-E6.2-85-Bệnh Viện 1 400 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.84532532,
+          21.63219308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA473-E6.2-57-560 Quân Khu 1 560 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.83270553144534,
+          21.63968774428987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA473-E6.2-88-14-12-18-Khe Mo 2 160 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.86677507,
+          21.66498332300001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA473-E6.2-88-14-12-11-Khe mo 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.86924102,
+          21.653792978999995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA473-E6.2-65-11_1-Bệnh viện 2B 160 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8276988,
+          21.64642646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA473-E6.2-88-14-12-27-8-Khe Mo 7 250 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.91668201,
+          21.689522015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA473-E6.2-88-14-12-27-2-Khe Mo 4 180 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.89290838,
+          21.643308405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA473-E6.2-88-14-12-27-Chè Khe Mo 180 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.88942956,
+          21.662793221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA473-E6.2-73-E 651 180 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.84405128,
+          21.640837091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA473-E6.2-88-14-12-27-8-16-Khe Mo 6 250 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.89441498,
+          21.677366998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA473-E6.2-88-14-12-Khe Mo 250 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.88158731,
+          21.658975119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA473-E6.2-85-Bệnh viện đa khoa Đồng Hỷ 250 kVA (KH)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.84502604,
+          21.631403994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA473-E6.2-88-14-Lữ 575 320 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.85783602000001,
+          21.650655968000006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA473-E6.2-88-14-12-27-2-10-Khe Mo 5 180 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.86976431781936,
+          21.644576167063256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA473-E6.2-88-Linh Nham 180 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.85457797,
+          21.636891961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA473-E6.2-Thị Trấn 2 320 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.84655397999998,
+          21.62550497799999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA473-E6.2-88-14-9-Trại chăn nuôi Phúc Thịnh 100 kVA (KH)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.85964098,
+          21.644597026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA473-E6.2-88-14-12-27-8-9-CTCP Giấy HVT 250 kVA (KH)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.89090581,
+          21.667888239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA473-E6.2-88-14-16-Phúc thành 100 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.85202099,
+          21.651444034999994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA473-E6.2-88-14-12-18-6A-DNTN Chiến Oanh 560 kVA (KH)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8731899,
+          21.669063633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA473-E6.2-68-NVH Quân Khu 1 180 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.83594162,
+          21.641649856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA473-E6.2-65-5-2_2-CT TNHH Hải Thành( 560KVA) 560 kVA (KH)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.82766586,
+          21.646868186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA473-E6.2-88-5-CT CP Gap 250 kVA (KH)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.84732402,
+          21.636354011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E6.8-61-97-Hòa Khê 1 180 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.92607401,
+          21.635373998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E6.8-61-93_1-Hòa Khê 2 160 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.937749,
+          21.62841903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E6.8-61-36-Cầu Mai 180 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.94875502,
+          21.681068027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E6.8-61-37_2-14-Đoàn Lâm 100 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.96275599,
+          21.656552972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E6.8-61-93_2-La Đàn 100 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.91135799,
+          21.636954993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E6.8-61-75-Ba Quà 100 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.92914204,
+          21.657633985999997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E6.8-61-93_1-5-Hòa Khê 3 180 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.93086896,
+          21.638428029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E6.8-61-53-9-Thái Hưng 100 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.92852203,
+          21.673575025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E6.8-10-Sông Cầu 3 180 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.87936217,
+          21.69678392800001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E6.8-61-93_1-21B-Hòa Khê 4 180 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.94480396,
+          21.632995969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E6.8-61-37_2-Thịnh Đức 1 100 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.96856297,
+          21.670103995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E6.8-61-37_1-8-La Đùm 100 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.95798199,
+          21.682849014000006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E6.8-61-37_2-14-1-Thịnh Đức 2 100 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.95880199,
+          21.670256965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E6.8-61-53-Làng Hỏa 250 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.911057,
+          21.66488500299999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E6.8-61-37_1-Thôn Văn Hán 180 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.98188399,
+          21.691090018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E6.8-20-Đá Ốp lát 400 kVA (KH)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.88917059,
+          21.69806560499998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-34-11-Chè Sông Cầu 180 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.85672701,
+          21.676178025000002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-34-16-Sông Cầu 2 250 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.86695300999999,
+          21.681982996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E6.8-13-Quang Sơn 3 100 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8820748,
+          21.697656065000007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E6.8-61-68-Vân Hòa 100 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.93124196,
+          21.664302964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E6.8-61-60-Phả Lý 180 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.93406498,
+          21.66748398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E6.8-Hà Huy Quang 320 kVA (KH)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8874266186102,
+          21.69767097304415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E6.8-Giấy HVT 180 kVA (KH)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.88770556835011,
+          21.69763359051845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E6.8-16-Vôi Đá Quang Sơn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.88558565,
+          21.69851143799999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-29B_2-Mỏ sắt Trung Việt  3600 kVA (KH)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.84956857949635,
+          21.68128902074706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-34-16-4-Trường dân tộc nội trú 100 kVA (KH)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.85634203000001,
+          21.68247400800001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA473-E6.2-Hưng Thái 180kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.84251973420864,
+          21.634897038051104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA473-E6.2-65-Bệnh viện 2 250kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.83338099000001,
+          21.649050459999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-18-31-Mỏ đá Tập trung 750kVA (KH)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.84984283537722,
+          21.714442910126504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E6.8-61-49-Trần Linh 180kVA (KH)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.94135981,
+          21.673699929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373TCCN-E6.2-25-48A-43-Đồng Vung 250 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.82480374,
+          21.736279445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373TCCN-E6.2-25-48A-43-56-Mỏ cát Việt Cường 250 kVA (KH)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.82741085,
+          21.733568669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA473-E6.2-88-14-12-27-10-Ngô Thị Tuyết 250 kVA (KH)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.88902387,
+          21.66364637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373TCCN-E6.2-25-48A-15-Lương Chí Dũng 250kVA(KH)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.82296375,
+          21.673649454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-167_2-Nguyễn Tiến Dũng 180kVA (KH)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.94091657,
+          21.597956671999984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-122-Ngòi Chẹo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.90295023857043,
+          21.61059232216317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA473-E6.2-65-5-Sơn Thái 100KVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.82800898,
+          21.643604462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E6.8-61-53-11-Trung Hiếu (KH) 180KVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.92767719,
+          21.672428083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA473-E6.2-65-5-11-Bắc Nam (KH) 500KVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.82787405,
+          21.643668084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA473-E6.2-65-12-Nước sạch Hóa Thượng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.83309445,
+          21.648919659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA473-E6.2-88-14-12-18-6A-8-Gạch Chiến Oanh 2 560kVA (KH)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.87314251,
+          21.669171458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E6.8-TRUNG SƠN 75 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.89405703932847,
+          21.697419886895254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-18-11-Mỏ đá Minh Lập 400 kVA (KH)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8323277717318,
+          21.696642360278812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-32-Đình Thông 320kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8480935,
+          21.678370700000002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-34-8-Tân Tiến 160 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8558834,
+          21.674302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA377-E6.8-28-Quang Sơn 3 Re2 - 180 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.86864512055095,
+          21.712108001784863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-34-TT Sông Cầu 320kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8561008,
+          21.679467000000006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-18-37-Ba Đình 180 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.83486316205381,
+          21.714775798192267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA377-E6.8-26-Quang Sơn 4 Re2 - 75 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.87774805788285,
+          21.712967460287633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-18-38-UB Tân Long 320 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8477322186991,
+          21.721060256807938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-18-44-TT Tân Long 100 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.84403389742876,
+          21.726038628362716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-18-25A-5-Cường Phúc 2 180 kVA (KH)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.86154431811337,
+          21.713373794469295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-18-45_2-11-7-Mỏ Đá VLXD Bắc Thái 750kVA (KH)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.86571743875538,
+          21.723249024501676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-18-45_2-11-25-Xóm Lân Đăm 75 kVA (KH)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.87951009223616,
+          21.718195846427403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-18-27-Mỏ đá Tân Phú 630kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8532463949814,
+          21.712873854035173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-18-45_2-17_2-Minh Hiển 560 kVA (KH)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.86910186577369,
+          21.729852357997597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-34-7-Xóm 5 Sông Cầu 320 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.85691928863524,
+          21.665245606920674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-18-23-Quang Sơn 2 Re2 100 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.85378169409525,
+          21.708159671229218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-18-45_2-44-Đồng Mây 75 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.89695948718143,
+          21.739128474814127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-18-45_2-11-25-Lân Đăm 3 560 kVA (KH), CT TNHH Chiến Thắng(560KVA Mỏ đá Lân Đăm 3)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8795327030748,
+          21.718089197291828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-18-45_2-17_1-Mỏ Đá Đồi Trực 750 kVA (KH)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.86789389551994,
+          21.731255536603552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-18-45_2-12A-Mỏ đá Việt Cường 1000 kVA (KH)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.86892357958277,
+          21.722886846687253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-18-45_2-11-Lân Đăm 2 560 kVA (KH), Trạm BA 560 KVA Công ty TNHH Hải Bình"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.87938149616093,
+          21.71813908802132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-18-45_2-25-Đồng Luông 100 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.87542239218352,
+          21.73617480235299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-18-45_2-Làng Giếng 160 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.9092562353362,
+          21.74812161520358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-7-1_2-Quang Sơn 1 250 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.86620680209309,
+          21.696801057397696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-18-50-Đồng Mẫu 180 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.84382991022721,
+          21.732343478875354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-5-Quang Sơn 2 180 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8706424032607,
+          21.69888958176108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-18-45_2-38-Đồng Mây 1-100kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.89116159467862,
+          21.73767467819065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-18-64-Hòa Bình 4 100 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.82997200363025,
+          21.743044821317216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-21-Hà Trang 180 kVA (KH)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.85512241781542,
+          21.691538238329763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-20-Trần Văn Biển 250 kVA (KH)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.85493474348368,
+          21.69373775817096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-27-Hóa Trung 4 180 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8456809080053,
+          21.68896869075353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-7-Tập Thể XMTN 250 kVA (KH)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8685648446044,
+          21.695581846711192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-25A-Sông Cầu B 180 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.85171902174807,
+          21.686603231838788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-18-91-Tân Thịnh 160 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.82635958311586,
+          21.77149091535184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-18-51-Tân An Phú 560 kVA (KH)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8438891334481,
+          21.734422233194376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-18-80-Vũ Hải Lâm 160kVA (KH)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.82990262300747,
+          21.762368056828656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-29-3-Gạch Thái Sơn 1 750kVA (KH)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.85062536984975,
+          21.682031769378803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-18-Vân Khánh 180 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.83955542380863,
+          21.799233808087205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-29-Gạch Thái Sơn (Tuynel) 750kVA (KH)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.85079703122608,
+          21.68193705667881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-18-94-Khe Quân 100 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.80834625896385,
+          21.766024047955728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-29B_1-Trung Việt 560 kVA (KH)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.84894630701274,
+          21.68173766131809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-18-136-Liên Phương 100 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.81925557033173,
+          21.829860553612015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-18-99-Tân Sơn 50 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.83169529623773,
+          21.775944255594222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-18-134-Di dân văn lăng 100kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8449237847708,
+          21.801998252114775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-18-45_1-Làng Hích 1 560kVA (KH)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.85685077697441,
+          21.73325224183824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-18-45_1-15A-Làng Hích 2 630kVA (KH)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.85678103953718,
+          21.73326594537251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-18-45_1-15-Mỏ Ba 250 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.869634531949,
+          21.750535414796285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-119-6-May DG 400 kVA (KH)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.90030600000001,
+          21.605781480999994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-185-28-6-Dương Thị Vân Giang 250 kVA (KH)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.97086665,
+          21.609813983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-135-CQT Nam Hòa 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.91236176999999,
+          21.615725144000002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-18-94-18-Khe Quân 2  100kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8084608,
+          21.7582202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-18-136-7-Văn Lăng  100kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8385398,
+          21.810327200000007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-18-136-22-Bản Tèn  100kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.84350824356078,
+          21.834618991261387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-18-78-Tân Thịnh 2 75kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.83173993616414,
+          21.75976738046125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373TCCN-E6.2-25-54-3-CQT HTX Tân Long"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8353179,
+          21.6638277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-185-1-12-1A-CQT Tổ 16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.96596181,
+          21.58554852899999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373TCCN-E6.2-25-48A-78-13-CQT Minh Lập 4&5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8043,
+          21.67646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA473-E6.2-73-3-Đồng Thịnh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8403,
+          21.64001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-175-Tổ 3 TT Trại Cau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.9486133,
+          21.5931429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373TCCN-E6.2-25-48A-39-CQT Minh Tiến"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8206,
+          21.69553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA473-E6.2-88-6_2-Khu B Tam Thái"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.84890130000001,
+          21.638522199999993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-4A-Trường THPT Trần Quốc Tuấn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8694664,
+          21.7031838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-119-CQT Nam Hòa 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.89909556896134,
+          21.604847722275608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E6.8-61-53-26-Xóm Ấp Chè"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.9010712,
+          21.6634205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-18-45_2-58-CQT Làng Giếng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.91613296060541,
+          21.757131781044194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-127-2-Nam Hòa 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.90636222,
+          21.608599187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-185-1-72-CQT Đồn Trình"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.03957235999998,
+          21.54965891899998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA473-E6.2-57-750 Quân Khu 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.83277526887356,
+          21.639605469645367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-32-2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.84334317236272,
+          21.681366286721133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA--25-48A-43-Tân Thành"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.81690535,
+          21.710868554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-18-45_2-11-21-Bắc Sông Cầu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8756524449876,
+          21.71909703939004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-185-28-44-Suối Găng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.98784986525726,
+          21.643122045577673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-7-1_1-Trung Sơn 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.87087068347141,
+          21.696509618042764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-18-121-Khe Dạt 75kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.85259617629585,
+          21.784735912878773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-185-28-55-Khe Cạn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.00446346789842,
+          21.64935967465192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-127-27-Đồng Cỏ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.88693722,
+          21.599979798999975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA473-E6.2-88-6_3-Cục Hậu cần QK 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.84812576,
+          21.638906708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-185-1-32-Ngàn Me"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.99801543741441,
+          21.596977165933644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-18-45_2-11_2-Công ty TNHH An Lộc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.86225811035146,
+          21.726970902584107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E6.8-68-Bãi Vàng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.06209877523025,
+          21.61391479062835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373TCCN-E6.2-25-42_2-Trường GTVT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.82314613848939,
+          21.65892251858467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E6.8-29A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.89684043553191,
+          21.69582426466066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-185-1-40_2-Vi Xuân Hùng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.00056085378328,
+          21.580970386201525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-34-16-19-Xóm 7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8725599387194,
+          21.682238641636978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373TCCN-E6.2-25-31-06-06-Xóm Việt Cường"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.81112984209193,
+          21.65294456891317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-127-25-Đầm Ninh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.89316252262431,
+          21.58925083596991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E6.8-61-78-Ba Quà 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.92512372524158,
+          21.65484916357818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-166-Bờ Suối"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.94041499882815,
+          21.599264060548546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-18-37-13-Ba Đình 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.83780030362799,
+          21.708896194969856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-18-57-Tân Đô"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.83730555480533,
+          21.73780382117371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373TCCN-E6.2-25-48B-3-2-Khu dân cư Gò Cao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.82920114152877,
+          21.659693738315895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-185-1-56-9-Triệu Văn Lương"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.02563012032863,
+          21.57741176735193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373TCCN-E6.2-25-48B-3-TĐC UBND huyện"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8312288915519,
+          21.65498222250319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-185-28-24-Phạm Văn Thuận"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.97401913555088,
+          21.62776679045422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E6.8-61-53-1-Phả Lý 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.93750133839247,
+          21.67138469961163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E6.8-61-37_1-23-La Đùm 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.95972690375136,
+          21.690914546917956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373TCCN-E6.2-25-48A-43-44-Hòa Bình 5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.82664787769318,
+          21.72680036664642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373TCCN-E6.2-25-54-10-Trung Thần"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.84008574485779,
+          21.658053904865607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373TCCN-E6.2-25-54-9_1-La Long"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.84182918071747,
+          21.664943986412286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373TCCN-E6.2-25-48A-43-62-Đồng Vung 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8212667258158,
+          21.74322107416781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373TCCN-E6.2-25-48A-78-16-5-Theo Cầy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.7967746,
+          21.6706819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373TCCN-E6.2-25-48A-43-13-Trại Cài"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.81475496292114,
+          21.705111291519366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373TCCN-E6.2-25-48A-51-Minh Tiến 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.80632318239168,
+          21.69509797084895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373TCCN-E6.2-25-48A-75-Cà Phê 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.79538404941557,
+          21.687057827225065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-34-7-2-Tân Tiến"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.85410296916962,
+          21.671978310433076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-18-77-Tân Thịnh 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.82669738321069,
+          21.754608236463998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-18-136-31-Khe Hai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.81944,
+          21.839569999999995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-185-1-56-6A-Bãi Bông"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.01758751661436,
+          21.584325023053065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-185-1-5-4-Trung tâm Trại Cau 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.95466155200512,
+          21.586857784750695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-185-1-72-7A-Đoàn Kết"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.03503528627652,
+          21.558209181809552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E6.8-61-37_1-25-Thôn Văn Hán 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.97220185786134,
+          21.687991066960567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E6.8-61-93_2-16-La Đàn 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.90856644898993,
+          21.641940306110122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E6.8-61-24A-Cầu Mai 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.94165686157862,
+          21.689309506442676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-185-17-1-Kim Cương"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.97119066506649,
+          21.594283688242246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA376TCCN-E6.2-148-5_2-Đồng Chốc 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.9264943340625,
+          21.614907245991393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA376TCCN-E6.2-148-5_2-10-11-2-1-Lê Văn Tuấn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.9342519112304,
+          21.61618723220749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA376TCCN-E6.2-148-5_2-10-Đồng Mỏ 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.93476823648125,
+          21.61727193362585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA376TCCN-E6.2-156-2A-Gốc Thị"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.92790249375587,
+          21.606882625359482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA473-E6.2-88-3A-Khu Dân Cư Hồng Thái"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.84761375255204,
+          21.63475230722437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-126-Hiếu Trường"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.9054845908481,
+          21.610176813432293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA473-E6.2-65-7_2-Khu hành chính UBND huyện mới"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.82748472690582,
+          21.649921988800173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-CQT Tân Tiến dự kiến"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.86447592439531,
+          21.67340128613994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E6.8-61-53-20-Làng Cả"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.9173024037289,
+          21.666550401601626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373TCCN-E6.2-CQT Minh Lập 5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.81301666582362,
+          21.674030271542662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E6.8-61-37_1-3A-Phạm Đức Hiệp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.95380995063381,
+          21.680984941342725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA473-E6.2-88-14-12-5-Vũ Văn Thùy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.86356166391595,
+          21.650005361064565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA473-E6.2-73-6-Bùi Minh Quang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.84256074576422,
+          21.63488097499999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-121-Lãng Hoa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.90184224219767,
+          21.611195531377252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-185-1-30-5-Nguyễn Văn Thanh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.98585966617843,
+          21.581504140308745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-185-1-12-8-Trần Văn Nghĩa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.96173453716253,
+          21.582115211521618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-185-1-6B-Lâm Anh Tuấn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.96005413323063,
+          21.588776967580472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-185-1-12-11-Phân viện Trại Cau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.95803979425519,
+          21.581883254185243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-185-1-12-1B-Phạm Đình Thành"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.96601936606956,
+          21.585409963320632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-185-1-14-4-3-Kim Sơn 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.96873107940826,
+          21.590038950487436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-185-1-30-7-Linh Văn Thanh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.98301546554666,
+          21.579565523775212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-185-1-30-16-8-15-Bùi Văn Lượng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.96748251106655,
+          21.57232653827942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-185-1-14_1-Trần Anh Cường"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.96847358733925,
+          21.585958665651436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-185-1-33A-Đỗ Văn Dũng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.9945285657059,
+          21.58307795522876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-185-1-30-16-8-14-Nguyễn Văn Tùng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.96641633301297,
+          21.57118288278431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-185-1-39-Nguyễn Hữu Sơn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.99942627936942,
+          21.58120234500478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-185-1-18A-May Phú Hưng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.97405978412883,
+          21.585450033814567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-185-1-62-Nguyễn Văn Vui"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.02162370599916,
+          21.569634344033904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-185-17-1-11-Hoàng Văn Long"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.96414413839341,
+          21.597422511369455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-185-27A-Nguyễn Mạnh Cường"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.96433762103378,
+          21.607423765115435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-185-28-5-Nguyễn Văn Khánh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.97008291275701,
+          21.608992310842265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-171-7-Hải Bình 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.94749871284344,
+          21.598361277670374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA-377-E6.8-26-10-Mỏ đá Đồng Chuỗm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.89138690023672,
+          21.716031473383598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-155-Con Phượng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.92953424070089,
+          21.59004357891311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-185-1-50-Cao Phong 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.00940677914747,
+          21.56946301745022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-185-1-30A-Trần Văn Hòa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.9904140570893,
+          21.584362434919125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373TCCN-E6.2-25-48A-31-La Dịa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.81580795610738,
+          21.687338258171955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA473-E6.2-84_1-Đồng Thịnh 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.840867455612,
+          21.644340550377343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373TCCN-E6.2-25-48B-3-12-UB Đồng Hỷ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.82889086457044,
+          21.65180912904569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-18-38-3-Hòa Phát"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8513134644634,
+          21.719683069875824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA473-E6.2-88-14-12-27-2-10-20-Đoan Trường"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.86676489400179,
+          21.64607225540782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA473-E6.2-88-14-12-27-2-10-1-Khe Mo 4 180 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8872524037098,
+          21.650061897970698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA473-E6.2-88-14-12-27-8-30-Khe Mo 12 250 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.90687933951173,
+          21.685598404944734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-18-45_2-17_2-1-Minh Hiển 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.86923456595218,
+          21.729874093906993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-18-45_2-11-19A-Lũng Chò 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.87536606581195,
+          21.719201694829273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-18-45_2-11-7-3-Mỏ Đá VLXD Bắc Thái 2 750kVA (KH)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.86572084826291,
+          21.723207205085046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-34-7-8-La Đường"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.85618290689631,
+          21.66167957121476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-18-85A-Nguyễn Thị Anh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.82533482104891,
+          21.76638356800865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-18-45_1-7-Phú Thịnh 1000kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.84978482830266,
+          21.730108470190192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-18-23-1-Nguyễn Thị Dương - 250 kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.85375282555914,
+          21.708304661487333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373TCCN-E6.2-25-54-09-3-HTX Chiến Công"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.84199402123069,
+          21.66225291188658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-18-99-4-HTX Tiến Hào 630kVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.83245541537127,
+          21.774858244358345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-18-136-31-22-Pò Tèn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.81872049362201,
+          21.84217889819559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373TCCN-E6.2-25-48A-43-30-Ngô Văn Nghĩa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.82275051264982,
+          21.71882169555093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373TCCN-E6.2-25-48A-12-Hà Đức Chung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.82287791758944,
+          21.670925034838316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E6.8-61-37_1-8-1-Vi Ngọc Tự"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.95806661635956,
+          21.68277949903488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373TCCN-E6.2-25-48A-43-42-1-Bùi Hữu Lợi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.82601207880919,
+          21.72584093004277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-185-22-Nguyễn Trọng Oánh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.96127185611142,
+          21.60526168771927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E6.8-61-85-Nguyễn Văn Dũng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.92886004238689,
+          21.65795030843452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-185-1-32_1-Khang Hà"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.99197912602541,
+          21.5841167634679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-135-8-16-Hiếu Trường 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.92857321836553,
+          21.621712453070757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-18-45_2-12-CaCO3 Quang Sơn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.86648795397282,
+          21.720651912348067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-18-45_2-12-8-CaCO3 Quang Sơn Trạm 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.86656842021407,
+          21.72391734003687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-155-13-Trần Văn Tám"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.93293029457574,
+          21.59604818260893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E6.8-61-37_2-14-16-Hà Văn Sơn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.96224363511656,
+          21.656757332868892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA473-E6.2-88-14-17-Lữ 575 QKI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.85775460498627,
+          21.650691254073532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA473-E6.2-88-14-16-8-Mỏ sắt Hóa Trung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.85590261608844,
+          21.645959178065127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-185-28-17-Triệu Hữu Bình"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.97324791938377,
+          21.62087056236168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA671-E6.8-Xi Măng Quang Sơn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.87917748480997,
+          21.69982917442402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E6.8-61-37_2-14-12-Luân Văn Phòng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.96007156759892,
+          21.662037909400127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-18-51-2-Mạnh Hải Dương"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.84406200436995,
+          21.734849317649296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371TCCN-E6.2-185-1-70-1-Quyết Chiến"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.02292779476194,
+          21.559678478685218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA473-E6.2-65-7_2-5-BCH quân sự huyện Đồng Hỷ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8250124131332,
+          21.650370953620598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA373TCCN-E6.2-25-48B-3-9-Vi Thuận Ánh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.83043466270317,
+          21.656264700249924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E6.8-18-94-18-10-Hoàng Văn Hùng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.80802407920545,
+          21.758061736741332
+        ]
+      }
+    }
+  ]
+}

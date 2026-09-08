@@ -1,0 +1,103 @@
+{
+  "table": [
+    {
+      "id": 6072262,
+      "code": "QNH0000191",
+      "name": "CỘT KẼM P089",
+      "cabtype": 5,
+      "latlng": "(21.01706437411755,106.82088676840067)",
+      "branchid": 542,
+      "trubangduonglist": "",
+      "aheadcode": "",
+      "type": "trudon"
+    },
+    {
+      "id": 6072272,
+      "code": "QNH0000192",
+      "name": "CỘT KẼM P089",
+      "cabtype": 5,
+      "latlng": "(21.017159204430918,106.82118851691484)",
+      "branchid": 542,
+      "trubangduonglist": "",
+      "aheadcode": "QNH0000191",
+      "type": "trudon"
+    },
+    {
+      "id": 6072282,
+      "code": "QNH0000193",
+      "name": "CỘT KẼM P089",
+      "cabtype": 5,
+      "latlng": "(21.017235569391907,106.82144567370415)",
+      "branchid": 542,
+      "trubangduonglist": "",
+      "aheadcode": "QNH0000192",
+      "type": "trudon"
+    },
+    {
+      "id": 6072292,
+      "code": "QNH0000194",
+      "name": "CỘT KẼM P089",
+      "cabtype": 5,
+      "latlng": "(21.017455587892837,106.82162605226038)",
+      "branchid": 542,
+      "trubangduonglist": "",
+      "aheadcode": "QNH0000193",
+      "type": "trudon"
+    },
+    {
+      "id": 6072872,
+      "code": "QNH0000195",
+      "name": "CỘT P112",
+      "cabtype": 5,
+      "latlng": "(21.041366189521362,106.79194808006287)",
+      "branchid": 542,
+      "trubangduonglist": "",
+      "aheadcode": "",
+      "type": "trudon"
+    },
+    {
+      "id": 6072892,
+      "code": "QNH0000196",
+      "name": "CỘT P112",
+      "cabtype": 5,
+      "latlng": "(21.041366189521362,106.79194808006287)",
+      "branchid": 542,
+      "trubangduonglist": "",
+      "aheadcode": "QNH0000195",
+      "type": "trudon"
+    },
+    {
+      "id": 6072912,
+      "code": "QNH0000197",
+      "name": "CỘT P112",
+      "cabtype": 5,
+      "latlng": "(21.041366189521362,106.79194808006287)",
+      "branchid": 542,
+      "trubangduonglist": "",
+      "aheadcode": "QNH0000196",
+      "type": "trudon"
+    },
+    {
+      "id": 6072922,
+      "code": "QNH0000198",
+      "name": "CỘT P112",
+      "cabtype": 5,
+      "latlng": "(21.041366189521362,106.79194808006287)",
+      "branchid": 542,
+      "trubangduonglist": "",
+      "aheadcode": "QNH0000197",
+      "type": "trudon"
+    },
+    {
+      "id": 6072932,
+      "code": "QNH0000199",
+      "name": "CỘT P112",
+      "cabtype": 5,
+      "latlng": "(21.0411483967631,106.790442019701)",
+      "branchid": 542,
+      "trubangduonglist": "",
+      "aheadcode": "QNH0000197",
+      "type": "trudon"
+    }
+  ]
+}

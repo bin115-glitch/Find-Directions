@@ -1,0 +1,382 @@
+{
+  "Table": [
+    {
+      "ID": 37,
+      "NameBranch": "Chi nhánh Bắc Giang (BGG)",
+      "Parent": "BGG",
+      "latlng": "21.2775507,106.186174",
+      "isOffline": 0,
+      "LocationID": "23",
+      "city": 23
+    },
+    {
+      "ID": 31,
+      "NameBranch": "Chi nhánh Bắc Ninh (BNH)",
+      "Parent": "BNH",
+      "latlng": "21.177418937731201,106.058261990547",
+      "isOffline": 0,
+      "LocationID": "27",
+      "city": 27
+    },
+    {
+      "ID": 252,
+      "NameBranch": "Chi nhánh Cao Bằng (CBG)",
+      "Parent": "CBG",
+      "latlng": "22.666571055492366,106.25916481018066",
+      "isOffline": 0,
+      "LocationID": "10",
+      "city": 10
+    },
+    {
+      "ID": 242,
+      "NameBranch": "Chi nhánh Điện Biên (DBN)",
+      "Parent": "DBN",
+      "latlng": "21.380196130286645,103.00369262695312",
+      "isOffline": 0,
+      "LocationID": "9",
+      "city": 9
+    },
+    {
+      "ID": 272,
+      "NameBranch": "Chi nhánh Hòa Bình (HBH)",
+      "Parent": "HBH",
+      "latlng": "20.834166,105.338429",
+      "isOffline": 0,
+      "LocationID": "12",
+      "city": 12
+    },
+    {
+      "ID": 32,
+      "NameBranch": "Chi nhánh Hải Dương (HDG)",
+      "Parent": "HDG",
+      "latlng": "20.9624023,106.373089",
+      "isOffline": 0,
+      "LocationID": "28",
+      "city": 28
+    },
+    {
+      "ID": 17,
+      "NameBranch": "Chi nhánh Hà Nội 1 (HN1)",
+      "Parent": "HN1",
+      "latlng": "21.026531219482401,105.81789398193401",
+      "isOffline": 0,
+      "LocationID": "35",
+      "city": 35
+    },
+    {
+      "ID": 62,
+      "NameBranch": "Chi nhánh Hà Nội 10 (HN10)",
+      "Parent": "HN10",
+      "latlng": "20.90161470124729,105.6740003451705",
+      "isOffline": 0,
+      "LocationID": "35",
+      "city": 35
+    },
+    {
+      "ID": 172,
+      "NameBranch": "Chi nhánh Hà Nội 11 (HN11)",
+      "Parent": "HN11",
+      "latlng": "20.860255481202024,105.77190399169922",
+      "isOffline": 0,
+      "LocationID": "35",
+      "city": 35
+    },
+    {
+      "ID": 182,
+      "NameBranch": "Chi nhánh Hà Nội 12 (HN12)",
+      "Parent": "HN12",
+      "latlng": "21.026531219482401,105.81789398193401",
+      "isOffline": 0,
+      "LocationID": "35",
+      "city": 35
+    },
+    {
+      "ID": 342,
+      "NameBranch": "Chi nhánh Hà Nội 13 (HN13)",
+      "Parent": "HN13",
+      "latlng": "21.0469570159912,105.789352416992",
+      "isOffline": 0,
+      "LocationID": "35",
+      "city": 35
+    },
+    {
+      "ID": 352,
+      "NameBranch": "Chi nhánh Hà Nội 14 (HN14)",
+      "Parent": "HN14",
+      "latlng": "21.082898386882743,105.66976547241211",
+      "isOffline": 0,
+      "LocationID": "35",
+      "city": 35
+    },
+    {
+      "ID": 18,
+      "NameBranch": "Chi nhánh Hà Nội 2 (HN2)",
+      "Parent": "HN2",
+      "latlng": "20.998224182158793,105.8644187450409",
+      "isOffline": 0,
+      "LocationID": "35",
+      "city": 35
+    },
+    {
+      "ID": 19,
+      "NameBranch": "Chi nhánh Hà Nội 3 (HN3)",
+      "Parent": "HN3",
+      "latlng": "21.02523082699247,105.8001771569252",
+      "isOffline": 0,
+      "LocationID": "35",
+      "city": 35
+    },
+    {
+      "ID": 20,
+      "NameBranch": "Chi nhánh Hà Nội 4 (HN4)",
+      "Parent": "HN4",
+      "latlng": "21.0466709136963,105.878700256348",
+      "isOffline": 0,
+      "LocationID": "35",
+      "city": 35
+    },
+    {
+      "ID": 21,
+      "NameBranch": "Chi nhánh Hà Nội 5 (HN5)",
+      "Parent": "HN5",
+      "latlng": "20.9819946289062,105.789825439453",
+      "isOffline": 0,
+      "LocationID": "35",
+      "city": 35
+    },
+    {
+      "ID": 482,
+      "NameBranch": "Chi nhánh Hà Nội 6 (HN6)",
+      "Parent": "HN6",
+      "latlng": "21.036260560425795,105.79020259764002",
+      "isOffline": 0,
+      "LocationID": "35",
+      "city": 35
+    },
+    {
+      "ID": 22,
+      "NameBranch": "Chi nhánh Hà Nội 7 (HN7)",
+      "Parent": "HN7",
+      "latlng": "21.0469570159912,105.789352416992",
+      "isOffline": 0,
+      "LocationID": "35",
+      "city": 35
+    },
+    {
+      "ID": 60,
+      "NameBranch": "Chi nhánh Hà Nội 8 (HN8)",
+      "Parent": "HN8",
+      "latlng": "21.000393137592507,105.69109360903599",
+      "isOffline": 0,
+      "LocationID": "35",
+      "city": 35
+    },
+    {
+      "ID": 61,
+      "NameBranch": "Chi nhánh Hà Nội 9 (HN9)",
+      "Parent": "HN9",
+      "latlng": "21.158984907928374,105.81781134009361",
+      "isOffline": 0,
+      "LocationID": "35",
+      "city": 35
+    },
+    {
+      "ID": 192,
+      "NameBranch": "Chi nhánh Hà Nam (HNM)",
+      "Parent": "HNM",
+      "latlng": "20.53748861200173,105.91712951660156",
+      "isOffline": 0,
+      "LocationID": "3",
+      "city": 3
+    },
+    {
+      "ID": 27,
+      "NameBranch": "Chi nhánh Hải Phòng 1 (HPG1)",
+      "Parent": "HPG1",
+      "latlng": "20.8514183,106.679179",
+      "isOffline": 0,
+      "LocationID": "38",
+      "city": 38
+    },
+    {
+      "ID": 552,
+      "NameBranch": "Chi nhánh Hải Phòng 2 (HPG2)",
+      "Parent": "HPG2",
+      "latlng": "20.8514183,106.679179",
+      "isOffline": 0,
+      "LocationID": "38",
+      "city": 38
+    },
+    {
+      "ID": 562,
+      "NameBranch": "Chi nhánh Hải Phòng 3 (HPG3)",
+      "Parent": "HPG3",
+      "latlng": "20.8514183,106.679179",
+      "isOffline": 0,
+      "LocationID": "38",
+      "city": 38
+    },
+    {
+      "ID": 142,
+      "NameBranch": "Chi nhánh Hà Tĩnh (HTH)",
+      "Parent": "HTH",
+      "latlng": "18.342101798212017,105.90592861175537",
+      "isOffline": 0,
+      "LocationID": "2",
+      "city": 2
+    },
+    {
+      "ID": 152,
+      "NameBranch": "Chi nhánh Hưng Yên (HYN)",
+      "Parent": "HYN",
+      "latlng": "20.933925413979935,106.05688333511353",
+      "isOffline": 0,
+      "LocationID": "1",
+      "city": 1
+    },
+    {
+      "ID": 222,
+      "NameBranch": "Chi nhánh Lào Cai (LCI)",
+      "Parent": "LCI",
+      "latlng": "22.422454181709707,103.97323608398438",
+      "isOffline": 0,
+      "LocationID": "6",
+      "city": 6
+    },
+    {
+      "ID": 55,
+      "NameBranch": "Chi nhánh Lạng Sơn (LSN)",
+      "Parent": "LSN",
+      "latlng": "21.8465221853146,106.75638198852539",
+      "isOffline": 0,
+      "LocationID": "1787",
+      "city": 1787
+    },
+    {
+      "ID": 30,
+      "NameBranch": "Chi nhánh Nghệ An (NAN)",
+      "Parent": "NAN",
+      "latlng": "18.674381430442676,105.68255424499512",
+      "isOffline": 0,
+      "LocationID": "32",
+      "city": 32
+    },
+    {
+      "ID": 162,
+      "NameBranch": "Chi nhánh Ninh Bình (NBH)",
+      "Parent": "NBH",
+      "latlng": "20.24721981529383,105.97721099853516",
+      "isOffline": 0,
+      "LocationID": "4",
+      "city": 4
+    },
+    {
+      "ID": 28,
+      "NameBranch": "Chi nhánh Nam Định (NDH)",
+      "Parent": "NDH",
+      "latlng": "20.42226716785981,106.17127418518066",
+      "isOffline": 0,
+      "LocationID": "30",
+      "city": 30
+    },
+    {
+      "ID": 41,
+      "NameBranch": "Chi nhánh Phú Thọ (PTO)",
+      "Parent": "PTO",
+      "latlng": "21.32509803771970,105.38337707519500",
+      "isOffline": 0,
+      "LocationID": "19",
+      "city": 19
+    },
+    {
+      "ID": 25,
+      "NameBranch": "Chi nhánh Quảng Ninh 1 (QNH1)",
+      "Parent": "QNH1",
+      "latlng": "21.2476716,107.265200",
+      "isOffline": 0,
+      "LocationID": "33",
+      "city": 33
+    },
+    {
+      "ID": 532,
+      "NameBranch": "Chi nhánh Quảng Ninh 2 (QNH2)",
+      "Parent": "QNH2",
+      "latlng": "21.2476716,107.265200",
+      "isOffline": 0,
+      "LocationID": "33",
+      "city": 33
+    },
+    {
+      "ID": 542,
+      "NameBranch": "Chi nhánh Quảng Ninh 3 (QNH3)",
+      "Parent": "QNH3",
+      "latlng": "21.2476716,107.265200",
+      "isOffline": 0,
+      "LocationID": "33",
+      "city": 33
+    },
+    {
+      "ID": 232,
+      "NameBranch": "Chi nhánh Sơn La (SLA)",
+      "Parent": "SLA",
+      "latlng": "21.332233889493917,103.90869140625",
+      "isOffline": 0,
+      "LocationID": "7",
+      "city": 7
+    },
+    {
+      "ID": 40,
+      "NameBranch": "Chi nhánh Thái Bình (TBH)",
+      "Parent": "TBH",
+      "latlng": "20.4443161,106.344373",
+      "isOffline": 0,
+      "LocationID": "20",
+      "city": 20
+    },
+    {
+      "ID": 26,
+      "NameBranch": "Chi nhánh Thanh Hóa (THA)",
+      "Parent": "THA",
+      "latlng": "19.8036518096924,105.780746459961",
+      "isOffline": 0,
+      "LocationID": "34",
+      "city": 34
+    },
+    {
+      "ID": 29,
+      "NameBranch": "Chi nhánh Thái Nguyên (TNN)",
+      "Parent": "TNN",
+      "latlng": "21.5898616,105.838112",
+      "isOffline": 0,
+      "LocationID": "31",
+      "city": 31
+    },
+    {
+      "ID": 262,
+      "NameBranch": "Chi nhánh Tuyên Quang (TQG)",
+      "Parent": "TQG",
+      "latlng": "21.816118,105.211406",
+      "isOffline": 0,
+      "LocationID": "11",
+      "city": 11
+    },
+    {
+      "ID": 39,
+      "NameBranch": "Chi nhánh Vĩnh Phúc (VPC)",
+      "Parent": "VPC",
+      "latlng": "21.3062071,105.594634",
+      "isOffline": 0,
+      "LocationID": "21",
+      "city": 21
+    },
+    {
+      "ID": 56,
+      "NameBranch": "Chi nhánh Yên Bái (YBI)",
+      "Parent": "YBI",
+      "latlng": "21.694437491620803,104.87960815429688",
+      "isOffline": 0,
+      "LocationID": "8",
+      "city": 8
+    }
+  ]
+}

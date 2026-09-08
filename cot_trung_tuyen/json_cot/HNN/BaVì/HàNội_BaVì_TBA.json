@@ -1,0 +1,187 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E25.10-122-2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.4584,
+          21.197410000000005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E25.10-131-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.4561,
+          21.206570000000003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E25.10-137"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.4548,
+          21.21385000000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA375-E19.7-125-13-4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.33752416306015,
+          21.021254937285928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA375-E19.7-125-23"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3447994135422,
+          21.026702561229996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA375-E19.7-120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.32749376365246,
+          21.011302894631218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA375-E19.7-125-19-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.34321568191443,
+          21.01992038406337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E25.10-137"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.4537,
+          21.216120000000018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E25.10-124-5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.4614,
+          21.202889999999993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E25.10-113"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.46175992615656,
+          21.1969705772751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA375-E19.7-125-11-3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.33642952247601,
+          21.016399773119424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA375-E19.7-125-19-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.35217583179472,
+          21.01709128965818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA375-E19.7-125-31"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3430724143982,
+          21.029762336210116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA372-E25.10-127"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.45602990661064,
+          21.203004463056626
+        ]
+      }
+    }
+  ]
+}

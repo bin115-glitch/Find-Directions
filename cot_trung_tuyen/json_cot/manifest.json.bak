@@ -1,0 +1,4944 @@
+{
+  "items": [
+    {
+      "key": "YBI",
+      "name": "Yên Bái",
+      "xa": [
+        "LụcYên",
+        "MùCăngChải",
+        "NghĩaLộ",
+        "TrạmTấu",
+        "TrấnYên",
+        "VănChấn",
+        "VănYên",
+        "YênBái",
+        "YênBình"
+      ],
+      "url": "./json_cot/YBI"
+    },
+    {
+      "key": "VPC",
+      "name": "Vĩnh Phúc",
+      "url": "./json_cot/VPC",
+      "xa": [
+        "BìnhXuyên",
+        "LậpThạch",
+        "PhúcYên",
+        "SôngLô",
+        "TamDương",
+        "TamĐảo",
+        "VĩnhTường",
+        "VĩnhYên",
+        "YênLạc"
+      ]
+    },
+    {
+      "key": "TQG",
+      "name": "Tuyên Quang",
+      "url": "./json_cot/TQG",
+      "xa": [
+        "ChiêmHóa",
+        "HàmYên",
+        "LâmBình",
+        "NàHang",
+        "SơnDương",
+        "TuyênQuang",
+        "YênSơn"
+      ]
+    },
+    {
+      "key": "TNN",
+      "name": "Thái Nguyên",
+      "url": "./json_cot/TNN",
+      "xa": [
+        "PhúBình",
+        "PhúLương",
+        "PhổYên",
+        "SôngCông",
+        "TháiNguyên",
+        "VõNhai",
+        "ĐạiTừ",
+        "ĐịnhHóa",
+        "ĐồngHỷ"
+      ]
+    },
+    {
+      "key": "THA",
+      "name": "Thanh Hóa",
+      "url": "./json_cot/THA",
+      "xa": [
+        "BáThước",
+        "BỉmSơn",
+        "CẩmThủy",
+        "HoằngHóa",
+        "HàTrung",
+        "HậuLộc",
+        "LangChánh",
+        "MườngLát",
+        "NgaSơn",
+        "NgọcLặc",
+        "NhưThanh",
+        "NhưXuân",
+        "NôngCống",
+        "QuanHóa",
+        "QuanSơn",
+        "QuảngXương",
+        "SầmSơn",
+        "ThanhHóa",
+        "ThiệuHóa",
+        "ThườngXuân",
+        "ThạchThành",
+        "ThọXuân",
+        "TriệuSơn",
+        "TĩnhGia",
+        "VĩnhLộc",
+        "YênĐịnh",
+        "ĐôngSơn"
+      ]
+    },
+    {
+      "key": "TBH",
+      "name": "Thái Bình",
+      "url": "./json_cot/TBH",
+      "xa": [
+        "HưngHà",
+        "KiếnXương",
+        "QuỳnhPhụ",
+        "TháiBình",
+        "TháiThụy",
+        "TiềnHải",
+        "VũThư",
+        "ĐôngHưng"
+      ]
+    },
+    {
+      "key": "SLA",
+      "name": "Sơn La",
+      "url": "./json_cot/SLA",
+      "xa": [
+        "BắcYên",
+        "MaiSơn",
+        "MườngLa",
+        "MộcChâu",
+        "PhùYên",
+        "QuỳnhNhai",
+        "SôngMã",
+        "SơnLa",
+        "SốpCộp",
+        "ThuậnChâu",
+        "VânHồ",
+        "YênChâu"
+      ]
+    },
+    {
+      "key": "QNH",
+      "name": "Quảng Ninh",
+      "url": "./json_cot/QNH",
+      "xa": [
+        "BaChẽ",
+        "BìnhLiêu",
+        "CôTô",
+        "CẩmPhả",
+        "HoànhBồ",
+        "HạLong",
+        "HảiHà",
+        "MóngCái",
+        "QuảngYên",
+        "TiênYên",
+        "UôngBí",
+        "VânĐồn",
+        "ĐôngTriều",
+        "ĐầmHà"
+      ]
+    },
+    {
+      "key": "PTO",
+      "name": "Phú Thọ",
+      "url": "./json_cot/PTO",
+      "xa": [
+        "CẩmKhê",
+        "HạHoà",
+        "LâmThao",
+        "PhùNinh",
+        "PhúThọ",
+        "TamNông",
+        "ThanhBa",
+        "ThanhSơn",
+        "ThanhThuỷ",
+        "TânSơn",
+        "ViệtTrì",
+        "YênLập",
+        "ĐoanHùng"
+      ]
+    },
+    {
+      "key": "NDH",
+      "name": "Nam Định",
+      "url": "./json_cot/NDH",
+      "xa": [
+        "GiaoThủy",
+        "HảiHậu",
+        "MỹLộc",
+        "NamTrực",
+        "NamĐịnh",
+        "NghĩaHưng",
+        "TrựcNinh",
+        "VụBản",
+        "XuânTrường",
+        "ÝYên"
+      ]
+    },
+    {
+      "key": "NBH",
+      "name": "Ninh Bình",
+      "url": "./json_cot/NBH",
+      "xa": [
+        "GiaViễn",
+        "KimSơn",
+        "NhoQuan",
+        "NinhBình",
+        "TamĐiệp",
+        "YênKhánh",
+        "YênMô"
+      ]
+    },
+    {
+      "key": "NAN",
+      "name": "Nghệ An",
+      "url": "./json_cot/NAN",
+      "xa": [
+        "AnhSơn",
+        "ConCuông",
+        "CửaLò",
+        "DiễnChâu",
+        "HoàngMai",
+        "HưngNguyên",
+        "KỳSơn",
+        "NamĐàn",
+        "NghiLộc",
+        "NghĩaĐàn",
+        "QuếPhong",
+        "QuỳChâu",
+        "QuỳHợp",
+        "QuỳnhLưu",
+        "ThanhChương",
+        "TháiHoà",
+        "TânKỳ",
+        "TươngDương",
+        "Vinh",
+        "YênThành",
+        "ĐôLương"
+      ]
+    },
+    {
+      "key": "LSN",
+      "name": "Lạng Sơn",
+      "url": "./json_cot/LSN",
+      "xa": [
+        "BìnhGia",
+        "BắcSơn",
+        "CaoLộc",
+        "ChiLăng",
+        "HữuLũng",
+        "LạngSơn",
+        "LộcBình",
+        "TràngĐịnh",
+        "VănLãng",
+        "VănQuan",
+        "ĐìnhLập"
+      ]
+    },
+    {
+      "key": "LCU",
+      "name": "Lai Châu",
+      "url": "./json_cot/LCU",
+      "xa": [
+        "LaiChâu",
+        "MườngTè",
+        "NậmNhùn",
+        "PhongThổ",
+        "SìnHồ",
+        "TamĐường",
+        "ThanUyên",
+        "TânUyên"
+      ]
+    },
+    {
+      "key": "LCI",
+      "name": "Lào Cai",
+      "url": "./json_cot/LCI",
+      "xa": [
+        "BátXát",
+        "BảoThắng",
+        "BảoYên",
+        "BắcHà",
+        "LàoCai",
+        "MườngKhương",
+        "SaPa",
+        "SiMaCai",
+        "VănBàn"
+      ]
+    },
+    {
+      "key": "HYN",
+      "name": "Hưng Yên",
+      "url": "./json_cot/HYN",
+      "xa": [
+        "HưngYên",
+        "KhoáiChâu",
+        "KimĐộng",
+        "MỹHào",
+        "PhùCừ",
+        "TiênLữ",
+        "VănGiang",
+        "VănLâm",
+        "YênMỹ",
+        "ÂnThi"
+      ]
+    },
+    {
+      "key": "HTH",
+      "name": "Hà Tĩnh",
+      "url": "./json_cot/HTH",
+      "xa": [
+        "CanLộc",
+        "CẩmXuyên",
+        "HàTĩnh",
+        "HươngKhê",
+        "HươngSơn",
+        "HồngLĩnh",
+        "KỳAnh(Thịxã)",
+        "KỳAnh",
+        "LộcHà",
+        "NghiXuân",
+        "ThạchHà",
+        "VũQuang",
+        "ĐứcThọ",
+        "TuyênHóa"
+      ]
+    },
+    {
+      "key": "HPG",
+      "name": "Hải Phòng",
+      "url": "./json_cot/HPG",
+      "xa": [
+        "AnDương",
+        "AnLão",
+        "BạchLongVĩ",
+        "CátHải",
+        "DươngKinh",
+        "HảiAn",
+        "HồngBàng",
+        "KiếnAn",
+        "KiếnThuỵ",
+        "LêChân",
+        "NgôQuyền",
+        "ThuỷNguyên",
+        "TiênLãng",
+        "VĩnhBảo",
+        "ĐồSơn"
+      ]
+    },
+    {
+      "key": "HNN",
+      "name": "Hà Nội",
+      "url": "./json_cot/HNN",
+      "xa": [
+        "BaVì",
+        "BaĐình",
+        "ChươngMỹ",
+        "CầuGiấy",
+        "GiaLâm",
+        "HoàiĐức",
+        "HoàngMai",
+        "HàĐông",
+        "MêLinh",
+        "MỹĐức",
+        "NamTừLiêm",
+        "PhúcThọ",
+        "PhúXuyên",
+        "QuốcOai",
+        "SócSơn",
+        "ThanhOai",
+        "ThanhTrì",
+        "ThanhXuân",
+        "ThườngTín",
+        "ĐôngAnh"
+      ]
+    },
+    {
+      "key": "HGG",
+      "name": "Hà Giang",
+      "url": "./json_cot/HGG",
+      "xa": [
+        "BắcMê",
+        "BắcQuang",
+        "HoàngSuPhì",
+        "HàGiang",
+        "MèoVạc",
+        "QuangBình",
+        "QuảnBạ",
+        "VịXuyên",
+        "XínMần",
+        "YênMinh",
+        "ĐồngVăn"
+      ]
+    },
+    {
+      "key": "HDN",
+      "name": "Hải Dương",
+      "url": "./json_cot/HDN",
+      "xa": [
+        "BìnhGiang",
+        "ChíLinh",
+        "CẩmGiàng",
+        "GiaLộc",
+        "HảiDương",
+        "KimThành",
+        "KinhMôn",
+        "NamSách",
+        "NinhGiang",
+        "ThanhHà",
+        "ThanhMiện",
+        "TứKỳ"
+      ]
+    },
+    {
+      "key": "HBN",
+      "name": "Hòa Bình",
+      "url": "./json_cot/HBN",
+      "xa": [
+        "CaoPhong",
+        "HòaBình",
+        "KimBôi",
+        "KỳSơn",
+        "LươngSơn",
+        "LạcSơn",
+        "LạcThủy",
+        "MaiChâu",
+        "TânLạc",
+        "YênThủy",
+        "ĐàBắc"
+      ]
+    },
+    {
+      "key": "DBN",
+      "name": "Điện Biên",
+      "url": "./json_cot/DBN",
+      "xa": [
+        "MườngChà",
+        "MườngNhé",
+        "MườngẢng",
+        "NậmPồ",
+        "ThịXãMườngLay",
+        "TuầnGiáo",
+        "TủaChùa",
+        "ĐiệnBiên",
+        "ĐiệnBiênPhủ",
+        "ĐiệnBiênĐông"
+      ]
+    },
+    {
+      "key": "CBG",
+      "name": "Cao Bằng",
+      "url": "./json_cot/CBG",
+      "xa": [
+        "BảoLâm",
+        "BảoLạc",
+        "CaoBằng",
+        "HoàAn",
+        "HàQuảng",
+        "HạLang",
+        "NguyênBình",
+        "PhụcHoà",
+        "QuảngUyên",
+        "ThôngNông",
+        "ThạchAn",
+        "TràLĩnh",
+        "TrùngKhánh"
+      ]
+    },
+    {
+      "key": "BNN",
+      "name": "Bắc Ninh",
+      "url": "./json_cot/BNN",
+      "xa": [
+        "BắcNinh",
+        "GiaBình",
+        "LươngTài",
+        "QuếVõ",
+        "ThuậnThành",
+        "TiênDu",
+        "TừSơn",
+        "YênPhong"
+      ]
+    },
+    {
+      "key": "BKN",
+      "name": "Bắc Kạn",
+      "url": "./json_cot/BKN",
+      "xa": [
+        "BaBể",
+        "BạchThông",
+        "ChợMới",
+        "ChợĐồn",
+        "NaRì",
+        "NgânSơn",
+        "PácNặm",
+        "ThànhPhốBắcKạn"
+      ]
+    },
+    {
+      "key": "BGG",
+      "name": "Bắc Giang",
+      "url": "./json_cot/BGG",
+      "xa": [
+        "BắcGiang",
+        "HiệpHòa",
+        "LạngGiang",
+        "LụcNam",
+        "LụcNgạn",
+        "SơnĐộng",
+        "TânYên",
+        "ViệtYên",
+        "YênDũng",
+        "YênThế"
+      ]
+    },
+    {
+      "key": "HNG",
+      "name": "Hà Nam",
+      "url": "./json_cot/HNG",
+      "xa": [
+        "BìnhLục",
+        "DuyTiên",
+        "KimBảng",
+        "LýNhân",
+        "PhủLý",
+        "ThanhLiêm"
+      ]
+    }
+  ],
+  "regions": {
+    "BGG": {
+      "BắcGiang": [
+        {
+          "name": "BắcGiang_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/BGG/BắcGiang/BắcGiang_BắcGiang_Cột_Điện.json"
+        },
+        {
+          "name": "BắcGiang_TBA",
+          "url": "/cot_trung_tuyen/json_cot/BGG/BắcGiang/BắcGiang_BắcGiang_TBA.json"
+        },
+        {
+          "name": "BắcGiang_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/BGG/BắcGiang/BắcGiang_BắcGiang_Đường_Dây.json"
+        }
+      ],
+      "HiệpHòa": [
+        {
+          "name": "HiệpHòa_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/BGG/HiệpHòa/BắcGiang_HiệpHòa_Cột_Điện.json"
+        },
+        {
+          "name": "HiệpHòa_TBA",
+          "url": "/cot_trung_tuyen/json_cot/BGG/HiệpHòa/BắcGiang_HiệpHòa_TBA.json"
+        }
+      ],
+      "LạngGiang": [
+        {
+          "name": "LạngGiang_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/BGG/LạngGiang/BắcGiang_LạngGiang_Cột_Điện.json"
+        },
+        {
+          "name": "LạngGiang_TBA",
+          "url": "/cot_trung_tuyen/json_cot/BGG/LạngGiang/BắcGiang_LạngGiang_TBA.json"
+        }
+      ],
+      "LụcNam": [
+        {
+          "name": "LụcNam_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/BGG/LụcNam/BắcGiang_LụcNam_Cột_Điện.json"
+        },
+        {
+          "name": "LụcNam_TBA",
+          "url": "/cot_trung_tuyen/json_cot/BGG/LụcNam/BắcGiang_LụcNam_TBA.json"
+        }
+      ],
+      "LụcNgạn": [
+        {
+          "name": "LụcNgạn_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/BGG/LụcNgạn/BắcGiang_LụcNgạn_Cột_Điện.json"
+        },
+        {
+          "name": "LụcNgạn_TBA",
+          "url": "/cot_trung_tuyen/json_cot/BGG/LụcNgạn/BắcGiang_LụcNgạn_TBA.json"
+        }
+      ],
+      "SơnĐộng": [
+        {
+          "name": "SơnĐộng_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/BGG/SơnĐộng/BắcGiang_SơnĐộng_Cột_Điện.json"
+        },
+        {
+          "name": "SơnĐộng_TBA",
+          "url": "/cot_trung_tuyen/json_cot/BGG/SơnĐộng/BắcGiang_SơnĐộng_TBA.json"
+        },
+        {
+          "name": "SơnĐộng_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/BGG/SơnĐộng/BắcGiang_SơnĐộng_Đường_Dây.json"
+        }
+      ],
+      "TânYên": [
+        {
+          "name": "TânYên_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/BGG/TânYên/BắcGiang_TânYên_Cột_Điện.json"
+        },
+        {
+          "name": "TânYên_TBA",
+          "url": "/cot_trung_tuyen/json_cot/BGG/TânYên/BắcGiang_TânYên_TBA.json"
+        },
+        {
+          "name": "TânYên_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/BGG/TânYên/BắcGiang_TânYên_Đường_Dây.json"
+        }
+      ],
+      "ViệtYên": [
+        {
+          "name": "ViệtYên_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/BGG/ViệtYên/BắcGiang_ViệtYên_Cột_Điện.json"
+        },
+        {
+          "name": "ViệtYên_TBA",
+          "url": "/cot_trung_tuyen/json_cot/BGG/ViệtYên/BắcGiang_ViệtYên_TBA.json"
+        },
+        {
+          "name": "ViệtYên_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/BGG/ViệtYên/BắcGiang_ViệtYên_Đường_Dây.json"
+        }
+      ],
+      "YênDũng": [
+        {
+          "name": "YênDũng_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/BGG/YênDũng/BắcGiang_YênDũng_Cột_Điện.json"
+        },
+        {
+          "name": "YênDũng_TBA",
+          "url": "/cot_trung_tuyen/json_cot/BGG/YênDũng/BắcGiang_YênDũng_TBA.json"
+        },
+        {
+          "name": "YênDũng_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/BGG/YênDũng/BắcGiang_YênDũng_Đường_Dây.json"
+        }
+      ],
+      "YênThế": [
+        {
+          "name": "YênThế_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/BGG/YênThế/BắcGiang_YênThế_Cột_Điện.json"
+        },
+        {
+          "name": "YênThế_TBA",
+          "url": "/cot_trung_tuyen/json_cot/BGG/YênThế/BắcGiang_YênThế_TBA.json"
+        },
+        {
+          "name": "YênThế_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/BGG/YênThế/BắcGiang_YênThế_Đường_Dây.json"
+        }
+      ]
+    },
+    "BKN": {
+      "BaBể": [
+        {
+          "name": "BaBể_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/BKN/BaBể/BắcKạn_BaBể_Cột_Điện.json"
+        },
+        {
+          "name": "BaBể_TBA",
+          "url": "/cot_trung_tuyen/json_cot/BKN/BaBể/BắcKạn_BaBể_TBA.json"
+        },
+        {
+          "name": "BaBể_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/BKN/BaBể/BắcKạn_BaBể_Đường_Dây.json"
+        }
+      ],
+      "BạchThông": [
+        {
+          "name": "BạchThông_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/BKN/BạchThông/BắcKạn_BạchThông_Cột_Điện.json"
+        },
+        {
+          "name": "BạchThông_TBA",
+          "url": "/cot_trung_tuyen/json_cot/BKN/BạchThông/BắcKạn_BạchThông_TBA.json"
+        },
+        {
+          "name": "BạchThông_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/BKN/BạchThông/BắcKạn_BạchThông_Đường_Dây.json"
+        }
+      ],
+      "ChợMới": [
+        {
+          "name": "ChợMới_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/BKN/ChợMới/BắcKạn_ChợMới_Cột_Điện.json"
+        },
+        {
+          "name": "ChợMới_TBA",
+          "url": "/cot_trung_tuyen/json_cot/BKN/ChợMới/BắcKạn_ChợMới_TBA.json"
+        },
+        {
+          "name": "ChợMới_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/BKN/ChợMới/BắcKạn_ChợMới_Đường_Dây.json"
+        }
+      ],
+      "ChợĐồn": [
+        {
+          "name": "ChợĐồn_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/BKN/ChợĐồn/BắcKạn_ChợĐồn_Cột_Điện.json"
+        },
+        {
+          "name": "ChợĐồn_TBA",
+          "url": "/cot_trung_tuyen/json_cot/BKN/ChợĐồn/BắcKạn_ChợĐồn_TBA.json"
+        },
+        {
+          "name": "ChợĐồn_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/BKN/ChợĐồn/BắcKạn_ChợĐồn_Đường_Dây.json"
+        }
+      ],
+      "NaRì": [
+        {
+          "name": "NaRì_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/BKN/NaRì/BắcKạn_NaRì_Cột_Điện.json"
+        },
+        {
+          "name": "NaRì_TBA",
+          "url": "/cot_trung_tuyen/json_cot/BKN/NaRì/BắcKạn_NaRì_TBA.json"
+        },
+        {
+          "name": "NaRì_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/BKN/NaRì/BắcKạn_NaRì_Đường_Dây.json"
+        }
+      ],
+      "NgânSơn": [
+        {
+          "name": "NgânSơn_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/BKN/NgânSơn/BắcKạn_NgânSơn_Cột_Điện.json"
+        },
+        {
+          "name": "NgânSơn_TBA",
+          "url": "/cot_trung_tuyen/json_cot/BKN/NgânSơn/BắcKạn_NgânSơn_TBA.json"
+        },
+        {
+          "name": "NgânSơn_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/BKN/NgânSơn/BắcKạn_NgânSơn_Đường_Dây.json"
+        }
+      ],
+      "PácNặm": [
+        {
+          "name": "PácNặm_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/BKN/PácNặm/BắcKạn_PácNặm_Cột_Điện.json"
+        },
+        {
+          "name": "PácNặm_TBA",
+          "url": "/cot_trung_tuyen/json_cot/BKN/PácNặm/BắcKạn_PácNặm_TBA.json"
+        },
+        {
+          "name": "PácNặm_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/BKN/PácNặm/BắcKạn_PácNặm_Đường_Dây.json"
+        }
+      ],
+      "ThànhPhốBắcKạn": [
+        {
+          "name": "ThànhPhốBắcKạn_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/BKN/ThànhPhốBắcKạn/BắcKạn_ThànhPhốBắcKạn_Cột_Điện.json"
+        },
+        {
+          "name": "ThànhPhốBắcKạn_TBA",
+          "url": "/cot_trung_tuyen/json_cot/BKN/ThànhPhốBắcKạn/BắcKạn_ThànhPhốBắcKạn_TBA.json"
+        },
+        {
+          "name": "ThànhPhốBắcKạn_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/BKN/ThànhPhốBắcKạn/BắcKạn_ThànhPhốBắcKạn_Đường_Dây.json"
+        }
+      ]
+    },
+    "BNN": {
+      "BắcNinh": [
+        {
+          "name": "BắcNinh_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/BNN/BắcNinh/BắcNinh_BắcNinh_Cột_Điện.json"
+        },
+        {
+          "name": "BắcNinh_TBA",
+          "url": "/cot_trung_tuyen/json_cot/BNN/BắcNinh/BắcNinh_BắcNinh_TBA.json"
+        },
+        {
+          "name": "BắcNinh_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/BNN/BắcNinh/BắcNinh_BắcNinh_Đường_Dây.json"
+        }
+      ],
+      "GiaBình": [
+        {
+          "name": "GiaBình_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/BNN/GiaBình/BắcNinh_GiaBình_Cột_Điện.json"
+        },
+        {
+          "name": "GiaBình_TBA",
+          "url": "/cot_trung_tuyen/json_cot/BNN/GiaBình/BắcNinh_GiaBình_TBA.json"
+        },
+        {
+          "name": "GiaBình_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/BNN/GiaBình/BắcNinh_GiaBình_Đường_Dây.json"
+        }
+      ],
+      "LươngTài": [
+        {
+          "name": "LươngTài_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/BNN/LươngTài/BắcNinh_LươngTài_Cột_Điện.json"
+        },
+        {
+          "name": "LươngTài_TBA",
+          "url": "/cot_trung_tuyen/json_cot/BNN/LươngTài/BắcNinh_LươngTài_TBA.json"
+        },
+        {
+          "name": "LươngTài_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/BNN/LươngTài/BắcNinh_LươngTài_Đường_Dây.json"
+        }
+      ],
+      "QuếVõ": [
+        {
+          "name": "QuếVõ_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/BNN/QuếVõ/BắcNinh_QuếVõ_Cột_Điện.json"
+        },
+        {
+          "name": "QuếVõ_TBA",
+          "url": "/cot_trung_tuyen/json_cot/BNN/QuếVõ/BắcNinh_QuếVõ_TBA.json"
+        },
+        {
+          "name": "QuếVõ_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/BNN/QuếVõ/BắcNinh_QuếVõ_Đường_Dây.json"
+        }
+      ],
+      "ThuậnThành": [
+        {
+          "name": "ThuậnThành_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/BNN/ThuậnThành/BắcNinh_ThuậnThành_Cột_Điện.json"
+        },
+        {
+          "name": "ThuậnThành_TBA",
+          "url": "/cot_trung_tuyen/json_cot/BNN/ThuậnThành/BắcNinh_ThuậnThành_TBA.json"
+        },
+        {
+          "name": "ThuậnThành_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/BNN/ThuậnThành/BắcNinh_ThuậnThành_Đường_Dây.json"
+        }
+      ],
+      "TiênDu": [
+        {
+          "name": "TiênDu_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/BNN/TiênDu/BắcNinh_TiênDu_Cột_Điện.json"
+        },
+        {
+          "name": "TiênDu_TBA",
+          "url": "/cot_trung_tuyen/json_cot/BNN/TiênDu/BắcNinh_TiênDu_TBA.json"
+        },
+        {
+          "name": "TiênDu_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/BNN/TiênDu/BắcNinh_TiênDu_Đường_Dây.json"
+        }
+      ],
+      "TừSơn": [
+        {
+          "name": "TừSơn_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/BNN/TừSơn/BắcNinh_TừSơn_Cột_Điện.json"
+        },
+        {
+          "name": "TừSơn_TBA",
+          "url": "/cot_trung_tuyen/json_cot/BNN/TừSơn/BắcNinh_TừSơn_TBA.json"
+        },
+        {
+          "name": "TừSơn_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/BNN/TừSơn/BắcNinh_TừSơn_Đường_Dây.json"
+        }
+      ],
+      "YênPhong": [
+        {
+          "name": "YênPhong_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/BNN/YênPhong/BắcNinh_YênPhong_Cột_Điện.json"
+        },
+        {
+          "name": "YênPhong_TBA",
+          "url": "/cot_trung_tuyen/json_cot/BNN/YênPhong/BắcNinh_YênPhong_TBA.json"
+        },
+        {
+          "name": "YênPhong_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/BNN/YênPhong/BắcNinh_YênPhong_Đường_Dây.json"
+        }
+      ]
+    },
+    "CBG": {
+      "BảoLâm": [
+        {
+          "name": "BảoLâm_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/CBG/BảoLâm/CaoBằng_BảoLâm_Cột_Điện.json"
+        },
+        {
+          "name": "BảoLâm_TBA",
+          "url": "/cot_trung_tuyen/json_cot/CBG/BảoLâm/CaoBằng_BảoLâm_TBA.json"
+        },
+        {
+          "name": "BảoLâm_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/CBG/BảoLâm/CaoBằng_BảoLâm_Đường_Dây.json"
+        }
+      ],
+      "BảoLạc": [
+        {
+          "name": "BảoLạc_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/CBG/BảoLạc/CaoBằng_BảoLạc_Cột_Điện.json"
+        },
+        {
+          "name": "BảoLạc_TBA",
+          "url": "/cot_trung_tuyen/json_cot/CBG/BảoLạc/CaoBằng_BảoLạc_TBA.json"
+        },
+        {
+          "name": "BảoLạc_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/CBG/BảoLạc/CaoBằng_BảoLạc_Đường_Dây.json"
+        }
+      ],
+      "CaoBằng": [
+        {
+          "name": "CaoBằng_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/CBG/CaoBằng/CaoBằng_CaoBằng_Cột_Điện.json"
+        },
+        {
+          "name": "CaoBằng_TBA",
+          "url": "/cot_trung_tuyen/json_cot/CBG/CaoBằng/CaoBằng_CaoBằng_TBA.json"
+        },
+        {
+          "name": "CaoBằng_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/CBG/CaoBằng/CaoBằng_CaoBằng_Đường_Dây.json"
+        }
+      ],
+      "HoàAn": [
+        {
+          "name": "HoàAn_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/CBG/HoàAn/CaoBằng_HoàAn_Cột_Điện.json"
+        },
+        {
+          "name": "HoàAn_TBA",
+          "url": "/cot_trung_tuyen/json_cot/CBG/HoàAn/CaoBằng_HoàAn_TBA.json"
+        },
+        {
+          "name": "HoàAn_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/CBG/HoàAn/CaoBằng_HoàAn_Đường_Dây.json"
+        }
+      ],
+      "HàQuảng": [
+        {
+          "name": "HàQuảng_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/CBG/HàQuảng/CaoBằng_HàQuảng_Cột_Điện.json"
+        },
+        {
+          "name": "HàQuảng_TBA",
+          "url": "/cot_trung_tuyen/json_cot/CBG/HàQuảng/CaoBằng_HàQuảng_TBA.json"
+        },
+        {
+          "name": "HàQuảng_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/CBG/HàQuảng/CaoBằng_HàQuảng_Đường_Dây.json"
+        }
+      ],
+      "HạLang": [
+        {
+          "name": "HạLang_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/CBG/HạLang/CaoBằng_HạLang_Cột_Điện.json"
+        },
+        {
+          "name": "HạLang_TBA",
+          "url": "/cot_trung_tuyen/json_cot/CBG/HạLang/CaoBằng_HạLang_TBA.json"
+        },
+        {
+          "name": "HạLang_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/CBG/HạLang/CaoBằng_HạLang_Đường_Dây.json"
+        }
+      ],
+      "NguyênBình": [
+        {
+          "name": "NguyênBình_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/CBG/NguyênBình/CaoBằng_NguyênBình_Cột_Điện.json"
+        },
+        {
+          "name": "NguyênBình_TBA",
+          "url": "/cot_trung_tuyen/json_cot/CBG/NguyênBình/CaoBằng_NguyênBình_TBA.json"
+        },
+        {
+          "name": "NguyênBình_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/CBG/NguyênBình/CaoBằng_NguyênBình_Đường_Dây.json"
+        }
+      ],
+      "PhụcHoà": [
+        {
+          "name": "PhụcHoà_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/CBG/PhụcHoà/CaoBằng_PhụcHoà_Cột_Điện.json"
+        },
+        {
+          "name": "PhụcHoà_TBA",
+          "url": "/cot_trung_tuyen/json_cot/CBG/PhụcHoà/CaoBằng_PhụcHoà_TBA.json"
+        },
+        {
+          "name": "PhụcHoà_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/CBG/PhụcHoà/CaoBằng_PhụcHoà_Đường_Dây.json"
+        }
+      ],
+      "QuảngUyên": [
+        {
+          "name": "QuảngUyên_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/CBG/QuảngUyên/CaoBằng_QuảngUyên_Cột_Điện.json"
+        },
+        {
+          "name": "QuảngUyên_TBA",
+          "url": "/cot_trung_tuyen/json_cot/CBG/QuảngUyên/CaoBằng_QuảngUyên_TBA.json"
+        },
+        {
+          "name": "QuảngUyên_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/CBG/QuảngUyên/CaoBằng_QuảngUyên_Đường_Dây.json"
+        }
+      ],
+      "ThôngNông": [
+        {
+          "name": "ThôngNông_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/CBG/ThôngNông/CaoBằng_ThôngNông_Cột_Điện.json"
+        },
+        {
+          "name": "ThôngNông_TBA",
+          "url": "/cot_trung_tuyen/json_cot/CBG/ThôngNông/CaoBằng_ThôngNông_TBA.json"
+        },
+        {
+          "name": "ThôngNông_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/CBG/ThôngNông/CaoBằng_ThôngNông_Đường_Dây.json"
+        }
+      ],
+      "ThạchAn": [
+        {
+          "name": "ThạchAn_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/CBG/ThạchAn/CaoBằng_ThạchAn_Cột_Điện.json"
+        },
+        {
+          "name": "ThạchAn_TBA",
+          "url": "/cot_trung_tuyen/json_cot/CBG/ThạchAn/CaoBằng_ThạchAn_TBA.json"
+        },
+        {
+          "name": "ThạchAn_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/CBG/ThạchAn/CaoBằng_ThạchAn_Đường_Dây.json"
+        }
+      ],
+      "TràLĩnh": [
+        {
+          "name": "TràLĩnh_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/CBG/TràLĩnh/CaoBằng_TràLĩnh_Cột_Điện.json"
+        },
+        {
+          "name": "TràLĩnh_TBA",
+          "url": "/cot_trung_tuyen/json_cot/CBG/TràLĩnh/CaoBằng_TràLĩnh_TBA.json"
+        },
+        {
+          "name": "TràLĩnh_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/CBG/TràLĩnh/CaoBằng_TràLĩnh_Đường_Dây.json"
+        }
+      ],
+      "TrùngKhánh": [
+        {
+          "name": "TrùngKhánh_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/CBG/TrùngKhánh/CaoBằng_TrùngKhánh_Cột_Điện.json"
+        },
+        {
+          "name": "TrùngKhánh_TBA",
+          "url": "/cot_trung_tuyen/json_cot/CBG/TrùngKhánh/CaoBằng_TrùngKhánh_TBA.json"
+        },
+        {
+          "name": "TrùngKhánh_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/CBG/TrùngKhánh/CaoBằng_TrùngKhánh_Đường_Dây.json"
+        }
+      ]
+    },
+    "DBN": {
+      "MườngChà": [
+        {
+          "name": "MườngChà_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/DBN/MườngChà/ĐiệnBiên_MườngChà_Cột_Điện.json"
+        },
+        {
+          "name": "MườngChà_TBA",
+          "url": "/cot_trung_tuyen/json_cot/DBN/MườngChà/ĐiệnBiên_MườngChà_TBA.json"
+        }
+      ],
+      "MườngNhé": [
+        {
+          "name": "MườngNhé_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/DBN/MườngNhé/ĐiệnBiên_MườngNhé_Cột_Điện.json"
+        },
+        {
+          "name": "MườngNhé_TBA",
+          "url": "/cot_trung_tuyen/json_cot/DBN/MườngNhé/ĐiệnBiên_MườngNhé_TBA.json"
+        },
+        {
+          "name": "MườngNhé_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/DBN/MườngNhé/ĐiệnBiên_MườngNhé_Đường_Dây.json"
+        }
+      ],
+      "MườngẢng": [
+        {
+          "name": "MườngẢng_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/DBN/MườngẢng/ĐiệnBiên_MườngẢng_Cột_Điện.json"
+        },
+        {
+          "name": "MườngẢng_TBA",
+          "url": "/cot_trung_tuyen/json_cot/DBN/MườngẢng/ĐiệnBiên_MườngẢng_TBA.json"
+        },
+        {
+          "name": "MườngẢng_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/DBN/MườngẢng/ĐiệnBiên_MườngẢng_Đường_Dây.json"
+        }
+      ],
+      "NậmPồ": [
+        {
+          "name": "NậmPồ_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/DBN/NậmPồ/ĐiệnBiên_NậmPồ_Cột_Điện.json"
+        },
+        {
+          "name": "NậmPồ_TBA",
+          "url": "/cot_trung_tuyen/json_cot/DBN/NậmPồ/ĐiệnBiên_NậmPồ_TBA.json"
+        },
+        {
+          "name": "NậmPồ_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/DBN/NậmPồ/ĐiệnBiên_NậmPồ_Đường_Dây.json"
+        }
+      ],
+      "ThịXãMườngLay": [
+        {
+          "name": "ThịXãMườngLay_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/DBN/ThịXãMườngLay/ĐiệnBiên_ThịXãMườngLay_Cột_Điện.json"
+        },
+        {
+          "name": "ThịXãMườngLay_TBA",
+          "url": "/cot_trung_tuyen/json_cot/DBN/ThịXãMườngLay/ĐiệnBiên_ThịXãMườngLay_TBA.json"
+        },
+        {
+          "name": "ThịXãMườngLay_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/DBN/ThịXãMườngLay/ĐiệnBiên_ThịXãMườngLay_Đường_Dây.json"
+        }
+      ],
+      "TuầnGiáo": [
+        {
+          "name": "TuầnGiáo_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/DBN/TuầnGiáo/ĐiệnBiên_TuầnGiáo_Cột_Điện.json"
+        },
+        {
+          "name": "TuầnGiáo_TBA",
+          "url": "/cot_trung_tuyen/json_cot/DBN/TuầnGiáo/ĐiệnBiên_TuầnGiáo_TBA.json"
+        },
+        {
+          "name": "TuầnGiáo_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/DBN/TuầnGiáo/ĐiệnBiên_TuầnGiáo_Đường_Dây.json"
+        }
+      ],
+      "TủaChùa": [
+        {
+          "name": "TủaChùa_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/DBN/TủaChùa/ĐiệnBiên_TủaChùa_Cột_Điện.json"
+        },
+        {
+          "name": "TủaChùa_TBA",
+          "url": "/cot_trung_tuyen/json_cot/DBN/TủaChùa/ĐiệnBiên_TủaChùa_TBA.json"
+        },
+        {
+          "name": "TủaChùa_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/DBN/TủaChùa/ĐiệnBiên_TủaChùa_Đường_Dây.json"
+        }
+      ],
+      "ĐiệnBiên": [
+        {
+          "name": "ĐiệnBiên_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/DBN/ĐiệnBiên/ĐiệnBiên_ĐiệnBiên_Cột_Điện.json"
+        },
+        {
+          "name": "ĐiệnBiên_TBA",
+          "url": "/cot_trung_tuyen/json_cot/DBN/ĐiệnBiên/ĐiệnBiên_ĐiệnBiên_TBA.json"
+        },
+        {
+          "name": "ĐiệnBiên_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/DBN/ĐiệnBiên/ĐiệnBiên_ĐiệnBiên_Đường_Dây.json"
+        }
+      ],
+      "ĐiệnBiênPhủ": [
+        {
+          "name": "ĐiệnBiênPhủ_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/DBN/ĐiệnBiênPhủ/ĐiệnBiên_ĐiệnBiênPhủ_Cột_Điện.json"
+        },
+        {
+          "name": "ĐiệnBiênPhủ_TBA",
+          "url": "/cot_trung_tuyen/json_cot/DBN/ĐiệnBiênPhủ/ĐiệnBiên_ĐiệnBiênPhủ_TBA.json"
+        },
+        {
+          "name": "ĐiệnBiênPhủ_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/DBN/ĐiệnBiênPhủ/ĐiệnBiên_ĐiệnBiênPhủ_Đường_Dây.json"
+        }
+      ],
+      "ĐiệnBiênĐông": [
+        {
+          "name": "ĐiệnBiênĐông_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/DBN/ĐiệnBiênĐông/ĐiệnBiên_ĐiệnBiênĐông_Cột_Điện.json"
+        },
+        {
+          "name": "ĐiệnBiênĐông_TBA",
+          "url": "/cot_trung_tuyen/json_cot/DBN/ĐiệnBiênĐông/ĐiệnBiên_ĐiệnBiênĐông_TBA.json"
+        },
+        {
+          "name": "ĐiệnBiênĐông_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/DBN/ĐiệnBiênĐông/ĐiệnBiên_ĐiệnBiênĐông_Đường_Dây.json"
+        }
+      ]
+    },
+    "HBN": {
+      "CaoPhong": [
+        {
+          "name": "CaoPhong_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HBN/CaoPhong/HoàBình_CaoPhong_Cột_Điện.json"
+        },
+        {
+          "name": "CaoPhong_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HBN/CaoPhong/HoàBình_CaoPhong_TBA.json"
+        },
+        {
+          "name": "CaoPhong_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HBN/CaoPhong/HoàBình_CaoPhong_Đường_Dây.json"
+        }
+      ],
+      "HòaBình": [
+        {
+          "name": "HòaBình_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HBN/HòaBình/HoàBình_HòaBình_Cột_Điện.json"
+        },
+        {
+          "name": "HòaBình_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HBN/HòaBình/HoàBình_HòaBình_TBA.json"
+        },
+        {
+          "name": "HòaBình_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HBN/HòaBình/HoàBình_HòaBình_Đường_Dây.json"
+        }
+      ],
+      "KimBôi": [
+        {
+          "name": "KimBôi_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HBN/KimBôi/HoàBình_KimBôi_Cột_Điện.json"
+        },
+        {
+          "name": "KimBôi_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HBN/KimBôi/HoàBình_KimBôi_TBA.json"
+        },
+        {
+          "name": "KimBôi_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HBN/KimBôi/HoàBình_KimBôi_Đường_Dây.json"
+        }
+      ],
+      "KỳSơn": [
+        {
+          "name": "KỳSơn_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HBN/KỳSơn/HoàBình_KỳSơn_Cột_Điện.json"
+        },
+        {
+          "name": "KỳSơn_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HBN/KỳSơn/HoàBình_KỳSơn_TBA.json"
+        },
+        {
+          "name": "KỳSơn_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HBN/KỳSơn/HoàBình_KỳSơn_Đường_Dây.json"
+        }
+      ],
+      "LươngSơn": [
+        {
+          "name": "LươngSơn_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HBN/LươngSơn/HoàBình_LươngSơn_Cột_Điện.json"
+        },
+        {
+          "name": "LươngSơn_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HBN/LươngSơn/HoàBình_LươngSơn_TBA.json"
+        },
+        {
+          "name": "LươngSơn_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HBN/LươngSơn/HoàBình_LươngSơn_Đường_Dây.json"
+        }
+      ],
+      "LạcSơn": [
+        {
+          "name": "LạcSơn_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HBN/LạcSơn/HoàBình_LạcSơn_Cột_Điện.json"
+        },
+        {
+          "name": "LạcSơn_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HBN/LạcSơn/HoàBình_LạcSơn_TBA.json"
+        },
+        {
+          "name": "LạcSơn_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HBN/LạcSơn/HoàBình_LạcSơn_Đường_Dây.json"
+        }
+      ],
+      "LạcThủy": [
+        {
+          "name": "LạcThủy_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HBN/LạcThủy/HoàBình_LạcThủy_Cột_Điện.json"
+        },
+        {
+          "name": "LạcThủy_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HBN/LạcThủy/HoàBình_LạcThủy_TBA.json"
+        },
+        {
+          "name": "LạcThủy_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HBN/LạcThủy/HoàBình_LạcThủy_Đường_Dây.json"
+        }
+      ],
+      "MaiChâu": [
+        {
+          "name": "MaiChâu_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HBN/MaiChâu/HoàBình_MaiChâu_Cột_Điện.json"
+        },
+        {
+          "name": "MaiChâu_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HBN/MaiChâu/HoàBình_MaiChâu_TBA.json"
+        },
+        {
+          "name": "MaiChâu_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HBN/MaiChâu/HoàBình_MaiChâu_Đường_Dây.json"
+        }
+      ],
+      "TânLạc": [
+        {
+          "name": "TânLạc_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HBN/TânLạc/HoàBình_TânLạc_Cột_Điện.json"
+        },
+        {
+          "name": "TânLạc_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HBN/TânLạc/HoàBình_TânLạc_TBA.json"
+        }
+      ],
+      "YênThủy": [
+        {
+          "name": "YênThủy_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HBN/YênThủy/HoàBình_YênThủy_Cột_Điện.json"
+        },
+        {
+          "name": "YênThủy_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HBN/YênThủy/HoàBình_YênThủy_TBA.json"
+        },
+        {
+          "name": "YênThủy_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HBN/YênThủy/HoàBình_YênThủy_Đường_Dây.json"
+        }
+      ],
+      "ĐàBắc": [
+        {
+          "name": "ĐàBắc_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HBN/ĐàBắc/HoàBình_ĐàBắc_Cột_Điện.json"
+        },
+        {
+          "name": "ĐàBắc_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HBN/ĐàBắc/HoàBình_ĐàBắc_TBA.json"
+        },
+        {
+          "name": "ĐàBắc_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HBN/ĐàBắc/HoàBình_ĐàBắc_Đường_Dây.json"
+        }
+      ]
+    },
+    "HDN": {
+      "BìnhGiang": [
+        {
+          "name": "BìnhGiang_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HDN/BìnhGiang/HảiDương_BìnhGiang_Cột_Điện.json"
+        },
+        {
+          "name": "BìnhGiang_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HDN/BìnhGiang/HảiDương_BìnhGiang_TBA.json"
+        },
+        {
+          "name": "BìnhGiang_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HDN/BìnhGiang/HảiDương_BìnhGiang_Đường_Dây.json"
+        }
+      ],
+      "ChíLinh": [
+        {
+          "name": "ChíLinh_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HDN/ChíLinh/HảiDương_ChíLinh_Cột_Điện.json"
+        },
+        {
+          "name": "ChíLinh_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HDN/ChíLinh/HảiDương_ChíLinh_TBA.json"
+        },
+        {
+          "name": "ChíLinh_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HDN/ChíLinh/HảiDương_ChíLinh_Đường_Dây.json"
+        }
+      ],
+      "CẩmGiàng": [
+        {
+          "name": "CẩmGiàng_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HDN/CẩmGiàng/HảiDương_CẩmGiàng_Cột_Điện.json"
+        },
+        {
+          "name": "CẩmGiàng_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HDN/CẩmGiàng/HảiDương_CẩmGiàng_Đường_Dây.json"
+        }
+      ],
+      "GiaLộc": [
+        {
+          "name": "GiaLộc_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HDN/GiaLộc/HảiDương_GiaLộc_Cột_Điện.json"
+        },
+        {
+          "name": "GiaLộc_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HDN/GiaLộc/HảiDương_GiaLộc_TBA.json"
+        },
+        {
+          "name": "GiaLộc_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HDN/GiaLộc/HảiDương_GiaLộc_Đường_Dây.json"
+        }
+      ],
+      "HảiDương": [
+        {
+          "name": "HảiDương_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HDN/HảiDương/HảiDương_HảiDương_Cột_Điện.json"
+        },
+        {
+          "name": "HảiDương_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HDN/HảiDương/HảiDương_HảiDương_Đường_Dây.json"
+        }
+      ],
+      "KimThành": [
+        {
+          "name": "KimThành_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HDN/KimThành/HảiDương_KimThành_Cột_Điện.json"
+        },
+        {
+          "name": "KimThành_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HDN/KimThành/HảiDương_KimThành_TBA.json"
+        },
+        {
+          "name": "KimThành_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HDN/KimThành/HảiDương_KimThành_Đường_Dây.json"
+        }
+      ],
+      "KinhMôn": [
+        {
+          "name": "KinhMôn_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HDN/KinhMôn/HảiDương_KinhMôn_Cột_Điện.json"
+        },
+        {
+          "name": "KinhMôn_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HDN/KinhMôn/HảiDương_KinhMôn_TBA.json"
+        },
+        {
+          "name": "KinhMôn_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HDN/KinhMôn/HảiDương_KinhMôn_Đường_Dây.json"
+        }
+      ],
+      "NamSách": [
+        {
+          "name": "NamSách_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HDN/NamSách/HảiDương_NamSách_Cột_Điện.json"
+        },
+        {
+          "name": "NamSách_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HDN/NamSách/HảiDương_NamSách_TBA.json"
+        },
+        {
+          "name": "NamSách_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HDN/NamSách/HảiDương_NamSách_Đường_Dây.json"
+        }
+      ],
+      "NinhGiang": [
+        {
+          "name": "NinhGiang_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HDN/NinhGiang/HảiDương_NinhGiang_Cột_Điện.json"
+        },
+        {
+          "name": "NinhGiang_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HDN/NinhGiang/HảiDương_NinhGiang_TBA.json"
+        },
+        {
+          "name": "NinhGiang_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HDN/NinhGiang/HảiDương_NinhGiang_Đường_Dây.json"
+        }
+      ],
+      "ThanhHà": [
+        {
+          "name": "ThanhHà_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HDN/ThanhHà/HảiDương_ThanhHà_Cột_Điện.json"
+        },
+        {
+          "name": "ThanhHà_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HDN/ThanhHà/HảiDương_ThanhHà_TBA.json"
+        },
+        {
+          "name": "ThanhHà_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HDN/ThanhHà/HảiDương_ThanhHà_Đường_Dây.json"
+        }
+      ],
+      "ThanhMiện": [
+        {
+          "name": "ThanhMiện_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HDN/ThanhMiện/HảiDương_ThanhMiện_Cột_Điện.json"
+        },
+        {
+          "name": "ThanhMiện_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HDN/ThanhMiện/HảiDương_ThanhMiện_TBA.json"
+        },
+        {
+          "name": "ThanhMiện_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HDN/ThanhMiện/HảiDương_ThanhMiện_Đường_Dây.json"
+        }
+      ],
+      "TứKỳ": [
+        {
+          "name": "TứKỳ_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HDN/TứKỳ/HảiDương_TứKỳ_Cột_Điện.json"
+        },
+        {
+          "name": "TứKỳ_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HDN/TứKỳ/HảiDương_TứKỳ_TBA.json"
+        },
+        {
+          "name": "TứKỳ_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HDN/TứKỳ/HảiDương_TứKỳ_Đường_Dây.json"
+        }
+      ]
+    },
+    "HGG": {
+      "BắcMê": [
+        {
+          "name": "BắcMê_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HGG/BắcMê/HàGiang_BắcMê_Cột_Điện.json"
+        },
+        {
+          "name": "BắcMê_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HGG/BắcMê/HàGiang_BắcMê_TBA.json"
+        },
+        {
+          "name": "BắcMê_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HGG/BắcMê/HàGiang_BắcMê_Đường_Dây.json"
+        }
+      ],
+      "BắcQuang": [
+        {
+          "name": "BắcQuang_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HGG/BắcQuang/HàGiang_BắcQuang_Cột_Điện.json"
+        },
+        {
+          "name": "BắcQuang_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HGG/BắcQuang/HàGiang_BắcQuang_TBA.json"
+        },
+        {
+          "name": "BắcQuang_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HGG/BắcQuang/HàGiang_BắcQuang_Đường_Dây.json"
+        }
+      ],
+      "HoàngSuPhì": [
+        {
+          "name": "HoàngSuPhì_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HGG/HoàngSuPhì/HàGiang_HoàngSuPhì_Cột_Điện.json"
+        },
+        {
+          "name": "HoàngSuPhì_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HGG/HoàngSuPhì/HàGiang_HoàngSuPhì_TBA.json"
+        },
+        {
+          "name": "HoàngSuPhì_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HGG/HoàngSuPhì/HàGiang_HoàngSuPhì_Đường_Dây.json"
+        }
+      ],
+      "HàGiang": [
+        {
+          "name": "HàGiang_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HGG/HàGiang/HàGiang_HàGiang_Cột_Điện.json"
+        },
+        {
+          "name": "HàGiang_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HGG/HàGiang/HàGiang_HàGiang_TBA.json"
+        },
+        {
+          "name": "HàGiang_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HGG/HàGiang/HàGiang_HàGiang_Đường_Dây.json"
+        }
+      ],
+      "MèoVạc": [
+        {
+          "name": "MèoVạc_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HGG/MèoVạc/HàGiang_MèoVạc_Cột_Điện.json"
+        },
+        {
+          "name": "MèoVạc_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HGG/MèoVạc/HàGiang_MèoVạc_TBA.json"
+        },
+        {
+          "name": "MèoVạc_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HGG/MèoVạc/HàGiang_MèoVạc_Đường_Dây.json"
+        }
+      ],
+      "QuangBình": [
+        {
+          "name": "QuangBình_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HGG/QuangBình/HàGiang_QuangBình_Cột_Điện.json"
+        },
+        {
+          "name": "QuangBình_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HGG/QuangBình/HàGiang_QuangBình_TBA.json"
+        },
+        {
+          "name": "QuangBình_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HGG/QuangBình/HàGiang_QuangBình_Đường_Dây.json"
+        }
+      ],
+      "QuảnBạ": [
+        {
+          "name": "QuảnBạ_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HGG/QuảnBạ/HàGiang_QuảnBạ_Cột_Điện.json"
+        },
+        {
+          "name": "QuảnBạ_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HGG/QuảnBạ/HàGiang_QuảnBạ_TBA.json"
+        },
+        {
+          "name": "QuảnBạ_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HGG/QuảnBạ/HàGiang_QuảnBạ_Đường_Dây.json"
+        }
+      ],
+      "VịXuyên": [
+        {
+          "name": "VịXuyên_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HGG/VịXuyên/HàGiang_VịXuyên_Cột_Điện.json"
+        },
+        {
+          "name": "VịXuyên_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HGG/VịXuyên/HàGiang_VịXuyên_TBA.json"
+        },
+        {
+          "name": "VịXuyên_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HGG/VịXuyên/HàGiang_VịXuyên_Đường_Dây.json"
+        }
+      ],
+      "XínMần": [
+        {
+          "name": "XínMần_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HGG/XínMần/HàGiang_XínMần_Cột_Điện.json"
+        },
+        {
+          "name": "XínMần_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HGG/XínMần/HàGiang_XínMần_TBA.json"
+        },
+        {
+          "name": "XínMần_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HGG/XínMần/HàGiang_XínMần_Đường_Dây.json"
+        }
+      ],
+      "YênMinh": [
+        {
+          "name": "YênMinh_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HGG/YênMinh/HàGiang_YênMinh_Cột_Điện.json"
+        },
+        {
+          "name": "YênMinh_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HGG/YênMinh/HàGiang_YênMinh_TBA.json"
+        },
+        {
+          "name": "YênMinh_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HGG/YênMinh/HàGiang_YênMinh_Đường_Dây.json"
+        }
+      ],
+      "ĐồngVăn": [
+        {
+          "name": "ĐồngVăn_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HGG/ĐồngVăn/HàGiang_ĐồngVăn_Cột_Điện.json"
+        },
+        {
+          "name": "ĐồngVăn_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HGG/ĐồngVăn/HàGiang_ĐồngVăn_TBA.json"
+        },
+        {
+          "name": "ĐồngVăn_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HGG/ĐồngVăn/HàGiang_ĐồngVăn_Đường_Dây.json"
+        }
+      ]
+    },
+    "HNG": {
+      "BìnhLục": [
+        {
+          "name": "BìnhLục_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HNG/BìnhLục/HàNam_BìnhLục_Cột_Điện.json"
+        },
+        {
+          "name": "BìnhLục_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HNG/BìnhLục/HàNam_BìnhLục_TBA.json"
+        },
+        {
+          "name": "BìnhLục_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HNG/BìnhLục/HàNam_BìnhLục_Đường_Dây.json"
+        }
+      ],
+      "DuyTiên": [
+        {
+          "name": "DuyTiên_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HNG/DuyTiên/HàNam_DuyTiên_Cột_Điện.json"
+        },
+        {
+          "name": "DuyTiên_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HNG/DuyTiên/HàNam_DuyTiên_TBA.json"
+        },
+        {
+          "name": "DuyTiên_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HNG/DuyTiên/HàNam_DuyTiên_Đường_Dây.json"
+        }
+      ],
+      "KimBảng": [
+        {
+          "name": "KimBảng_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HNG/KimBảng/HàNam_KimBảng_Cột_Điện.json"
+        },
+        {
+          "name": "KimBảng_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HNG/KimBảng/HàNam_KimBảng_TBA.json"
+        },
+        {
+          "name": "KimBảng_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HNG/KimBảng/HàNam_KimBảng_Đường_Dây.json"
+        }
+      ],
+      "LýNhân": [
+        {
+          "name": "LýNhân_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HNG/LýNhân/HàNam_LýNhân_Cột_Điện.json"
+        },
+        {
+          "name": "LýNhân_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HNG/LýNhân/HàNam_LýNhân_TBA.json"
+        },
+        {
+          "name": "LýNhân_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HNG/LýNhân/HàNam_LýNhân_Đường_Dây.json"
+        }
+      ],
+      "PhủLý": [
+        {
+          "name": "PhủLý_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HNG/PhủLý/HàNam_PhủLý_Cột_Điện.json"
+        },
+        {
+          "name": "PhủLý_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HNG/PhủLý/HàNam_PhủLý_TBA.json"
+        },
+        {
+          "name": "PhủLý_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HNG/PhủLý/HàNam_PhủLý_Đường_Dây.json"
+        }
+      ],
+      "ThanhLiêm": [
+        {
+          "name": "ThanhLiêm_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HNG/ThanhLiêm/HàNam_ThanhLiêm_Cột_Điện.json"
+        },
+        {
+          "name": "ThanhLiêm_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HNG/ThanhLiêm/HàNam_ThanhLiêm_TBA.json"
+        },
+        {
+          "name": "ThanhLiêm_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HNG/ThanhLiêm/HàNam_ThanhLiêm_Đường_Dây.json"
+        }
+      ]
+    },
+    "HNN": {
+      "BaVì": [
+        {
+          "name": "BaVì_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HNN/BaVì/HàNội_BaVì_Cột_Điện.json"
+        },
+        {
+          "name": "BaVì_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HNN/BaVì/HàNội_BaVì_TBA.json"
+        },
+        {
+          "name": "BaVì_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HNN/BaVì/HàNội_BaVì_Đường_Dây.json"
+        }
+      ],
+      "BaĐình": [
+        {
+          "name": "BaĐình_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HNN/BaĐình/HàNội_BaĐình_Đường_Dây.json"
+        }
+      ],
+      "ChươngMỹ": [
+        {
+          "name": "ChươngMỹ_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HNN/ChươngMỹ/HàNội_ChươngMỹ_Cột_Điện.json"
+        },
+        {
+          "name": "ChươngMỹ_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HNN/ChươngMỹ/HàNội_ChươngMỹ_TBA.json"
+        },
+        {
+          "name": "ChươngMỹ_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HNN/ChươngMỹ/HàNội_ChươngMỹ_Đường_Dây.json"
+        }
+      ],
+      "CầuGiấy": [
+        {
+          "name": "CầuGiấy_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HNN/CầuGiấy/HàNội_CầuGiấy_Đường_Dây.json"
+        }
+      ],
+      "GiaLâm": [
+        {
+          "name": "GiaLâm_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HNN/GiaLâm/HàNội_GiaLâm_Cột_Điện.json"
+        },
+        {
+          "name": "GiaLâm_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HNN/GiaLâm/HàNội_GiaLâm_TBA.json"
+        },
+        {
+          "name": "GiaLâm_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HNN/GiaLâm/HàNội_GiaLâm_Đường_Dây.json"
+        }
+      ],
+      "HoàiĐức": [
+        {
+          "name": "HoàiĐức_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HNN/HoàiĐức/HàNội_HoàiĐức_Đường_Dây.json"
+        }
+      ],
+      "HoàngMai": [
+        {
+          "name": "HoàngMai_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HNN/HoàngMai/HàNội_HoàngMai_Cột_Điện.json"
+        },
+        {
+          "name": "HoàngMai_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HNN/HoàngMai/HàNội_HoàngMai_Đường_Dây.json"
+        }
+      ],
+      "HàĐông": [
+        {
+          "name": "HàĐông_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HNN/HàĐông/HàNội_HàĐông_Đường_Dây.json"
+        }
+      ],
+      "MêLinh": [
+        {
+          "name": "MêLinh_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HNN/MêLinh/HàNội_MêLinh_Cột_Điện.json"
+        }
+      ],
+      "MỹĐức": [
+        {
+          "name": "MỹĐức_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HNN/MỹĐức/HàNội_MỹĐức_Cột_Điện.json"
+        }
+      ],
+      "NamTừLiêm": [
+        {
+          "name": "NamTừLiêm_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HNN/NamTừLiêm/HàNội_NamTừLiêm_Đường_Dây.json"
+        }
+      ],
+      "PhúcThọ": [
+        {
+          "name": "PhúcThọ_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HNN/PhúcThọ/HàNội_PhúcThọ_Cột_Điện.json"
+        },
+        {
+          "name": "PhúcThọ_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HNN/PhúcThọ/HàNội_PhúcThọ_TBA.json"
+        },
+        {
+          "name": "PhúcThọ_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HNN/PhúcThọ/HàNội_PhúcThọ_Đường_Dây.json"
+        }
+      ],
+      "PhúXuyên": [
+        {
+          "name": "PhúXuyên_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HNN/PhúXuyên/HàNội_PhúXuyên_Cột_Điện.json"
+        },
+        {
+          "name": "PhúXuyên_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HNN/PhúXuyên/HàNội_PhúXuyên_Đường_Dây.json"
+        }
+      ],
+      "QuốcOai": [
+        {
+          "name": "QuốcOai_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HNN/QuốcOai/HàNội_QuốcOai_Cột_Điện.json"
+        },
+        {
+          "name": "QuốcOai_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HNN/QuốcOai/HàNội_QuốcOai_Đường_Dây.json"
+        }
+      ],
+      "SócSơn": [
+        {
+          "name": "SócSơn_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HNN/SócSơn/HàNội_SócSơn_Cột_Điện.json"
+        },
+        {
+          "name": "SócSơn_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HNN/SócSơn/HàNội_SócSơn_TBA.json"
+        },
+        {
+          "name": "SócSơn_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HNN/SócSơn/HàNội_SócSơn_Đường_Dây.json"
+        }
+      ],
+      "ThanhOai": [
+        {
+          "name": "ThanhOai_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HNN/ThanhOai/HàNội_ThanhOai_Đường_Dây.json"
+        }
+      ],
+      "ThanhTrì": [
+        {
+          "name": "ThanhTrì_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HNN/ThanhTrì/HàNội_ThanhTrì_Đường_Dây.json"
+        }
+      ],
+      "ThanhXuân": [
+        {
+          "name": "ThanhXuân_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HNN/ThanhXuân/HàNội_ThanhXuân_Đường_Dây.json"
+        }
+      ],
+      "ThườngTín": [
+        {
+          "name": "ThườngTín_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HNN/ThườngTín/HàNội_ThườngTín_TBA.json"
+        },
+        {
+          "name": "ThườngTín_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HNN/ThườngTín/HàNội_ThườngTín_Đường_Dây.json"
+        }
+      ],
+      "ĐôngAnh": [
+        {
+          "name": "ĐôngAnh_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HNN/ĐôngAnh/HàNội_ĐôngAnh_Cột_Điện.json"
+        },
+        {
+          "name": "ĐôngAnh_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HNN/ĐôngAnh/HàNội_ĐôngAnh_TBA.json"
+        },
+        {
+          "name": "ĐôngAnh_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HNN/ĐôngAnh/HàNội_ĐôngAnh_Đường_Dây.json"
+        }
+      ]
+    },
+    "HPG": {
+      "AnDương": [
+        {
+          "name": "AnDương_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HPG/AnDương/HảiPhòng_AnDương_Cột_Điện.json"
+        },
+        {
+          "name": "AnDương_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HPG/AnDương/HảiPhòng_AnDương_TBA.json"
+        },
+        {
+          "name": "AnDương_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HPG/AnDương/HảiPhòng_AnDương_Đường_Dây.json"
+        }
+      ],
+      "AnLão": [
+        {
+          "name": "AnLão_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HPG/AnLão/HảiPhòng_AnLão_Cột_Điện.json"
+        },
+        {
+          "name": "AnLão_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HPG/AnLão/HảiPhòng_AnLão_TBA.json"
+        },
+        {
+          "name": "AnLão_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HPG/AnLão/HảiPhòng_AnLão_Đường_Dây.json"
+        }
+      ],
+      "BạchLongVĩ": [
+        {
+          "name": "BạchLongVĩ_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HPG/BạchLongVĩ/HảiPhòng_BạchLongVĩ_TBA.json"
+        },
+        {
+          "name": "BạchLongVĩ_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HPG/BạchLongVĩ/HảiPhòng_BạchLongVĩ_Đường_Dây.json"
+        }
+      ],
+      "CátHải": [
+        {
+          "name": "CátHải_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HPG/CátHải/HảiPhòng_CátHải_Cột_Điện.json"
+        },
+        {
+          "name": "CátHải_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HPG/CátHải/HảiPhòng_CátHải_TBA.json"
+        },
+        {
+          "name": "CátHải_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HPG/CátHải/HảiPhòng_CátHải_Đường_Dây.json"
+        }
+      ],
+      "DươngKinh": [
+        {
+          "name": "DươngKinh_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HPG/DươngKinh/HảiPhòng_DươngKinh_Cột_Điện.json"
+        },
+        {
+          "name": "DươngKinh_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HPG/DươngKinh/HảiPhòng_DươngKinh_TBA.json"
+        },
+        {
+          "name": "DươngKinh_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HPG/DươngKinh/HảiPhòng_DươngKinh_Đường_Dây.json"
+        }
+      ],
+      "HảiAn": [
+        {
+          "name": "HảiAn_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HPG/HảiAn/HảiPhòng_HảiAn_Cột_Điện.json"
+        },
+        {
+          "name": "HảiAn_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HPG/HảiAn/HảiPhòng_HảiAn_TBA.json"
+        },
+        {
+          "name": "HảiAn_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HPG/HảiAn/HảiPhòng_HảiAn_Đường_Dây.json"
+        }
+      ],
+      "HồngBàng": [
+        {
+          "name": "HồngBàng_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HPG/HồngBàng/HảiPhòng_HồngBàng_Cột_Điện.json"
+        },
+        {
+          "name": "HồngBàng_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HPG/HồngBàng/HảiPhòng_HồngBàng_TBA.json"
+        },
+        {
+          "name": "HồngBàng_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HPG/HồngBàng/HảiPhòng_HồngBàng_Đường_Dây.json"
+        }
+      ],
+      "KiếnAn": [
+        {
+          "name": "KiếnAn_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HPG/KiếnAn/HảiPhòng_KiếnAn_Cột_Điện.json"
+        },
+        {
+          "name": "KiếnAn_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HPG/KiếnAn/HảiPhòng_KiếnAn_TBA.json"
+        },
+        {
+          "name": "KiếnAn_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HPG/KiếnAn/HảiPhòng_KiếnAn_Đường_Dây.json"
+        }
+      ],
+      "KiếnThuỵ": [
+        {
+          "name": "KiếnThuỵ_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HPG/KiếnThuỵ/HảiPhòng_KiếnThuỵ_Cột_Điện.json"
+        },
+        {
+          "name": "KiếnThuỵ_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HPG/KiếnThuỵ/HảiPhòng_KiếnThuỵ_TBA.json"
+        },
+        {
+          "name": "KiếnThuỵ_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HPG/KiếnThuỵ/HảiPhòng_KiếnThuỵ_Đường_Dây.json"
+        }
+      ],
+      "LêChân": [
+        {
+          "name": "LêChân_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HPG/LêChân/HảiPhòng_LêChân_Cột_Điện.json"
+        },
+        {
+          "name": "LêChân_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HPG/LêChân/HảiPhòng_LêChân_TBA.json"
+        },
+        {
+          "name": "LêChân_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HPG/LêChân/HảiPhòng_LêChân_Đường_Dây.json"
+        }
+      ],
+      "NgôQuyền": [
+        {
+          "name": "NgôQuyền_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HPG/NgôQuyền/HảiPhòng_NgôQuyền_Cột_Điện.json"
+        },
+        {
+          "name": "NgôQuyền_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HPG/NgôQuyền/HảiPhòng_NgôQuyền_TBA.json"
+        },
+        {
+          "name": "NgôQuyền_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HPG/NgôQuyền/HảiPhòng_NgôQuyền_Đường_Dây.json"
+        }
+      ],
+      "ThuỷNguyên": [
+        {
+          "name": "ThuỷNguyên_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HPG/ThuỷNguyên/HảiPhòng_ThuỷNguyên_Cột_Điện.json"
+        },
+        {
+          "name": "ThuỷNguyên_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HPG/ThuỷNguyên/HảiPhòng_ThuỷNguyên_TBA.json"
+        },
+        {
+          "name": "ThuỷNguyên_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HPG/ThuỷNguyên/HảiPhòng_ThuỷNguyên_Đường_Dây.json"
+        }
+      ],
+      "TiênLãng": [
+        {
+          "name": "TiênLãng_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HPG/TiênLãng/HảiPhòng_TiênLãng_Cột_Điện.json"
+        },
+        {
+          "name": "TiênLãng_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HPG/TiênLãng/HảiPhòng_TiênLãng_TBA.json"
+        },
+        {
+          "name": "TiênLãng_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HPG/TiênLãng/HảiPhòng_TiênLãng_Đường_Dây.json"
+        }
+      ],
+      "VĩnhBảo": [
+        {
+          "name": "VĩnhBảo_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HPG/VĩnhBảo/HảiPhòng_VĩnhBảo_Cột_Điện.json"
+        },
+        {
+          "name": "VĩnhBảo_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HPG/VĩnhBảo/HảiPhòng_VĩnhBảo_TBA.json"
+        },
+        {
+          "name": "VĩnhBảo_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HPG/VĩnhBảo/HảiPhòng_VĩnhBảo_Đường_Dây.json"
+        }
+      ],
+      "ĐồSơn": [
+        {
+          "name": "ĐồSơn_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HPG/ĐồSơn/HảiPhòng_ĐồSơn_Cột_Điện.json"
+        },
+        {
+          "name": "ĐồSơn_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HPG/ĐồSơn/HảiPhòng_ĐồSơn_TBA.json"
+        },
+        {
+          "name": "ĐồSơn_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HPG/ĐồSơn/HảiPhòng_ĐồSơn_Đường_Dây.json"
+        }
+      ]
+    },
+    "HTH": {
+      "CanLộc": [
+        {
+          "name": "CanLộc_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HTH/CanLộc/HàTĩnh_CanLộc_Cột_Điện.json"
+        },
+        {
+          "name": "CanLộc_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HTH/CanLộc/HàTĩnh_CanLộc_TBA.json"
+        },
+        {
+          "name": "CanLộc_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HTH/CanLộc/HàTĩnh_CanLộc_Đường_Dây.json"
+        }
+      ],
+      "CẩmXuyên": [
+        {
+          "name": "CẩmXuyên_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HTH/CẩmXuyên/HàTĩnh_CẩmXuyên_Cột_Điện.json"
+        },
+        {
+          "name": "CẩmXuyên_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HTH/CẩmXuyên/HàTĩnh_CẩmXuyên_TBA.json"
+        },
+        {
+          "name": "CẩmXuyên_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HTH/CẩmXuyên/HàTĩnh_CẩmXuyên_Đường_Dây.json"
+        }
+      ],
+      "HàTĩnh": [
+        {
+          "name": "HàTĩnh_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HTH/HàTĩnh/HàTĩnh_HàTĩnh_Cột_Điện.json"
+        },
+        {
+          "name": "HàTĩnh_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HTH/HàTĩnh/HàTĩnh_HàTĩnh_TBA.json"
+        },
+        {
+          "name": "HàTĩnh_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HTH/HàTĩnh/HàTĩnh_HàTĩnh_Đường_Dây.json"
+        }
+      ],
+      "HươngKhê": [
+        {
+          "name": "HươngKhê_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HTH/HươngKhê/HàTĩnh_HươngKhê_Cột_Điện.json"
+        },
+        {
+          "name": "HươngKhê_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HTH/HươngKhê/HàTĩnh_HươngKhê_TBA.json"
+        },
+        {
+          "name": "HươngKhê_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HTH/HươngKhê/HàTĩnh_HươngKhê_Đường_Dây.json"
+        }
+      ],
+      "HươngSơn": [
+        {
+          "name": "HươngSơn_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HTH/HươngSơn/HàTĩnh_HươngSơn_Cột_Điện.json"
+        },
+        {
+          "name": "HươngSơn_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HTH/HươngSơn/HàTĩnh_HươngSơn_TBA.json"
+        },
+        {
+          "name": "HươngSơn_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HTH/HươngSơn/HàTĩnh_HươngSơn_Đường_Dây.json"
+        }
+      ],
+      "HồngLĩnh": [
+        {
+          "name": "HồngLĩnh_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HTH/HồngLĩnh/HàTĩnh_HồngLĩnh_Cột_Điện.json"
+        },
+        {
+          "name": "HồngLĩnh_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HTH/HồngLĩnh/HàTĩnh_HồngLĩnh_TBA.json"
+        },
+        {
+          "name": "HồngLĩnh_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HTH/HồngLĩnh/HàTĩnh_HồngLĩnh_Đường_Dây.json"
+        }
+      ],
+      "KỳAnh": [
+        {
+          "name": "KỳAnh_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HTH/KỳAnh/HàTĩnh_KỳAnh_Cột_Điện.json"
+        },
+        {
+          "name": "KỳAnh_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HTH/KỳAnh/HàTĩnh_KỳAnh_TBA.json"
+        },
+        {
+          "name": "KỳAnh_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HTH/KỳAnh/HàTĩnh_KỳAnh_Đường_Dây.json"
+        }
+      ],
+      "KỳAnh(Thịxã)": [
+        {
+          "name": "KỳAnh(Thịxã)_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HTH/KỳAnh(Thịxã)/HàTĩnh_KỳAnh(Thịxã)_Cột_Điện.json"
+        },
+        {
+          "name": "KỳAnh(Thịxã)_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HTH/KỳAnh(Thịxã)/HàTĩnh_KỳAnh(Thịxã)_TBA.json"
+        },
+        {
+          "name": "KỳAnh(Thịxã)_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HTH/KỳAnh(Thịxã)/HàTĩnh_KỳAnh(Thịxã)_Đường_Dây.json"
+        }
+      ],
+      "LộcHà": [
+        {
+          "name": "LộcHà_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HTH/LộcHà/HàTĩnh_LộcHà_Cột_Điện.json"
+        },
+        {
+          "name": "LộcHà_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HTH/LộcHà/HàTĩnh_LộcHà_TBA.json"
+        },
+        {
+          "name": "LộcHà_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HTH/LộcHà/HàTĩnh_LộcHà_Đường_Dây.json"
+        }
+      ],
+      "NghiXuân": [
+        {
+          "name": "NghiXuân_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HTH/NghiXuân/HàTĩnh_NghiXuân_Cột_Điện.json"
+        },
+        {
+          "name": "NghiXuân_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HTH/NghiXuân/HàTĩnh_NghiXuân_TBA.json"
+        },
+        {
+          "name": "NghiXuân_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HTH/NghiXuân/HàTĩnh_NghiXuân_Đường_Dây.json"
+        }
+      ],
+      "ThạchHà": [
+        {
+          "name": "ThạchHà_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HTH/ThạchHà/HàTĩnh_ThạchHà_Cột_Điện.json"
+        },
+        {
+          "name": "ThạchHà_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HTH/ThạchHà/HàTĩnh_ThạchHà_TBA.json"
+        }
+      ],
+      "TuyênHóa": [
+        {
+          "name": "TuyênHóa_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HTH/TuyênHóa/QuảngBình_TuyênHóa_TBA.json"
+        },
+        {
+          "name": "TuyênHóa_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HTH/TuyênHóa/QuảngBình_TuyênHóa_Đường_Dây.json"
+        }
+      ],
+      "VũQuang": [
+        {
+          "name": "VũQuang_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HTH/VũQuang/HàTĩnh_VũQuang_Cột_Điện.json"
+        },
+        {
+          "name": "VũQuang_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HTH/VũQuang/HàTĩnh_VũQuang_TBA.json"
+        },
+        {
+          "name": "VũQuang_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HTH/VũQuang/HàTĩnh_VũQuang_Đường_Dây.json"
+        }
+      ],
+      "ĐứcThọ": [
+        {
+          "name": "ĐứcThọ_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HTH/ĐứcThọ/HàTĩnh_ĐứcThọ_Cột_Điện.json"
+        },
+        {
+          "name": "ĐứcThọ_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HTH/ĐứcThọ/HàTĩnh_ĐứcThọ_TBA.json"
+        },
+        {
+          "name": "ĐứcThọ_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HTH/ĐứcThọ/HàTĩnh_ĐứcThọ_Đường_Dây.json"
+        }
+      ]
+    },
+    "HYN": {
+      "HưngYên": [
+        {
+          "name": "HưngYên_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HYN/HưngYên/HưngYên_HưngYên_Cột_Điện.json"
+        },
+        {
+          "name": "HưngYên_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HYN/HưngYên/HưngYên_HưngYên_TBA.json"
+        },
+        {
+          "name": "HưngYên_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HYN/HưngYên/HưngYên_HưngYên_Đường_Dây.json"
+        }
+      ],
+      "KhoáiChâu": [
+        {
+          "name": "KhoáiChâu_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HYN/KhoáiChâu/HưngYên_KhoáiChâu_Cột_Điện.json"
+        },
+        {
+          "name": "KhoáiChâu_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HYN/KhoáiChâu/HưngYên_KhoáiChâu_TBA.json"
+        },
+        {
+          "name": "KhoáiChâu_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HYN/KhoáiChâu/HưngYên_KhoáiChâu_Đường_Dây.json"
+        }
+      ],
+      "KimĐộng": [
+        {
+          "name": "KimĐộng_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HYN/KimĐộng/HưngYên_KimĐộng_Cột_Điện.json"
+        },
+        {
+          "name": "KimĐộng_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HYN/KimĐộng/HưngYên_KimĐộng_TBA.json"
+        },
+        {
+          "name": "KimĐộng_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HYN/KimĐộng/HưngYên_KimĐộng_Đường_Dây.json"
+        }
+      ],
+      "MỹHào": [
+        {
+          "name": "MỹHào_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HYN/MỹHào/HưngYên_MỹHào_Cột_Điện.json"
+        },
+        {
+          "name": "MỹHào_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HYN/MỹHào/HưngYên_MỹHào_TBA.json"
+        },
+        {
+          "name": "MỹHào_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HYN/MỹHào/HưngYên_MỹHào_Đường_Dây.json"
+        }
+      ],
+      "PhùCừ": [
+        {
+          "name": "PhùCừ_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HYN/PhùCừ/HưngYên_PhùCừ_Cột_Điện.json"
+        },
+        {
+          "name": "PhùCừ_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HYN/PhùCừ/HưngYên_PhùCừ_TBA.json"
+        },
+        {
+          "name": "PhùCừ_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HYN/PhùCừ/HưngYên_PhùCừ_Đường_Dây.json"
+        }
+      ],
+      "TiênLữ": [
+        {
+          "name": "TiênLữ_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HYN/TiênLữ/HưngYên_TiênLữ_Cột_Điện.json"
+        },
+        {
+          "name": "TiênLữ_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HYN/TiênLữ/HưngYên_TiênLữ_TBA.json"
+        },
+        {
+          "name": "TiênLữ_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HYN/TiênLữ/HưngYên_TiênLữ_Đường_Dây.json"
+        }
+      ],
+      "VănGiang": [
+        {
+          "name": "VănGiang_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HYN/VănGiang/HưngYên_VănGiang_Cột_Điện.json"
+        },
+        {
+          "name": "VănGiang_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HYN/VănGiang/HưngYên_VănGiang_TBA.json"
+        },
+        {
+          "name": "VănGiang_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HYN/VănGiang/HưngYên_VănGiang_Đường_Dây.json"
+        }
+      ],
+      "VănLâm": [
+        {
+          "name": "VănLâm_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HYN/VănLâm/HưngYên_VănLâm_Cột_Điện.json"
+        },
+        {
+          "name": "VănLâm_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HYN/VănLâm/HưngYên_VănLâm_TBA.json"
+        },
+        {
+          "name": "VănLâm_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HYN/VănLâm/HưngYên_VănLâm_Đường_Dây.json"
+        }
+      ],
+      "YênMỹ": [
+        {
+          "name": "YênMỹ_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HYN/YênMỹ/HưngYên_YênMỹ_Cột_Điện.json"
+        },
+        {
+          "name": "YênMỹ_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HYN/YênMỹ/HưngYên_YênMỹ_TBA.json"
+        },
+        {
+          "name": "YênMỹ_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HYN/YênMỹ/HưngYên_YênMỹ_Đường_Dây.json"
+        }
+      ],
+      "ÂnThi": [
+        {
+          "name": "ÂnThi_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/HYN/ÂnThi/HưngYên_ÂnThi_Cột_Điện.json"
+        },
+        {
+          "name": "ÂnThi_TBA",
+          "url": "/cot_trung_tuyen/json_cot/HYN/ÂnThi/HưngYên_ÂnThi_TBA.json"
+        },
+        {
+          "name": "ÂnThi_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/HYN/ÂnThi/HưngYên_ÂnThi_Đường_Dây.json"
+        }
+      ]
+    },
+    "LCI": {
+      "BátXát": [
+        {
+          "name": "BátXát_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/LCI/BátXát/LàoCai_BátXát_Cột_Điện.json"
+        },
+        {
+          "name": "BátXát_TBA",
+          "url": "/cot_trung_tuyen/json_cot/LCI/BátXát/LàoCai_BátXát_TBA.json"
+        },
+        {
+          "name": "BátXát_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/LCI/BátXát/LàoCai_BátXát_Đường_Dây.json"
+        }
+      ],
+      "BảoThắng": [
+        {
+          "name": "BảoThắng_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/LCI/BảoThắng/LàoCai_BảoThắng_Cột_Điện.json"
+        },
+        {
+          "name": "BảoThắng_TBA",
+          "url": "/cot_trung_tuyen/json_cot/LCI/BảoThắng/LàoCai_BảoThắng_TBA.json"
+        },
+        {
+          "name": "BảoThắng_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/LCI/BảoThắng/LàoCai_BảoThắng_Đường_Dây.json"
+        }
+      ],
+      "BảoYên": [
+        {
+          "name": "BảoYên_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/LCI/BảoYên/LàoCai_BảoYên_Cột_Điện.json"
+        },
+        {
+          "name": "BảoYên_TBA",
+          "url": "/cot_trung_tuyen/json_cot/LCI/BảoYên/LàoCai_BảoYên_TBA.json"
+        },
+        {
+          "name": "BảoYên_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/LCI/BảoYên/LàoCai_BảoYên_Đường_Dây.json"
+        }
+      ],
+      "BắcHà": [
+        {
+          "name": "BắcHà_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/LCI/BắcHà/LàoCai_BắcHà_Cột_Điện.json"
+        },
+        {
+          "name": "BắcHà_TBA",
+          "url": "/cot_trung_tuyen/json_cot/LCI/BắcHà/LàoCai_BắcHà_TBA.json"
+        },
+        {
+          "name": "BắcHà_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/LCI/BắcHà/LàoCai_BắcHà_Đường_Dây.json"
+        }
+      ],
+      "LàoCai": [
+        {
+          "name": "LàoCai_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/LCI/LàoCai/LàoCai_LàoCai_Cột_Điện.json"
+        },
+        {
+          "name": "LàoCai_TBA",
+          "url": "/cot_trung_tuyen/json_cot/LCI/LàoCai/LàoCai_LàoCai_TBA.json"
+        },
+        {
+          "name": "LàoCai_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/LCI/LàoCai/LàoCai_LàoCai_Đường_Dây.json"
+        }
+      ],
+      "MườngKhương": [
+        {
+          "name": "MườngKhương_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/LCI/MườngKhương/LàoCai_MườngKhương_Cột_Điện.json"
+        },
+        {
+          "name": "MườngKhương_TBA",
+          "url": "/cot_trung_tuyen/json_cot/LCI/MườngKhương/LàoCai_MườngKhương_TBA.json"
+        },
+        {
+          "name": "MườngKhương_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/LCI/MườngKhương/LàoCai_MườngKhương_Đường_Dây.json"
+        }
+      ],
+      "SaPa": [
+        {
+          "name": "SaPa_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/LCI/SaPa/LàoCai_SaPa_Cột_Điện.json"
+        },
+        {
+          "name": "SaPa_TBA",
+          "url": "/cot_trung_tuyen/json_cot/LCI/SaPa/LàoCai_SaPa_TBA.json"
+        },
+        {
+          "name": "SaPa_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/LCI/SaPa/LàoCai_SaPa_Đường_Dây.json"
+        }
+      ],
+      "SiMaCai": [
+        {
+          "name": "SiMaCai_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/LCI/SiMaCai/LàoCai_SiMaCai_Cột_Điện.json"
+        },
+        {
+          "name": "SiMaCai_TBA",
+          "url": "/cot_trung_tuyen/json_cot/LCI/SiMaCai/LàoCai_SiMaCai_TBA.json"
+        },
+        {
+          "name": "SiMaCai_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/LCI/SiMaCai/LàoCai_SiMaCai_Đường_Dây.json"
+        }
+      ],
+      "VănBàn": [
+        {
+          "name": "VănBàn_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/LCI/VănBàn/LàoCai_VănBàn_Cột_Điện.json"
+        },
+        {
+          "name": "VănBàn_TBA",
+          "url": "/cot_trung_tuyen/json_cot/LCI/VănBàn/LàoCai_VănBàn_TBA.json"
+        },
+        {
+          "name": "VănBàn_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/LCI/VănBàn/LàoCai_VănBàn_Đường_Dây.json"
+        }
+      ]
+    },
+    "LCU": {
+      "LaiChâu": [
+        {
+          "name": "LaiChâu_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/LCU/LaiChâu/LaiChâu_LaiChâu_Cột_Điện.json"
+        },
+        {
+          "name": "LaiChâu_TBA",
+          "url": "/cot_trung_tuyen/json_cot/LCU/LaiChâu/LaiChâu_LaiChâu_TBA.json"
+        },
+        {
+          "name": "LaiChâu_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/LCU/LaiChâu/LaiChâu_LaiChâu_Đường_Dây.json"
+        }
+      ],
+      "MườngTè": [
+        {
+          "name": "MườngTè_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/LCU/MườngTè/LaiChâu_MườngTè_Cột_Điện.json"
+        },
+        {
+          "name": "MườngTè_TBA",
+          "url": "/cot_trung_tuyen/json_cot/LCU/MườngTè/LaiChâu_MườngTè_TBA.json"
+        },
+        {
+          "name": "MườngTè_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/LCU/MườngTè/LaiChâu_MườngTè_Đường_Dây.json"
+        }
+      ],
+      "NậmNhùn": [
+        {
+          "name": "NậmNhùn_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/LCU/NậmNhùn/LaiChâu_NậmNhùn_Cột_Điện.json"
+        },
+        {
+          "name": "NậmNhùn_TBA",
+          "url": "/cot_trung_tuyen/json_cot/LCU/NậmNhùn/LaiChâu_NậmNhùn_TBA.json"
+        },
+        {
+          "name": "NậmNhùn_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/LCU/NậmNhùn/LaiChâu_NậmNhùn_Đường_Dây.json"
+        }
+      ],
+      "PhongThổ": [
+        {
+          "name": "PhongThổ_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/LCU/PhongThổ/LaiChâu_PhongThổ_Cột_Điện.json"
+        },
+        {
+          "name": "PhongThổ_TBA",
+          "url": "/cot_trung_tuyen/json_cot/LCU/PhongThổ/LaiChâu_PhongThổ_TBA.json"
+        },
+        {
+          "name": "PhongThổ_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/LCU/PhongThổ/LaiChâu_PhongThổ_Đường_Dây.json"
+        }
+      ],
+      "SìnHồ": [
+        {
+          "name": "SìnHồ_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/LCU/SìnHồ/LaiChâu_SìnHồ_Cột_Điện.json"
+        },
+        {
+          "name": "SìnHồ_TBA",
+          "url": "/cot_trung_tuyen/json_cot/LCU/SìnHồ/LaiChâu_SìnHồ_TBA.json"
+        },
+        {
+          "name": "SìnHồ_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/LCU/SìnHồ/LaiChâu_SìnHồ_Đường_Dây.json"
+        }
+      ],
+      "TamĐường": [
+        {
+          "name": "TamĐường_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/LCU/TamĐường/LaiChâu_TamĐường_Cột_Điện.json"
+        },
+        {
+          "name": "TamĐường_TBA",
+          "url": "/cot_trung_tuyen/json_cot/LCU/TamĐường/LaiChâu_TamĐường_TBA.json"
+        },
+        {
+          "name": "TamĐường_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/LCU/TamĐường/LaiChâu_TamĐường_Đường_Dây.json"
+        }
+      ],
+      "ThanUyên": [
+        {
+          "name": "ThanUyên_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/LCU/ThanUyên/LaiChâu_ThanUyên_Cột_Điện.json"
+        },
+        {
+          "name": "ThanUyên_TBA",
+          "url": "/cot_trung_tuyen/json_cot/LCU/ThanUyên/LaiChâu_ThanUyên_TBA.json"
+        },
+        {
+          "name": "ThanUyên_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/LCU/ThanUyên/LaiChâu_ThanUyên_Đường_Dây.json"
+        }
+      ],
+      "TânUyên": [
+        {
+          "name": "TânUyên_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/LCU/TânUyên/LaiChâu_TânUyên_Cột_Điện.json"
+        },
+        {
+          "name": "TânUyên_TBA",
+          "url": "/cot_trung_tuyen/json_cot/LCU/TânUyên/LaiChâu_TânUyên_TBA.json"
+        },
+        {
+          "name": "TânUyên_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/LCU/TânUyên/LaiChâu_TânUyên_Đường_Dây.json"
+        }
+      ]
+    },
+    "LSN": {
+      "BìnhGia": [
+        {
+          "name": "BìnhGia_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/LSN/BìnhGia/LạngSơn_BìnhGia_Cột_Điện.json"
+        },
+        {
+          "name": "BìnhGia_TBA",
+          "url": "/cot_trung_tuyen/json_cot/LSN/BìnhGia/LạngSơn_BìnhGia_TBA.json"
+        },
+        {
+          "name": "BìnhGia_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/LSN/BìnhGia/LạngSơn_BìnhGia_Đường_Dây.json"
+        }
+      ],
+      "BắcSơn": [
+        {
+          "name": "BắcSơn_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/LSN/BắcSơn/LạngSơn_BắcSơn_Cột_Điện.json"
+        },
+        {
+          "name": "BắcSơn_TBA",
+          "url": "/cot_trung_tuyen/json_cot/LSN/BắcSơn/LạngSơn_BắcSơn_TBA.json"
+        },
+        {
+          "name": "BắcSơn_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/LSN/BắcSơn/LạngSơn_BắcSơn_Đường_Dây.json"
+        }
+      ],
+      "CaoLộc": [
+        {
+          "name": "CaoLộc_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/LSN/CaoLộc/LạngSơn_CaoLộc_Cột_Điện.json"
+        },
+        {
+          "name": "CaoLộc_TBA",
+          "url": "/cot_trung_tuyen/json_cot/LSN/CaoLộc/LạngSơn_CaoLộc_TBA.json"
+        },
+        {
+          "name": "CaoLộc_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/LSN/CaoLộc/LạngSơn_CaoLộc_Đường_Dây.json"
+        }
+      ],
+      "ChiLăng": [
+        {
+          "name": "ChiLăng_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/LSN/ChiLăng/LạngSơn_ChiLăng_Cột_Điện.json"
+        },
+        {
+          "name": "ChiLăng_TBA",
+          "url": "/cot_trung_tuyen/json_cot/LSN/ChiLăng/LạngSơn_ChiLăng_TBA.json"
+        },
+        {
+          "name": "ChiLăng_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/LSN/ChiLăng/LạngSơn_ChiLăng_Đường_Dây.json"
+        }
+      ],
+      "HữuLũng": [
+        {
+          "name": "HữuLũng_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/LSN/HữuLũng/LạngSơn_HữuLũng_Cột_Điện.json"
+        },
+        {
+          "name": "HữuLũng_TBA",
+          "url": "/cot_trung_tuyen/json_cot/LSN/HữuLũng/LạngSơn_HữuLũng_TBA.json"
+        },
+        {
+          "name": "HữuLũng_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/LSN/HữuLũng/LạngSơn_HữuLũng_Đường_Dây.json"
+        }
+      ],
+      "LạngSơn": [
+        {
+          "name": "LạngSơn_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/LSN/LạngSơn/LạngSơn_LạngSơn_Cột_Điện.json"
+        },
+        {
+          "name": "LạngSơn_TBA",
+          "url": "/cot_trung_tuyen/json_cot/LSN/LạngSơn/LạngSơn_LạngSơn_TBA.json"
+        },
+        {
+          "name": "LạngSơn_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/LSN/LạngSơn/LạngSơn_LạngSơn_Đường_Dây.json"
+        }
+      ],
+      "LộcBình": [
+        {
+          "name": "LộcBình_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/LSN/LộcBình/LạngSơn_LộcBình_Cột_Điện.json"
+        },
+        {
+          "name": "LộcBình_TBA",
+          "url": "/cot_trung_tuyen/json_cot/LSN/LộcBình/LạngSơn_LộcBình_TBA.json"
+        },
+        {
+          "name": "LộcBình_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/LSN/LộcBình/LạngSơn_LộcBình_Đường_Dây.json"
+        }
+      ],
+      "TràngĐịnh": [
+        {
+          "name": "TràngĐịnh_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/LSN/TràngĐịnh/LạngSơn_TràngĐịnh_Cột_Điện.json"
+        },
+        {
+          "name": "TràngĐịnh_TBA",
+          "url": "/cot_trung_tuyen/json_cot/LSN/TràngĐịnh/LạngSơn_TràngĐịnh_TBA.json"
+        },
+        {
+          "name": "TràngĐịnh_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/LSN/TràngĐịnh/LạngSơn_TràngĐịnh_Đường_Dây.json"
+        }
+      ],
+      "VănLãng": [
+        {
+          "name": "VănLãng_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/LSN/VănLãng/LạngSơn_VănLãng_Cột_Điện.json"
+        },
+        {
+          "name": "VănLãng_TBA",
+          "url": "/cot_trung_tuyen/json_cot/LSN/VănLãng/LạngSơn_VănLãng_TBA.json"
+        },
+        {
+          "name": "VănLãng_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/LSN/VănLãng/LạngSơn_VănLãng_Đường_Dây.json"
+        }
+      ],
+      "VănQuan": [
+        {
+          "name": "VănQuan_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/LSN/VănQuan/LạngSơn_VănQuan_Cột_Điện.json"
+        },
+        {
+          "name": "VănQuan_TBA",
+          "url": "/cot_trung_tuyen/json_cot/LSN/VănQuan/LạngSơn_VănQuan_TBA.json"
+        },
+        {
+          "name": "VănQuan_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/LSN/VănQuan/LạngSơn_VănQuan_Đường_Dây.json"
+        }
+      ],
+      "ĐìnhLập": [
+        {
+          "name": "ĐìnhLập_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/LSN/ĐìnhLập/LạngSơn_ĐìnhLập_Cột_Điện.json"
+        },
+        {
+          "name": "ĐìnhLập_TBA",
+          "url": "/cot_trung_tuyen/json_cot/LSN/ĐìnhLập/LạngSơn_ĐìnhLập_TBA.json"
+        },
+        {
+          "name": "ĐìnhLập_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/LSN/ĐìnhLập/LạngSơn_ĐìnhLập_Đường_Dây.json"
+        }
+      ]
+    },
+    "NAN": {
+      "AnhSơn": [
+        {
+          "name": "AnhSơn_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/NAN/AnhSơn/NghệAn_AnhSơn_Cột_Điện.json"
+        },
+        {
+          "name": "AnhSơn_TBA",
+          "url": "/cot_trung_tuyen/json_cot/NAN/AnhSơn/NghệAn_AnhSơn_TBA.json"
+        },
+        {
+          "name": "AnhSơn_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/NAN/AnhSơn/NghệAn_AnhSơn_Đường_Dây.json"
+        }
+      ],
+      "ConCuông": [
+        {
+          "name": "ConCuông_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/NAN/ConCuông/NghệAn_ConCuông_Cột_Điện.json"
+        },
+        {
+          "name": "ConCuông_TBA",
+          "url": "/cot_trung_tuyen/json_cot/NAN/ConCuông/NghệAn_ConCuông_TBA.json"
+        },
+        {
+          "name": "ConCuông_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/NAN/ConCuông/NghệAn_ConCuông_Đường_Dây.json"
+        }
+      ],
+      "CửaLò": [
+        {
+          "name": "CửaLò_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/NAN/CửaLò/NghệAn_CửaLò_Cột_Điện.json"
+        },
+        {
+          "name": "CửaLò_TBA",
+          "url": "/cot_trung_tuyen/json_cot/NAN/CửaLò/NghệAn_CửaLò_TBA.json"
+        },
+        {
+          "name": "CửaLò_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/NAN/CửaLò/NghệAn_CửaLò_Đường_Dây.json"
+        }
+      ],
+      "DiễnChâu": [
+        {
+          "name": "DiễnChâu_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/NAN/DiễnChâu/NghệAn_DiễnChâu_Cột_Điện.json"
+        },
+        {
+          "name": "DiễnChâu_TBA",
+          "url": "/cot_trung_tuyen/json_cot/NAN/DiễnChâu/NghệAn_DiễnChâu_TBA.json"
+        },
+        {
+          "name": "DiễnChâu_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/NAN/DiễnChâu/NghệAn_DiễnChâu_Đường_Dây.json"
+        }
+      ],
+      "HoàngMai": [
+        {
+          "name": "HoàngMai_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/NAN/HoàngMai/NghệAn_HoàngMai_Cột_Điện.json"
+        },
+        {
+          "name": "HoàngMai_TBA",
+          "url": "/cot_trung_tuyen/json_cot/NAN/HoàngMai/NghệAn_HoàngMai_TBA.json"
+        },
+        {
+          "name": "HoàngMai_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/NAN/HoàngMai/NghệAn_HoàngMai_Đường_Dây.json"
+        }
+      ],
+      "HưngNguyên": [
+        {
+          "name": "HưngNguyên_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/NAN/HưngNguyên/NghệAn_HưngNguyên_Cột_Điện.json"
+        },
+        {
+          "name": "HưngNguyên_TBA",
+          "url": "/cot_trung_tuyen/json_cot/NAN/HưngNguyên/NghệAn_HưngNguyên_TBA.json"
+        },
+        {
+          "name": "HưngNguyên_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/NAN/HưngNguyên/NghệAn_HưngNguyên_Đường_Dây.json"
+        }
+      ],
+      "KỳSơn": [
+        {
+          "name": "KỳSơn_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/NAN/KỳSơn/NghệAn_KỳSơn_Cột_Điện.json"
+        },
+        {
+          "name": "KỳSơn_TBA",
+          "url": "/cot_trung_tuyen/json_cot/NAN/KỳSơn/NghệAn_KỳSơn_TBA.json"
+        },
+        {
+          "name": "KỳSơn_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/NAN/KỳSơn/NghệAn_KỳSơn_Đường_Dây.json"
+        }
+      ],
+      "NamĐàn": [
+        {
+          "name": "NamĐàn_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/NAN/NamĐàn/NghệAn_NamĐàn_Cột_Điện.json"
+        },
+        {
+          "name": "NamĐàn_TBA",
+          "url": "/cot_trung_tuyen/json_cot/NAN/NamĐàn/NghệAn_NamĐàn_TBA.json"
+        },
+        {
+          "name": "NamĐàn_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/NAN/NamĐàn/NghệAn_NamĐàn_Đường_Dây.json"
+        }
+      ],
+      "NghiLộc": [
+        {
+          "name": "NghiLộc_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/NAN/NghiLộc/NghệAn_NghiLộc_Cột_Điện.json"
+        },
+        {
+          "name": "NghiLộc_TBA",
+          "url": "/cot_trung_tuyen/json_cot/NAN/NghiLộc/NghệAn_NghiLộc_TBA.json"
+        },
+        {
+          "name": "NghiLộc_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/NAN/NghiLộc/NghệAn_NghiLộc_Đường_Dây.json"
+        }
+      ],
+      "NghĩaĐàn": [
+        {
+          "name": "NghĩaĐàn_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/NAN/NghĩaĐàn/NghệAn_NghĩaĐàn_Cột_Điện.json"
+        },
+        {
+          "name": "NghĩaĐàn_TBA",
+          "url": "/cot_trung_tuyen/json_cot/NAN/NghĩaĐàn/NghệAn_NghĩaĐàn_TBA.json"
+        },
+        {
+          "name": "NghĩaĐàn_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/NAN/NghĩaĐàn/NghệAn_NghĩaĐàn_Đường_Dây.json"
+        }
+      ],
+      "QuếPhong": [
+        {
+          "name": "QuếPhong_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/NAN/QuếPhong/NghệAn_QuếPhong_Cột_Điện.json"
+        },
+        {
+          "name": "QuếPhong_TBA",
+          "url": "/cot_trung_tuyen/json_cot/NAN/QuếPhong/NghệAn_QuếPhong_TBA.json"
+        },
+        {
+          "name": "QuếPhong_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/NAN/QuếPhong/NghệAn_QuếPhong_Đường_Dây.json"
+        }
+      ],
+      "QuỳChâu": [
+        {
+          "name": "QuỳChâu_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/NAN/QuỳChâu/NghệAn_QuỳChâu_Cột_Điện.json"
+        },
+        {
+          "name": "QuỳChâu_TBA",
+          "url": "/cot_trung_tuyen/json_cot/NAN/QuỳChâu/NghệAn_QuỳChâu_TBA.json"
+        },
+        {
+          "name": "QuỳChâu_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/NAN/QuỳChâu/NghệAn_QuỳChâu_Đường_Dây.json"
+        }
+      ],
+      "QuỳHợp": [
+        {
+          "name": "QuỳHợp_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/NAN/QuỳHợp/NghệAn_QuỳHợp_Cột_Điện.json"
+        },
+        {
+          "name": "QuỳHợp_TBA",
+          "url": "/cot_trung_tuyen/json_cot/NAN/QuỳHợp/NghệAn_QuỳHợp_TBA.json"
+        },
+        {
+          "name": "QuỳHợp_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/NAN/QuỳHợp/NghệAn_QuỳHợp_Đường_Dây.json"
+        }
+      ],
+      "QuỳnhLưu": [
+        {
+          "name": "QuỳnhLưu_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/NAN/QuỳnhLưu/NghệAn_QuỳnhLưu_Cột_Điện.json"
+        },
+        {
+          "name": "QuỳnhLưu_TBA",
+          "url": "/cot_trung_tuyen/json_cot/NAN/QuỳnhLưu/NghệAn_QuỳnhLưu_TBA.json"
+        },
+        {
+          "name": "QuỳnhLưu_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/NAN/QuỳnhLưu/NghệAn_QuỳnhLưu_Đường_Dây.json"
+        }
+      ],
+      "ThanhChương": [
+        {
+          "name": "ThanhChương_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/NAN/ThanhChương/NghệAn_ThanhChương_Cột_Điện.json"
+        },
+        {
+          "name": "ThanhChương_TBA",
+          "url": "/cot_trung_tuyen/json_cot/NAN/ThanhChương/NghệAn_ThanhChương_TBA.json"
+        },
+        {
+          "name": "ThanhChương_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/NAN/ThanhChương/NghệAn_ThanhChương_Đường_Dây.json"
+        }
+      ],
+      "TháiHoà": [
+        {
+          "name": "TháiHoà_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/NAN/TháiHoà/NghệAn_TháiHoà_Cột_Điện.json"
+        },
+        {
+          "name": "TháiHoà_TBA",
+          "url": "/cot_trung_tuyen/json_cot/NAN/TháiHoà/NghệAn_TháiHoà_TBA.json"
+        },
+        {
+          "name": "TháiHoà_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/NAN/TháiHoà/NghệAn_TháiHoà_Đường_Dây.json"
+        }
+      ],
+      "TânKỳ": [
+        {
+          "name": "TânKỳ_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/NAN/TânKỳ/NghệAn_TânKỳ_Cột_Điện.json"
+        },
+        {
+          "name": "TânKỳ_TBA",
+          "url": "/cot_trung_tuyen/json_cot/NAN/TânKỳ/NghệAn_TânKỳ_TBA.json"
+        },
+        {
+          "name": "TânKỳ_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/NAN/TânKỳ/NghệAn_TânKỳ_Đường_Dây.json"
+        }
+      ],
+      "TươngDương": [
+        {
+          "name": "TươngDương_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/NAN/TươngDương/NghệAn_TươngDương_Cột_Điện.json"
+        },
+        {
+          "name": "TươngDương_TBA",
+          "url": "/cot_trung_tuyen/json_cot/NAN/TươngDương/NghệAn_TươngDương_TBA.json"
+        },
+        {
+          "name": "TươngDương_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/NAN/TươngDương/NghệAn_TươngDương_Đường_Dây.json"
+        }
+      ],
+      "Vinh": [
+        {
+          "name": "Vinh_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/NAN/Vinh/NghệAn_Vinh_Cột_Điện.json"
+        },
+        {
+          "name": "Vinh_TBA",
+          "url": "/cot_trung_tuyen/json_cot/NAN/Vinh/NghệAn_Vinh_TBA.json"
+        },
+        {
+          "name": "Vinh_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/NAN/Vinh/NghệAn_Vinh_Đường_Dây.json"
+        }
+      ],
+      "YênThành": [
+        {
+          "name": "YênThành_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/NAN/YênThành/NghệAn_YênThành_Cột_Điện.json"
+        },
+        {
+          "name": "YênThành_TBA",
+          "url": "/cot_trung_tuyen/json_cot/NAN/YênThành/NghệAn_YênThành_TBA.json"
+        },
+        {
+          "name": "YênThành_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/NAN/YênThành/NghệAn_YênThành_Đường_Dây.json"
+        }
+      ],
+      "ĐôLương": [
+        {
+          "name": "ĐôLương_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/NAN/ĐôLương/NghệAn_ĐôLương_Cột_Điện.json"
+        },
+        {
+          "name": "ĐôLương_TBA",
+          "url": "/cot_trung_tuyen/json_cot/NAN/ĐôLương/NghệAn_ĐôLương_TBA.json"
+        },
+        {
+          "name": "ĐôLương_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/NAN/ĐôLương/NghệAn_ĐôLương_Đường_Dây.json"
+        }
+      ]
+    },
+    "NBH": {
+      "GiaViễn": [
+        {
+          "name": "GiaViễn_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/NBH/GiaViễn/NinhBình_GiaViễn_Cột_Điện.json"
+        },
+        {
+          "name": "GiaViễn_TBA",
+          "url": "/cot_trung_tuyen/json_cot/NBH/GiaViễn/NinhBình_GiaViễn_TBA.json"
+        }
+      ],
+      "KimSơn": [
+        {
+          "name": "KimSơn_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/NBH/KimSơn/NinhBình_KimSơn_Cột_Điện.json"
+        },
+        {
+          "name": "KimSơn_TBA",
+          "url": "/cot_trung_tuyen/json_cot/NBH/KimSơn/NinhBình_KimSơn_TBA.json"
+        },
+        {
+          "name": "KimSơn_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/NBH/KimSơn/NinhBình_KimSơn_Đường_Dây.json"
+        }
+      ],
+      "NhoQuan": [
+        {
+          "name": "NhoQuan_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/NBH/NhoQuan/NinhBình_NhoQuan_Cột_Điện.json"
+        },
+        {
+          "name": "NhoQuan_TBA",
+          "url": "/cot_trung_tuyen/json_cot/NBH/NhoQuan/NinhBình_NhoQuan_TBA.json"
+        },
+        {
+          "name": "NhoQuan_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/NBH/NhoQuan/NinhBình_NhoQuan_Đường_Dây.json"
+        }
+      ],
+      "NinhBình": [
+        {
+          "name": "NinhBình_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/NBH/NinhBình/NinhBình_NinhBình_Cột_Điện.json"
+        },
+        {
+          "name": "NinhBình_TBA",
+          "url": "/cot_trung_tuyen/json_cot/NBH/NinhBình/NinhBình_NinhBình_TBA.json"
+        },
+        {
+          "name": "NinhBình_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/NBH/NinhBình/NinhBình_NinhBình_Đường_Dây.json"
+        }
+      ],
+      "TamĐiệp": [
+        {
+          "name": "TamĐiệp_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/NBH/TamĐiệp/NinhBình_TamĐiệp_Cột_Điện.json"
+        },
+        {
+          "name": "TamĐiệp_TBA",
+          "url": "/cot_trung_tuyen/json_cot/NBH/TamĐiệp/NinhBình_TamĐiệp_TBA.json"
+        },
+        {
+          "name": "TamĐiệp_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/NBH/TamĐiệp/NinhBình_TamĐiệp_Đường_Dây.json"
+        }
+      ],
+      "YênKhánh": [
+        {
+          "name": "YênKhánh_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/NBH/YênKhánh/NinhBình_YênKhánh_Cột_Điện.json"
+        },
+        {
+          "name": "YênKhánh_TBA",
+          "url": "/cot_trung_tuyen/json_cot/NBH/YênKhánh/NinhBình_YênKhánh_TBA.json"
+        },
+        {
+          "name": "YênKhánh_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/NBH/YênKhánh/NinhBình_YênKhánh_Đường_Dây.json"
+        }
+      ],
+      "YênMô": [
+        {
+          "name": "YênMô_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/NBH/YênMô/NinhBình_YênMô_Cột_Điện.json"
+        },
+        {
+          "name": "YênMô_TBA",
+          "url": "/cot_trung_tuyen/json_cot/NBH/YênMô/NinhBình_YênMô_TBA.json"
+        },
+        {
+          "name": "YênMô_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/NBH/YênMô/NinhBình_YênMô_Đường_Dây.json"
+        }
+      ]
+    },
+    "NDH": {
+      "GiaoThủy": [
+        {
+          "name": "GiaoThủy_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/NDH/GiaoThủy/NamĐịnh_GiaoThủy_Cột_Điện.json"
+        },
+        {
+          "name": "GiaoThủy_TBA",
+          "url": "/cot_trung_tuyen/json_cot/NDH/GiaoThủy/NamĐịnh_GiaoThủy_TBA.json"
+        },
+        {
+          "name": "GiaoThủy_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/NDH/GiaoThủy/NamĐịnh_GiaoThủy_Đường_Dây.json"
+        }
+      ],
+      "HảiHậu": [
+        {
+          "name": "HảiHậu_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/NDH/HảiHậu/NamĐịnh_HảiHậu_Cột_Điện.json"
+        },
+        {
+          "name": "HảiHậu_TBA",
+          "url": "/cot_trung_tuyen/json_cot/NDH/HảiHậu/NamĐịnh_HảiHậu_TBA.json"
+        },
+        {
+          "name": "HảiHậu_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/NDH/HảiHậu/NamĐịnh_HảiHậu_Đường_Dây.json"
+        }
+      ],
+      "MỹLộc": [
+        {
+          "name": "MỹLộc_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/NDH/MỹLộc/NamĐịnh_MỹLộc_Cột_Điện.json"
+        },
+        {
+          "name": "MỹLộc_TBA",
+          "url": "/cot_trung_tuyen/json_cot/NDH/MỹLộc/NamĐịnh_MỹLộc_TBA.json"
+        },
+        {
+          "name": "MỹLộc_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/NDH/MỹLộc/NamĐịnh_MỹLộc_Đường_Dây.json"
+        }
+      ],
+      "NamTrực": [
+        {
+          "name": "NamTrực_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/NDH/NamTrực/NamĐịnh_NamTrực_Cột_Điện.json"
+        },
+        {
+          "name": "NamTrực_TBA",
+          "url": "/cot_trung_tuyen/json_cot/NDH/NamTrực/NamĐịnh_NamTrực_TBA.json"
+        },
+        {
+          "name": "NamTrực_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/NDH/NamTrực/NamĐịnh_NamTrực_Đường_Dây.json"
+        }
+      ],
+      "NamĐịnh": [
+        {
+          "name": "NamĐịnh_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/NDH/NamĐịnh/NamĐịnh_NamĐịnh_Cột_Điện.json"
+        },
+        {
+          "name": "NamĐịnh_TBA",
+          "url": "/cot_trung_tuyen/json_cot/NDH/NamĐịnh/NamĐịnh_NamĐịnh_TBA.json"
+        },
+        {
+          "name": "NamĐịnh_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/NDH/NamĐịnh/NamĐịnh_NamĐịnh_Đường_Dây.json"
+        }
+      ],
+      "NghĩaHưng": [
+        {
+          "name": "NghĩaHưng_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/NDH/NghĩaHưng/NamĐịnh_NghĩaHưng_Cột_Điện.json"
+        },
+        {
+          "name": "NghĩaHưng_TBA",
+          "url": "/cot_trung_tuyen/json_cot/NDH/NghĩaHưng/NamĐịnh_NghĩaHưng_TBA.json"
+        },
+        {
+          "name": "NghĩaHưng_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/NDH/NghĩaHưng/NamĐịnh_NghĩaHưng_Đường_Dây.json"
+        }
+      ],
+      "TrựcNinh": [
+        {
+          "name": "TrựcNinh_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/NDH/TrựcNinh/NamĐịnh_TrựcNinh_Cột_Điện.json"
+        },
+        {
+          "name": "TrựcNinh_TBA",
+          "url": "/cot_trung_tuyen/json_cot/NDH/TrựcNinh/NamĐịnh_TrựcNinh_TBA.json"
+        },
+        {
+          "name": "TrựcNinh_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/NDH/TrựcNinh/NamĐịnh_TrựcNinh_Đường_Dây.json"
+        }
+      ],
+      "VụBản": [
+        {
+          "name": "VụBản_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/NDH/VụBản/NamĐịnh_VụBản_Cột_Điện.json"
+        },
+        {
+          "name": "VụBản_TBA",
+          "url": "/cot_trung_tuyen/json_cot/NDH/VụBản/NamĐịnh_VụBản_TBA.json"
+        },
+        {
+          "name": "VụBản_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/NDH/VụBản/NamĐịnh_VụBản_Đường_Dây.json"
+        }
+      ],
+      "XuânTrường": [
+        {
+          "name": "XuânTrường_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/NDH/XuânTrường/NamĐịnh_XuânTrường_Cột_Điện.json"
+        },
+        {
+          "name": "XuânTrường_TBA",
+          "url": "/cot_trung_tuyen/json_cot/NDH/XuânTrường/NamĐịnh_XuânTrường_TBA.json"
+        },
+        {
+          "name": "XuânTrường_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/NDH/XuânTrường/NamĐịnh_XuânTrường_Đường_Dây.json"
+        }
+      ],
+      "ÝYên": [
+        {
+          "name": "ÝYên_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/NDH/ÝYên/NamĐịnh_ÝYên_Cột_Điện.json"
+        },
+        {
+          "name": "ÝYên_TBA",
+          "url": "/cot_trung_tuyen/json_cot/NDH/ÝYên/NamĐịnh_ÝYên_TBA.json"
+        },
+        {
+          "name": "ÝYên_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/NDH/ÝYên/NamĐịnh_ÝYên_Đường_Dây.json"
+        }
+      ]
+    },
+    "PTO": {
+      "CẩmKhê": [
+        {
+          "name": "CẩmKhê_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/PTO/CẩmKhê/PhúThọ_CẩmKhê_Cột_Điện.json"
+        },
+        {
+          "name": "CẩmKhê_TBA",
+          "url": "/cot_trung_tuyen/json_cot/PTO/CẩmKhê/PhúThọ_CẩmKhê_TBA.json"
+        },
+        {
+          "name": "CẩmKhê_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/PTO/CẩmKhê/PhúThọ_CẩmKhê_Đường_Dây.json"
+        }
+      ],
+      "HạHoà": [
+        {
+          "name": "HạHoà_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/PTO/HạHoà/PhúThọ_HạHoà_Cột_Điện.json"
+        },
+        {
+          "name": "HạHoà_TBA",
+          "url": "/cot_trung_tuyen/json_cot/PTO/HạHoà/PhúThọ_HạHoà_TBA.json"
+        },
+        {
+          "name": "HạHoà_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/PTO/HạHoà/PhúThọ_HạHoà_Đường_Dây.json"
+        }
+      ],
+      "LâmThao": [
+        {
+          "name": "LâmThao_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/PTO/LâmThao/PhúThọ_LâmThao_Cột_Điện.json"
+        },
+        {
+          "name": "LâmThao_TBA",
+          "url": "/cot_trung_tuyen/json_cot/PTO/LâmThao/PhúThọ_LâmThao_TBA.json"
+        },
+        {
+          "name": "LâmThao_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/PTO/LâmThao/PhúThọ_LâmThao_Đường_Dây.json"
+        }
+      ],
+      "PhùNinh": [
+        {
+          "name": "PhùNinh_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/PTO/PhùNinh/PhúThọ_PhùNinh_Cột_Điện.json"
+        },
+        {
+          "name": "PhùNinh_TBA",
+          "url": "/cot_trung_tuyen/json_cot/PTO/PhùNinh/PhúThọ_PhùNinh_TBA.json"
+        },
+        {
+          "name": "PhùNinh_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/PTO/PhùNinh/PhúThọ_PhùNinh_Đường_Dây.json"
+        }
+      ],
+      "PhúThọ": [
+        {
+          "name": "PhúThọ_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/PTO/PhúThọ/PhúThọ_PhúThọ_Cột_Điện.json"
+        },
+        {
+          "name": "PhúThọ_TBA",
+          "url": "/cot_trung_tuyen/json_cot/PTO/PhúThọ/PhúThọ_PhúThọ_TBA.json"
+        },
+        {
+          "name": "PhúThọ_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/PTO/PhúThọ/PhúThọ_PhúThọ_Đường_Dây.json"
+        }
+      ],
+      "TamNông": [
+        {
+          "name": "TamNông_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/PTO/TamNông/PhúThọ_TamNông_Cột_Điện.json"
+        },
+        {
+          "name": "TamNông_TBA",
+          "url": "/cot_trung_tuyen/json_cot/PTO/TamNông/PhúThọ_TamNông_TBA.json"
+        },
+        {
+          "name": "TamNông_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/PTO/TamNông/PhúThọ_TamNông_Đường_Dây.json"
+        }
+      ],
+      "ThanhBa": [
+        {
+          "name": "ThanhBa_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/PTO/ThanhBa/PhúThọ_ThanhBa_Cột_Điện.json"
+        },
+        {
+          "name": "ThanhBa_TBA",
+          "url": "/cot_trung_tuyen/json_cot/PTO/ThanhBa/PhúThọ_ThanhBa_TBA.json"
+        },
+        {
+          "name": "ThanhBa_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/PTO/ThanhBa/PhúThọ_ThanhBa_Đường_Dây.json"
+        }
+      ],
+      "ThanhSơn": [
+        {
+          "name": "ThanhSơn_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/PTO/ThanhSơn/PhúThọ_ThanhSơn_Cột_Điện.json"
+        },
+        {
+          "name": "ThanhSơn_TBA",
+          "url": "/cot_trung_tuyen/json_cot/PTO/ThanhSơn/PhúThọ_ThanhSơn_TBA.json"
+        },
+        {
+          "name": "ThanhSơn_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/PTO/ThanhSơn/PhúThọ_ThanhSơn_Đường_Dây.json"
+        }
+      ],
+      "ThanhThuỷ": [
+        {
+          "name": "ThanhThuỷ_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/PTO/ThanhThuỷ/PhúThọ_ThanhThuỷ_Cột_Điện.json"
+        },
+        {
+          "name": "ThanhThuỷ_TBA",
+          "url": "/cot_trung_tuyen/json_cot/PTO/ThanhThuỷ/PhúThọ_ThanhThuỷ_TBA.json"
+        },
+        {
+          "name": "ThanhThuỷ_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/PTO/ThanhThuỷ/PhúThọ_ThanhThuỷ_Đường_Dây.json"
+        }
+      ],
+      "TânSơn": [
+        {
+          "name": "TânSơn_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/PTO/TânSơn/PhúThọ_TânSơn_Cột_Điện.json"
+        },
+        {
+          "name": "TânSơn_TBA",
+          "url": "/cot_trung_tuyen/json_cot/PTO/TânSơn/PhúThọ_TânSơn_TBA.json"
+        },
+        {
+          "name": "TânSơn_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/PTO/TânSơn/PhúThọ_TânSơn_Đường_Dây.json"
+        }
+      ],
+      "ViệtTrì": [
+        {
+          "name": "ViệtTrì_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/PTO/ViệtTrì/PhúThọ_ViệtTrì_Cột_Điện.json"
+        },
+        {
+          "name": "ViệtTrì_TBA",
+          "url": "/cot_trung_tuyen/json_cot/PTO/ViệtTrì/PhúThọ_ViệtTrì_TBA.json"
+        },
+        {
+          "name": "ViệtTrì_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/PTO/ViệtTrì/PhúThọ_ViệtTrì_Đường_Dây.json"
+        }
+      ],
+      "YênLập": [
+        {
+          "name": "YênLập_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/PTO/YênLập/PhúThọ_YênLập_Cột_Điện.json"
+        },
+        {
+          "name": "YênLập_TBA",
+          "url": "/cot_trung_tuyen/json_cot/PTO/YênLập/PhúThọ_YênLập_TBA.json"
+        },
+        {
+          "name": "YênLập_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/PTO/YênLập/PhúThọ_YênLập_Đường_Dây.json"
+        }
+      ],
+      "ĐoanHùng": [
+        {
+          "name": "ĐoanHùng_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/PTO/ĐoanHùng/PhúThọ_ĐoanHùng_Cột_Điện.json"
+        },
+        {
+          "name": "ĐoanHùng_TBA",
+          "url": "/cot_trung_tuyen/json_cot/PTO/ĐoanHùng/PhúThọ_ĐoanHùng_TBA.json"
+        },
+        {
+          "name": "ĐoanHùng_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/PTO/ĐoanHùng/PhúThọ_ĐoanHùng_Đường_Dây.json"
+        }
+      ]
+    },
+    "QNH": {
+      "BaChẽ": [
+        {
+          "name": "BaChẽ_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/QNH/BaChẽ/QuảngNinh_BaChẽ_Cột_Điện.json"
+        },
+        {
+          "name": "BaChẽ_TBA",
+          "url": "/cot_trung_tuyen/json_cot/QNH/BaChẽ/QuảngNinh_BaChẽ_TBA.json"
+        },
+        {
+          "name": "BaChẽ_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/QNH/BaChẽ/QuảngNinh_BaChẽ_Đường_Dây.json"
+        }
+      ],
+      "BìnhLiêu": [
+        {
+          "name": "BìnhLiêu_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/QNH/BìnhLiêu/QuảngNinh_BìnhLiêu_Cột_Điện.json"
+        },
+        {
+          "name": "BìnhLiêu_TBA",
+          "url": "/cot_trung_tuyen/json_cot/QNH/BìnhLiêu/QuảngNinh_BìnhLiêu_TBA.json"
+        },
+        {
+          "name": "BìnhLiêu_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/QNH/BìnhLiêu/QuảngNinh_BìnhLiêu_Đường_Dây.json"
+        }
+      ],
+      "CôTô": [
+        {
+          "name": "CôTô_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/QNH/CôTô/QuảngNinh_CôTô_Cột_Điện.json"
+        },
+        {
+          "name": "CôTô_TBA",
+          "url": "/cot_trung_tuyen/json_cot/QNH/CôTô/QuảngNinh_CôTô_TBA.json"
+        },
+        {
+          "name": "CôTô_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/QNH/CôTô/QuảngNinh_CôTô_Đường_Dây.json"
+        }
+      ],
+      "CẩmPhả": [
+        {
+          "name": "CẩmPhả_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/QNH/CẩmPhả/QuảngNinh_CẩmPhả_Cột_Điện.json"
+        },
+        {
+          "name": "CẩmPhả_TBA",
+          "url": "/cot_trung_tuyen/json_cot/QNH/CẩmPhả/QuảngNinh_CẩmPhả_TBA.json"
+        },
+        {
+          "name": "CẩmPhả_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/QNH/CẩmPhả/QuảngNinh_CẩmPhả_Đường_Dây.json"
+        }
+      ],
+      "HoànhBồ": [
+        {
+          "name": "HoànhBồ_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/QNH/HoànhBồ/QuảngNinh_HoànhBồ_Cột_Điện.json"
+        },
+        {
+          "name": "HoànhBồ_TBA",
+          "url": "/cot_trung_tuyen/json_cot/QNH/HoànhBồ/QuảngNinh_HoànhBồ_TBA.json"
+        },
+        {
+          "name": "HoànhBồ_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/QNH/HoànhBồ/QuảngNinh_HoànhBồ_Đường_Dây.json"
+        }
+      ],
+      "HạLong": [
+        {
+          "name": "HạLong_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/QNH/HạLong/QuảngNinh_HạLong_Cột_Điện.json"
+        },
+        {
+          "name": "HạLong_TBA",
+          "url": "/cot_trung_tuyen/json_cot/QNH/HạLong/QuảngNinh_HạLong_TBA.json"
+        },
+        {
+          "name": "HạLong_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/QNH/HạLong/QuảngNinh_HạLong_Đường_Dây.json"
+        }
+      ],
+      "HảiHà": [
+        {
+          "name": "HảiHà_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/QNH/HảiHà/QuảngNinh_HảiHà_Cột_Điện.json"
+        },
+        {
+          "name": "HảiHà_TBA",
+          "url": "/cot_trung_tuyen/json_cot/QNH/HảiHà/QuảngNinh_HảiHà_TBA.json"
+        },
+        {
+          "name": "HảiHà_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/QNH/HảiHà/QuảngNinh_HảiHà_Đường_Dây.json"
+        }
+      ],
+      "MóngCái": [
+        {
+          "name": "MóngCái_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/QNH/MóngCái/QuảngNinh_MóngCái_Cột_Điện.json"
+        },
+        {
+          "name": "MóngCái_TBA",
+          "url": "/cot_trung_tuyen/json_cot/QNH/MóngCái/QuảngNinh_MóngCái_TBA.json"
+        },
+        {
+          "name": "MóngCái_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/QNH/MóngCái/QuảngNinh_MóngCái_Đường_Dây.json"
+        }
+      ],
+      "QuảngYên": [
+        {
+          "name": "QuảngYên_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/QNH/QuảngYên/QuảngNinh_QuảngYên_Cột_Điện.json"
+        },
+        {
+          "name": "QuảngYên_TBA",
+          "url": "/cot_trung_tuyen/json_cot/QNH/QuảngYên/QuảngNinh_QuảngYên_TBA.json"
+        },
+        {
+          "name": "QuảngYên_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/QNH/QuảngYên/QuảngNinh_QuảngYên_Đường_Dây.json"
+        }
+      ],
+      "TiênYên": [
+        {
+          "name": "TiênYên_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/QNH/TiênYên/QuảngNinh_TiênYên_Cột_Điện.json"
+        },
+        {
+          "name": "TiênYên_TBA",
+          "url": "/cot_trung_tuyen/json_cot/QNH/TiênYên/QuảngNinh_TiênYên_TBA.json"
+        },
+        {
+          "name": "TiênYên_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/QNH/TiênYên/QuảngNinh_TiênYên_Đường_Dây.json"
+        }
+      ],
+      "UôngBí": [
+        {
+          "name": "UôngBí_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/QNH/UôngBí/QuảngNinh_UôngBí_Cột_Điện.json"
+        },
+        {
+          "name": "UôngBí_TBA",
+          "url": "/cot_trung_tuyen/json_cot/QNH/UôngBí/QuảngNinh_UôngBí_TBA.json"
+        },
+        {
+          "name": "UôngBí_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/QNH/UôngBí/QuảngNinh_UôngBí_Đường_Dây.json"
+        }
+      ],
+      "VânĐồn": [
+        {
+          "name": "VânĐồn_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/QNH/VânĐồn/QuảngNinh_VânĐồn_Cột_Điện.json"
+        },
+        {
+          "name": "VânĐồn_TBA",
+          "url": "/cot_trung_tuyen/json_cot/QNH/VânĐồn/QuảngNinh_VânĐồn_TBA.json"
+        },
+        {
+          "name": "VânĐồn_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/QNH/VânĐồn/QuảngNinh_VânĐồn_Đường_Dây.json"
+        }
+      ],
+      "ĐôngTriều": [
+        {
+          "name": "ĐôngTriều_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/QNH/ĐôngTriều/QuảngNinh_ĐôngTriều_Cột_Điện.json"
+        },
+        {
+          "name": "ĐôngTriều_TBA",
+          "url": "/cot_trung_tuyen/json_cot/QNH/ĐôngTriều/QuảngNinh_ĐôngTriều_TBA.json"
+        },
+        {
+          "name": "ĐôngTriều_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/QNH/ĐôngTriều/QuảngNinh_ĐôngTriều_Đường_Dây.json"
+        }
+      ],
+      "ĐầmHà": [
+        {
+          "name": "ĐầmHà_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/QNH/ĐầmHà/QuảngNinh_ĐầmHà_Cột_Điện.json"
+        },
+        {
+          "name": "ĐầmHà_TBA",
+          "url": "/cot_trung_tuyen/json_cot/QNH/ĐầmHà/QuảngNinh_ĐầmHà_TBA.json"
+        },
+        {
+          "name": "ĐầmHà_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/QNH/ĐầmHà/QuảngNinh_ĐầmHà_Đường_Dây.json"
+        }
+      ]
+    },
+    "SLA": {
+      "BắcYên": [
+        {
+          "name": "BắcYên_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/SLA/BắcYên/SơnLa_BắcYên_Cột_Điện.json"
+        },
+        {
+          "name": "BắcYên_TBA",
+          "url": "/cot_trung_tuyen/json_cot/SLA/BắcYên/SơnLa_BắcYên_TBA.json"
+        },
+        {
+          "name": "BắcYên_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/SLA/BắcYên/SơnLa_BắcYên_Đường_Dây.json"
+        }
+      ],
+      "MaiSơn": [
+        {
+          "name": "MaiSơn_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/SLA/MaiSơn/SơnLa_MaiSơn_Cột_Điện.json"
+        },
+        {
+          "name": "MaiSơn_TBA",
+          "url": "/cot_trung_tuyen/json_cot/SLA/MaiSơn/SơnLa_MaiSơn_TBA.json"
+        },
+        {
+          "name": "MaiSơn_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/SLA/MaiSơn/SơnLa_MaiSơn_Đường_Dây.json"
+        }
+      ],
+      "MườngLa": [
+        {
+          "name": "MườngLa_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/SLA/MườngLa/SơnLa_MườngLa_Cột_Điện.json"
+        },
+        {
+          "name": "MườngLa_TBA",
+          "url": "/cot_trung_tuyen/json_cot/SLA/MườngLa/SơnLa_MườngLa_TBA.json"
+        },
+        {
+          "name": "MườngLa_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/SLA/MườngLa/SơnLa_MườngLa_Đường_Dây.json"
+        }
+      ],
+      "MộcChâu": [
+        {
+          "name": "MộcChâu_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/SLA/MộcChâu/SơnLa_MộcChâu_Cột_Điện.json"
+        },
+        {
+          "name": "MộcChâu_TBA",
+          "url": "/cot_trung_tuyen/json_cot/SLA/MộcChâu/SơnLa_MộcChâu_TBA.json"
+        },
+        {
+          "name": "MộcChâu_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/SLA/MộcChâu/SơnLa_MộcChâu_Đường_Dây.json"
+        }
+      ],
+      "PhùYên": [
+        {
+          "name": "PhùYên_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/SLA/PhùYên/SơnLa_PhùYên_Cột_Điện.json"
+        },
+        {
+          "name": "PhùYên_TBA",
+          "url": "/cot_trung_tuyen/json_cot/SLA/PhùYên/SơnLa_PhùYên_TBA.json"
+        },
+        {
+          "name": "PhùYên_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/SLA/PhùYên/SơnLa_PhùYên_Đường_Dây.json"
+        }
+      ],
+      "QuỳnhNhai": [
+        {
+          "name": "QuỳnhNhai_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/SLA/QuỳnhNhai/SơnLa_QuỳnhNhai_Cột_Điện.json"
+        },
+        {
+          "name": "QuỳnhNhai_TBA",
+          "url": "/cot_trung_tuyen/json_cot/SLA/QuỳnhNhai/SơnLa_QuỳnhNhai_TBA.json"
+        },
+        {
+          "name": "QuỳnhNhai_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/SLA/QuỳnhNhai/SơnLa_QuỳnhNhai_Đường_Dây.json"
+        }
+      ],
+      "SôngMã": [
+        {
+          "name": "SôngMã_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/SLA/SôngMã/SơnLa_SôngMã_Cột_Điện.json"
+        },
+        {
+          "name": "SôngMã_TBA",
+          "url": "/cot_trung_tuyen/json_cot/SLA/SôngMã/SơnLa_SôngMã_TBA.json"
+        },
+        {
+          "name": "SôngMã_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/SLA/SôngMã/SơnLa_SôngMã_Đường_Dây.json"
+        }
+      ],
+      "SơnLa": [
+        {
+          "name": "SơnLa_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/SLA/SơnLa/SơnLa_SơnLa_Cột_Điện.json"
+        },
+        {
+          "name": "SơnLa_TBA",
+          "url": "/cot_trung_tuyen/json_cot/SLA/SơnLa/SơnLa_SơnLa_TBA.json"
+        },
+        {
+          "name": "SơnLa_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/SLA/SơnLa/SơnLa_SơnLa_Đường_Dây.json"
+        }
+      ],
+      "SốpCộp": [
+        {
+          "name": "SốpCộp_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/SLA/SốpCộp/SơnLa_SốpCộp_Cột_Điện.json"
+        },
+        {
+          "name": "SốpCộp_TBA",
+          "url": "/cot_trung_tuyen/json_cot/SLA/SốpCộp/SơnLa_SốpCộp_TBA.json"
+        },
+        {
+          "name": "SốpCộp_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/SLA/SốpCộp/SơnLa_SốpCộp_Đường_Dây.json"
+        }
+      ],
+      "ThuậnChâu": [
+        {
+          "name": "ThuậnChâu_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/SLA/ThuậnChâu/SơnLa_ThuậnChâu_Cột_Điện.json"
+        },
+        {
+          "name": "ThuậnChâu_TBA",
+          "url": "/cot_trung_tuyen/json_cot/SLA/ThuậnChâu/SơnLa_ThuậnChâu_TBA.json"
+        },
+        {
+          "name": "ThuậnChâu_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/SLA/ThuậnChâu/SơnLa_ThuậnChâu_Đường_Dây.json"
+        }
+      ],
+      "VânHồ": [
+        {
+          "name": "VânHồ_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/SLA/VânHồ/SơnLa_VânHồ_Cột_Điện.json"
+        },
+        {
+          "name": "VânHồ_TBA",
+          "url": "/cot_trung_tuyen/json_cot/SLA/VânHồ/SơnLa_VânHồ_TBA.json"
+        },
+        {
+          "name": "VânHồ_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/SLA/VânHồ/SơnLa_VânHồ_Đường_Dây.json"
+        }
+      ],
+      "YênChâu": [
+        {
+          "name": "YênChâu_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/SLA/YênChâu/SơnLa_YênChâu_Cột_Điện.json"
+        },
+        {
+          "name": "YênChâu_TBA",
+          "url": "/cot_trung_tuyen/json_cot/SLA/YênChâu/SơnLa_YênChâu_TBA.json"
+        },
+        {
+          "name": "YênChâu_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/SLA/YênChâu/SơnLa_YênChâu_Đường_Dây.json"
+        }
+      ]
+    },
+    "TBH": {
+      "HưngHà": [
+        {
+          "name": "HưngHà_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/TBH/HưngHà/TháiBình_HưngHà_Cột_Điện.json"
+        },
+        {
+          "name": "HưngHà_TBA",
+          "url": "/cot_trung_tuyen/json_cot/TBH/HưngHà/TháiBình_HưngHà_TBA.json"
+        },
+        {
+          "name": "HưngHà_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/TBH/HưngHà/TháiBình_HưngHà_Đường_Dây.json"
+        }
+      ],
+      "KiếnXương": [
+        {
+          "name": "KiếnXương_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/TBH/KiếnXương/TháiBình_KiếnXương_Cột_Điện.json"
+        },
+        {
+          "name": "KiếnXương_TBA",
+          "url": "/cot_trung_tuyen/json_cot/TBH/KiếnXương/TháiBình_KiếnXương_TBA.json"
+        },
+        {
+          "name": "KiếnXương_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/TBH/KiếnXương/TháiBình_KiếnXương_Đường_Dây.json"
+        }
+      ],
+      "QuỳnhPhụ": [
+        {
+          "name": "QuỳnhPhụ_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/TBH/QuỳnhPhụ/TháiBình_QuỳnhPhụ_Cột_Điện.json"
+        },
+        {
+          "name": "QuỳnhPhụ_TBA",
+          "url": "/cot_trung_tuyen/json_cot/TBH/QuỳnhPhụ/TháiBình_QuỳnhPhụ_TBA.json"
+        },
+        {
+          "name": "QuỳnhPhụ_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/TBH/QuỳnhPhụ/TháiBình_QuỳnhPhụ_Đường_Dây.json"
+        }
+      ],
+      "TháiBình": [
+        {
+          "name": "TháiBình_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/TBH/TháiBình/TháiBình_TháiBình_Cột_Điện.json"
+        },
+        {
+          "name": "TháiBình_TBA",
+          "url": "/cot_trung_tuyen/json_cot/TBH/TháiBình/TháiBình_TháiBình_TBA.json"
+        },
+        {
+          "name": "TháiBình_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/TBH/TháiBình/TháiBình_TháiBình_Đường_Dây.json"
+        }
+      ],
+      "TháiThụy": [
+        {
+          "name": "TháiThụy_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/TBH/TháiThụy/TháiBình_TháiThụy_Cột_Điện.json"
+        },
+        {
+          "name": "TháiThụy_TBA",
+          "url": "/cot_trung_tuyen/json_cot/TBH/TháiThụy/TháiBình_TháiThụy_TBA.json"
+        },
+        {
+          "name": "TháiThụy_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/TBH/TháiThụy/TháiBình_TháiThụy_Đường_Dây.json"
+        }
+      ],
+      "TiềnHải": [
+        {
+          "name": "TiềnHải_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/TBH/TiềnHải/TháiBình_TiềnHải_Cột_Điện.json"
+        },
+        {
+          "name": "TiềnHải_TBA",
+          "url": "/cot_trung_tuyen/json_cot/TBH/TiềnHải/TháiBình_TiềnHải_TBA.json"
+        },
+        {
+          "name": "TiềnHải_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/TBH/TiềnHải/TháiBình_TiềnHải_Đường_Dây.json"
+        }
+      ],
+      "VũThư": [
+        {
+          "name": "VũThư_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/TBH/VũThư/TháiBình_VũThư_Cột_Điện.json"
+        },
+        {
+          "name": "VũThư_TBA",
+          "url": "/cot_trung_tuyen/json_cot/TBH/VũThư/TháiBình_VũThư_TBA.json"
+        },
+        {
+          "name": "VũThư_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/TBH/VũThư/TháiBình_VũThư_Đường_Dây.json"
+        }
+      ],
+      "ĐôngHưng": [
+        {
+          "name": "ĐôngHưng_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/TBH/ĐôngHưng/TháiBình_ĐôngHưng_Cột_Điện.json"
+        },
+        {
+          "name": "ĐôngHưng_TBA",
+          "url": "/cot_trung_tuyen/json_cot/TBH/ĐôngHưng/TháiBình_ĐôngHưng_TBA.json"
+        },
+        {
+          "name": "ĐôngHưng_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/TBH/ĐôngHưng/TháiBình_ĐôngHưng_Đường_Dây.json"
+        }
+      ]
+    },
+    "THA": {
+      "BáThước": [
+        {
+          "name": "BáThước_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/THA/BáThước/ThanhHóa_BáThước_Cột_Điện.json"
+        },
+        {
+          "name": "BáThước_TBA",
+          "url": "/cot_trung_tuyen/json_cot/THA/BáThước/ThanhHóa_BáThước_TBA.json"
+        },
+        {
+          "name": "BáThước_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/THA/BáThước/ThanhHóa_BáThước_Đường_Dây.json"
+        }
+      ],
+      "BỉmSơn": [
+        {
+          "name": "BỉmSơn_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/THA/BỉmSơn/ThanhHóa_BỉmSơn_Cột_Điện.json"
+        },
+        {
+          "name": "BỉmSơn_TBA",
+          "url": "/cot_trung_tuyen/json_cot/THA/BỉmSơn/ThanhHóa_BỉmSơn_TBA.json"
+        },
+        {
+          "name": "BỉmSơn_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/THA/BỉmSơn/ThanhHóa_BỉmSơn_Đường_Dây.json"
+        }
+      ],
+      "CẩmThủy": [
+        {
+          "name": "CẩmThủy_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/THA/CẩmThủy/ThanhHóa_CẩmThủy_Cột_Điện.json"
+        },
+        {
+          "name": "CẩmThủy_TBA",
+          "url": "/cot_trung_tuyen/json_cot/THA/CẩmThủy/ThanhHóa_CẩmThủy_TBA.json"
+        },
+        {
+          "name": "CẩmThủy_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/THA/CẩmThủy/ThanhHóa_CẩmThủy_Đường_Dây.json"
+        }
+      ],
+      "HoằngHóa": [
+        {
+          "name": "HoằngHóa_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/THA/HoằngHóa/ThanhHóa_HoằngHóa_Cột_Điện.json"
+        },
+        {
+          "name": "HoằngHóa_TBA",
+          "url": "/cot_trung_tuyen/json_cot/THA/HoằngHóa/ThanhHóa_HoằngHóa_TBA.json"
+        },
+        {
+          "name": "HoằngHóa_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/THA/HoằngHóa/ThanhHóa_HoằngHóa_Đường_Dây.json"
+        }
+      ],
+      "HàTrung": [
+        {
+          "name": "HàTrung_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/THA/HàTrung/ThanhHóa_HàTrung_Cột_Điện.json"
+        },
+        {
+          "name": "HàTrung_TBA",
+          "url": "/cot_trung_tuyen/json_cot/THA/HàTrung/ThanhHóa_HàTrung_TBA.json"
+        },
+        {
+          "name": "HàTrung_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/THA/HàTrung/ThanhHóa_HàTrung_Đường_Dây.json"
+        }
+      ],
+      "HậuLộc": [
+        {
+          "name": "HậuLộc_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/THA/HậuLộc/ThanhHóa_HậuLộc_Cột_Điện.json"
+        },
+        {
+          "name": "HậuLộc_TBA",
+          "url": "/cot_trung_tuyen/json_cot/THA/HậuLộc/ThanhHóa_HậuLộc_TBA.json"
+        },
+        {
+          "name": "HậuLộc_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/THA/HậuLộc/ThanhHóa_HậuLộc_Đường_Dây.json"
+        }
+      ],
+      "LangChánh": [
+        {
+          "name": "LangChánh_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/THA/LangChánh/ThanhHóa_LangChánh_Cột_Điện.json"
+        },
+        {
+          "name": "LangChánh_TBA",
+          "url": "/cot_trung_tuyen/json_cot/THA/LangChánh/ThanhHóa_LangChánh_TBA.json"
+        },
+        {
+          "name": "LangChánh_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/THA/LangChánh/ThanhHóa_LangChánh_Đường_Dây.json"
+        }
+      ],
+      "MườngLát": [
+        {
+          "name": "MườngLát_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/THA/MườngLát/ThanhHóa_MườngLát_Cột_Điện.json"
+        },
+        {
+          "name": "MườngLát_TBA",
+          "url": "/cot_trung_tuyen/json_cot/THA/MườngLát/ThanhHóa_MườngLát_TBA.json"
+        },
+        {
+          "name": "MườngLát_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/THA/MườngLát/ThanhHóa_MườngLát_Đường_Dây.json"
+        }
+      ],
+      "NgaSơn": [
+        {
+          "name": "NgaSơn_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/THA/NgaSơn/ThanhHóa_NgaSơn_Cột_Điện.json"
+        },
+        {
+          "name": "NgaSơn_TBA",
+          "url": "/cot_trung_tuyen/json_cot/THA/NgaSơn/ThanhHóa_NgaSơn_TBA.json"
+        },
+        {
+          "name": "NgaSơn_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/THA/NgaSơn/ThanhHóa_NgaSơn_Đường_Dây.json"
+        }
+      ],
+      "NgọcLặc": [
+        {
+          "name": "NgọcLặc_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/THA/NgọcLặc/ThanhHóa_NgọcLặc_Cột_Điện.json"
+        },
+        {
+          "name": "NgọcLặc_TBA",
+          "url": "/cot_trung_tuyen/json_cot/THA/NgọcLặc/ThanhHóa_NgọcLặc_TBA.json"
+        },
+        {
+          "name": "NgọcLặc_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/THA/NgọcLặc/ThanhHóa_NgọcLặc_Đường_Dây.json"
+        }
+      ],
+      "NhưThanh": [
+        {
+          "name": "NhưThanh_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/THA/NhưThanh/ThanhHóa_NhưThanh_Cột_Điện.json"
+        },
+        {
+          "name": "NhưThanh_TBA",
+          "url": "/cot_trung_tuyen/json_cot/THA/NhưThanh/ThanhHóa_NhưThanh_TBA.json"
+        },
+        {
+          "name": "NhưThanh_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/THA/NhưThanh/ThanhHóa_NhưThanh_Đường_Dây.json"
+        }
+      ],
+      "NhưXuân": [
+        {
+          "name": "NhưXuân_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/THA/NhưXuân/ThanhHóa_NhưXuân_Cột_Điện.json"
+        },
+        {
+          "name": "NhưXuân_TBA",
+          "url": "/cot_trung_tuyen/json_cot/THA/NhưXuân/ThanhHóa_NhưXuân_TBA.json"
+        },
+        {
+          "name": "NhưXuân_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/THA/NhưXuân/ThanhHóa_NhưXuân_Đường_Dây.json"
+        }
+      ],
+      "NôngCống": [
+        {
+          "name": "NôngCống_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/THA/NôngCống/ThanhHóa_NôngCống_Cột_Điện.json"
+        },
+        {
+          "name": "NôngCống_TBA",
+          "url": "/cot_trung_tuyen/json_cot/THA/NôngCống/ThanhHóa_NôngCống_TBA.json"
+        },
+        {
+          "name": "NôngCống_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/THA/NôngCống/ThanhHóa_NôngCống_Đường_Dây.json"
+        }
+      ],
+      "QuanHóa": [
+        {
+          "name": "QuanHóa_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/THA/QuanHóa/ThanhHóa_QuanHóa_Cột_Điện.json"
+        },
+        {
+          "name": "QuanHóa_TBA",
+          "url": "/cot_trung_tuyen/json_cot/THA/QuanHóa/ThanhHóa_QuanHóa_TBA.json"
+        },
+        {
+          "name": "QuanHóa_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/THA/QuanHóa/ThanhHóa_QuanHóa_Đường_Dây.json"
+        }
+      ],
+      "QuanSơn": [
+        {
+          "name": "QuanSơn_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/THA/QuanSơn/ThanhHóa_QuanSơn_Cột_Điện.json"
+        },
+        {
+          "name": "QuanSơn_TBA",
+          "url": "/cot_trung_tuyen/json_cot/THA/QuanSơn/ThanhHóa_QuanSơn_TBA.json"
+        },
+        {
+          "name": "QuanSơn_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/THA/QuanSơn/ThanhHóa_QuanSơn_Đường_Dây.json"
+        }
+      ],
+      "QuảngXương": [
+        {
+          "name": "QuảngXương_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/THA/QuảngXương/ThanhHóa_QuảngXương_Cột_Điện.json"
+        },
+        {
+          "name": "QuảngXương_TBA",
+          "url": "/cot_trung_tuyen/json_cot/THA/QuảngXương/ThanhHóa_QuảngXương_TBA.json"
+        },
+        {
+          "name": "QuảngXương_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/THA/QuảngXương/ThanhHóa_QuảngXương_Đường_Dây.json"
+        }
+      ],
+      "SầmSơn": [
+        {
+          "name": "SầmSơn_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/THA/SầmSơn/ThanhHóa_SầmSơn_Cột_Điện.json"
+        },
+        {
+          "name": "SầmSơn_TBA",
+          "url": "/cot_trung_tuyen/json_cot/THA/SầmSơn/ThanhHóa_SầmSơn_TBA.json"
+        },
+        {
+          "name": "SầmSơn_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/THA/SầmSơn/ThanhHóa_SầmSơn_Đường_Dây.json"
+        }
+      ],
+      "ThanhHóa": [
+        {
+          "name": "ThanhHóa_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/THA/ThanhHóa/ThanhHóa_ThanhHóa_Cột_Điện.json"
+        },
+        {
+          "name": "ThanhHóa_TBA",
+          "url": "/cot_trung_tuyen/json_cot/THA/ThanhHóa/ThanhHóa_ThanhHóa_TBA.json"
+        },
+        {
+          "name": "ThanhHóa_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/THA/ThanhHóa/ThanhHóa_ThanhHóa_Đường_Dây.json"
+        }
+      ],
+      "ThiệuHóa": [
+        {
+          "name": "ThiệuHóa_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/THA/ThiệuHóa/ThanhHóa_ThiệuHóa_Cột_Điện.json"
+        },
+        {
+          "name": "ThiệuHóa_TBA",
+          "url": "/cot_trung_tuyen/json_cot/THA/ThiệuHóa/ThanhHóa_ThiệuHóa_TBA.json"
+        },
+        {
+          "name": "ThiệuHóa_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/THA/ThiệuHóa/ThanhHóa_ThiệuHóa_Đường_Dây.json"
+        }
+      ],
+      "ThườngXuân": [
+        {
+          "name": "ThườngXuân_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/THA/ThườngXuân/ThanhHóa_ThườngXuân_Cột_Điện.json"
+        },
+        {
+          "name": "ThườngXuân_TBA",
+          "url": "/cot_trung_tuyen/json_cot/THA/ThườngXuân/ThanhHóa_ThườngXuân_TBA.json"
+        },
+        {
+          "name": "ThườngXuân_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/THA/ThườngXuân/ThanhHóa_ThườngXuân_Đường_Dây.json"
+        }
+      ],
+      "ThạchThành": [
+        {
+          "name": "ThạchThành_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/THA/ThạchThành/ThanhHóa_ThạchThành_Cột_Điện.json"
+        },
+        {
+          "name": "ThạchThành_TBA",
+          "url": "/cot_trung_tuyen/json_cot/THA/ThạchThành/ThanhHóa_ThạchThành_TBA.json"
+        },
+        {
+          "name": "ThạchThành_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/THA/ThạchThành/ThanhHóa_ThạchThành_Đường_Dây.json"
+        }
+      ],
+      "ThọXuân": [
+        {
+          "name": "ThọXuân_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/THA/ThọXuân/ThanhHóa_ThọXuân_Cột_Điện.json"
+        },
+        {
+          "name": "ThọXuân_TBA",
+          "url": "/cot_trung_tuyen/json_cot/THA/ThọXuân/ThanhHóa_ThọXuân_TBA.json"
+        },
+        {
+          "name": "ThọXuân_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/THA/ThọXuân/ThanhHóa_ThọXuân_Đường_Dây.json"
+        }
+      ],
+      "TriệuSơn": [
+        {
+          "name": "TriệuSơn_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/THA/TriệuSơn/ThanhHóa_TriệuSơn_Cột_Điện.json"
+        },
+        {
+          "name": "TriệuSơn_TBA",
+          "url": "/cot_trung_tuyen/json_cot/THA/TriệuSơn/ThanhHóa_TriệuSơn_TBA.json"
+        },
+        {
+          "name": "TriệuSơn_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/THA/TriệuSơn/ThanhHóa_TriệuSơn_Đường_Dây.json"
+        }
+      ],
+      "TĩnhGia": [
+        {
+          "name": "TĩnhGia_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/THA/TĩnhGia/ThanhHóa_TĩnhGia_Cột_Điện.json"
+        },
+        {
+          "name": "TĩnhGia_TBA",
+          "url": "/cot_trung_tuyen/json_cot/THA/TĩnhGia/ThanhHóa_TĩnhGia_TBA.json"
+        },
+        {
+          "name": "TĩnhGia_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/THA/TĩnhGia/ThanhHóa_TĩnhGia_Đường_Dây.json"
+        }
+      ],
+      "VĩnhLộc": [
+        {
+          "name": "VĩnhLộc_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/THA/VĩnhLộc/ThanhHóa_VĩnhLộc_Cột_Điện.json"
+        },
+        {
+          "name": "VĩnhLộc_TBA",
+          "url": "/cot_trung_tuyen/json_cot/THA/VĩnhLộc/ThanhHóa_VĩnhLộc_TBA.json"
+        },
+        {
+          "name": "VĩnhLộc_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/THA/VĩnhLộc/ThanhHóa_VĩnhLộc_Đường_Dây.json"
+        }
+      ],
+      "YênĐịnh": [
+        {
+          "name": "YênĐịnh_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/THA/YênĐịnh/ThanhHóa_YênĐịnh_Cột_Điện.json"
+        },
+        {
+          "name": "YênĐịnh_TBA",
+          "url": "/cot_trung_tuyen/json_cot/THA/YênĐịnh/ThanhHóa_YênĐịnh_TBA.json"
+        },
+        {
+          "name": "YênĐịnh_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/THA/YênĐịnh/ThanhHóa_YênĐịnh_Đường_Dây.json"
+        }
+      ],
+      "ĐôngSơn": [
+        {
+          "name": "ĐôngSơn_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/THA/ĐôngSơn/ThanhHóa_ĐôngSơn_Cột_Điện.json"
+        },
+        {
+          "name": "ĐôngSơn_TBA",
+          "url": "/cot_trung_tuyen/json_cot/THA/ĐôngSơn/ThanhHóa_ĐôngSơn_TBA.json"
+        },
+        {
+          "name": "ĐôngSơn_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/THA/ĐôngSơn/ThanhHóa_ĐôngSơn_Đường_Dây.json"
+        }
+      ]
+    },
+    "TNN": {
+      "PhúBình": [
+        {
+          "name": "PhúBình_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/TNN/PhúBình/TháiNguyên_PhúBình_Cột_Điện.json"
+        },
+        {
+          "name": "PhúBình_TBA",
+          "url": "/cot_trung_tuyen/json_cot/TNN/PhúBình/TháiNguyên_PhúBình_TBA.json"
+        },
+        {
+          "name": "PhúBình_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/TNN/PhúBình/TháiNguyên_PhúBình_Đường_Dây.json"
+        }
+      ],
+      "PhúLương": [
+        {
+          "name": "PhúLương_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/TNN/PhúLương/TháiNguyên_PhúLương_Cột_Điện.json"
+        },
+        {
+          "name": "PhúLương_TBA",
+          "url": "/cot_trung_tuyen/json_cot/TNN/PhúLương/TháiNguyên_PhúLương_TBA.json"
+        },
+        {
+          "name": "PhúLương_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/TNN/PhúLương/TháiNguyên_PhúLương_Đường_Dây.json"
+        }
+      ],
+      "PhổYên": [
+        {
+          "name": "PhổYên_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/TNN/PhổYên/TháiNguyên_PhổYên_Cột_Điện.json"
+        },
+        {
+          "name": "PhổYên_TBA",
+          "url": "/cot_trung_tuyen/json_cot/TNN/PhổYên/TháiNguyên_PhổYên_TBA.json"
+        },
+        {
+          "name": "PhổYên_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/TNN/PhổYên/TháiNguyên_PhổYên_Đường_Dây.json"
+        }
+      ],
+      "SôngCông": [
+        {
+          "name": "SôngCông_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/TNN/SôngCông/TháiNguyên_SôngCông_Cột_Điện.json"
+        },
+        {
+          "name": "SôngCông_TBA",
+          "url": "/cot_trung_tuyen/json_cot/TNN/SôngCông/TháiNguyên_SôngCông_TBA.json"
+        },
+        {
+          "name": "SôngCông_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/TNN/SôngCông/TháiNguyên_SôngCông_Đường_Dây.json"
+        }
+      ],
+      "TháiNguyên": [
+        {
+          "name": "TháiNguyên_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/TNN/TháiNguyên/TháiNguyên_TháiNguyên_Cột_Điện.json"
+        },
+        {
+          "name": "TháiNguyên_TBA",
+          "url": "/cot_trung_tuyen/json_cot/TNN/TháiNguyên/TháiNguyên_TháiNguyên_TBA.json"
+        },
+        {
+          "name": "TháiNguyên_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/TNN/TháiNguyên/TháiNguyên_TháiNguyên_Đường_Dây.json"
+        }
+      ],
+      "VõNhai": [
+        {
+          "name": "VõNhai_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/TNN/VõNhai/TháiNguyên_VõNhai_Cột_Điện.json"
+        },
+        {
+          "name": "VõNhai_TBA",
+          "url": "/cot_trung_tuyen/json_cot/TNN/VõNhai/TháiNguyên_VõNhai_TBA.json"
+        },
+        {
+          "name": "VõNhai_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/TNN/VõNhai/TháiNguyên_VõNhai_Đường_Dây.json"
+        }
+      ],
+      "ĐạiTừ": [
+        {
+          "name": "ĐạiTừ_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/TNN/ĐạiTừ/TháiNguyên_ĐạiTừ_Cột_Điện.json"
+        },
+        {
+          "name": "ĐạiTừ_TBA",
+          "url": "/cot_trung_tuyen/json_cot/TNN/ĐạiTừ/TháiNguyên_ĐạiTừ_TBA.json"
+        },
+        {
+          "name": "ĐạiTừ_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/TNN/ĐạiTừ/TháiNguyên_ĐạiTừ_Đường_Dây.json"
+        }
+      ],
+      "ĐịnhHóa": [
+        {
+          "name": "ĐịnhHóa_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/TNN/ĐịnhHóa/TháiNguyên_ĐịnhHóa_Cột_Điện.json"
+        },
+        {
+          "name": "ĐịnhHóa_TBA",
+          "url": "/cot_trung_tuyen/json_cot/TNN/ĐịnhHóa/TháiNguyên_ĐịnhHóa_TBA.json"
+        },
+        {
+          "name": "ĐịnhHóa_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/TNN/ĐịnhHóa/TháiNguyên_ĐịnhHóa_Đường_Dây.json"
+        }
+      ],
+      "ĐồngHỷ": [
+        {
+          "name": "ĐồngHỷ_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/TNN/ĐồngHỷ/TháiNguyên_ĐồngHỷ_Cột_Điện.json"
+        },
+        {
+          "name": "ĐồngHỷ_TBA",
+          "url": "/cot_trung_tuyen/json_cot/TNN/ĐồngHỷ/TháiNguyên_ĐồngHỷ_TBA.json"
+        },
+        {
+          "name": "ĐồngHỷ_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/TNN/ĐồngHỷ/TháiNguyên_ĐồngHỷ_Đường_Dây.json"
+        }
+      ]
+    },
+    "TQG": {
+      "ChiêmHóa": [
+        {
+          "name": "ChiêmHóa_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/TQG/ChiêmHóa/TuyênQuang_ChiêmHóa_Cột_Điện.json"
+        },
+        {
+          "name": "ChiêmHóa_TBA",
+          "url": "/cot_trung_tuyen/json_cot/TQG/ChiêmHóa/TuyênQuang_ChiêmHóa_TBA.json"
+        },
+        {
+          "name": "ChiêmHóa_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/TQG/ChiêmHóa/TuyênQuang_ChiêmHóa_Đường_Dây.json"
+        }
+      ],
+      "HàmYên": [
+        {
+          "name": "HàmYên_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/TQG/HàmYên/TuyênQuang_HàmYên_Cột_Điện.json"
+        },
+        {
+          "name": "HàmYên_TBA",
+          "url": "/cot_trung_tuyen/json_cot/TQG/HàmYên/TuyênQuang_HàmYên_TBA.json"
+        },
+        {
+          "name": "HàmYên_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/TQG/HàmYên/TuyênQuang_HàmYên_Đường_Dây.json"
+        }
+      ],
+      "LâmBình": [
+        {
+          "name": "LâmBình_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/TQG/LâmBình/TuyênQuang_LâmBình_Cột_Điện.json"
+        },
+        {
+          "name": "LâmBình_TBA",
+          "url": "/cot_trung_tuyen/json_cot/TQG/LâmBình/TuyênQuang_LâmBình_TBA.json"
+        },
+        {
+          "name": "LâmBình_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/TQG/LâmBình/TuyênQuang_LâmBình_Đường_Dây.json"
+        }
+      ],
+      "NàHang": [
+        {
+          "name": "NàHang_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/TQG/NàHang/TuyênQuang_NàHang_Cột_Điện.json"
+        },
+        {
+          "name": "NàHang_TBA",
+          "url": "/cot_trung_tuyen/json_cot/TQG/NàHang/TuyênQuang_NàHang_TBA.json"
+        },
+        {
+          "name": "NàHang_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/TQG/NàHang/TuyênQuang_NàHang_Đường_Dây.json"
+        }
+      ],
+      "SơnDương": [
+        {
+          "name": "SơnDương_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/TQG/SơnDương/TuyênQuang_SơnDương_Cột_Điện.json"
+        },
+        {
+          "name": "SơnDương_TBA",
+          "url": "/cot_trung_tuyen/json_cot/TQG/SơnDương/TuyênQuang_SơnDương_TBA.json"
+        },
+        {
+          "name": "SơnDương_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/TQG/SơnDương/TuyênQuang_SơnDương_Đường_Dây.json"
+        }
+      ],
+      "TuyênQuang": [
+        {
+          "name": "TuyênQuang_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/TQG/TuyênQuang/TuyênQuang_TuyênQuang_Cột_Điện.json"
+        },
+        {
+          "name": "TuyênQuang_TBA",
+          "url": "/cot_trung_tuyen/json_cot/TQG/TuyênQuang/TuyênQuang_TuyênQuang_TBA.json"
+        },
+        {
+          "name": "TuyênQuang_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/TQG/TuyênQuang/TuyênQuang_TuyênQuang_Đường_Dây.json"
+        }
+      ],
+      "YênSơn": [
+        {
+          "name": "YênSơn_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/TQG/YênSơn/TuyênQuang_YênSơn_Cột_Điện.json"
+        },
+        {
+          "name": "YênSơn_TBA",
+          "url": "/cot_trung_tuyen/json_cot/TQG/YênSơn/TuyênQuang_YênSơn_TBA.json"
+        },
+        {
+          "name": "YênSơn_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/TQG/YênSơn/TuyênQuang_YênSơn_Đường_Dây.json"
+        }
+      ]
+    },
+    "VPC": {
+      "BìnhXuyên": [
+        {
+          "name": "BìnhXuyên_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/VPC/BìnhXuyên/VĩnhPhúc_BìnhXuyên_Cột_Điện.json"
+        },
+        {
+          "name": "BìnhXuyên_TBA",
+          "url": "/cot_trung_tuyen/json_cot/VPC/BìnhXuyên/VĩnhPhúc_BìnhXuyên_TBA.json"
+        },
+        {
+          "name": "BìnhXuyên_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/VPC/BìnhXuyên/VĩnhPhúc_BìnhXuyên_Đường_Dây.json"
+        }
+      ],
+      "LậpThạch": [
+        {
+          "name": "LậpThạch_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/VPC/LậpThạch/VĩnhPhúc_LậpThạch_Cột_Điện.json"
+        },
+        {
+          "name": "LậpThạch_TBA",
+          "url": "/cot_trung_tuyen/json_cot/VPC/LậpThạch/VĩnhPhúc_LậpThạch_TBA.json"
+        },
+        {
+          "name": "LậpThạch_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/VPC/LậpThạch/VĩnhPhúc_LậpThạch_Đường_Dây.json"
+        }
+      ],
+      "PhúcYên": [
+        {
+          "name": "PhúcYên_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/VPC/PhúcYên/VĩnhPhúc_PhúcYên_Cột_Điện.json"
+        },
+        {
+          "name": "PhúcYên_TBA",
+          "url": "/cot_trung_tuyen/json_cot/VPC/PhúcYên/VĩnhPhúc_PhúcYên_TBA.json"
+        },
+        {
+          "name": "PhúcYên_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/VPC/PhúcYên/VĩnhPhúc_PhúcYên_Đường_Dây.json"
+        }
+      ],
+      "SôngLô": [
+        {
+          "name": "SôngLô_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/VPC/SôngLô/VĩnhPhúc_SôngLô_Cột_Điện.json"
+        },
+        {
+          "name": "SôngLô_TBA",
+          "url": "/cot_trung_tuyen/json_cot/VPC/SôngLô/VĩnhPhúc_SôngLô_TBA.json"
+        },
+        {
+          "name": "SôngLô_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/VPC/SôngLô/VĩnhPhúc_SôngLô_Đường_Dây.json"
+        }
+      ],
+      "TamDương": [
+        {
+          "name": "TamDương_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/VPC/TamDương/VĩnhPhúc_TamDương_Cột_Điện.json"
+        },
+        {
+          "name": "TamDương_TBA",
+          "url": "/cot_trung_tuyen/json_cot/VPC/TamDương/VĩnhPhúc_TamDương_TBA.json"
+        },
+        {
+          "name": "TamDương_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/VPC/TamDương/VĩnhPhúc_TamDương_Đường_Dây.json"
+        }
+      ],
+      "TamĐảo": [
+        {
+          "name": "TamĐảo_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/VPC/TamĐảo/VĩnhPhúc_TamĐảo_Cột_Điện.json"
+        },
+        {
+          "name": "TamĐảo_TBA",
+          "url": "/cot_trung_tuyen/json_cot/VPC/TamĐảo/VĩnhPhúc_TamĐảo_TBA.json"
+        },
+        {
+          "name": "TamĐảo_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/VPC/TamĐảo/VĩnhPhúc_TamĐảo_Đường_Dây.json"
+        }
+      ],
+      "VĩnhTường": [
+        {
+          "name": "VĩnhTường_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/VPC/VĩnhTường/VĩnhPhúc_VĩnhTường_Cột_Điện.json"
+        },
+        {
+          "name": "VĩnhTường_TBA",
+          "url": "/cot_trung_tuyen/json_cot/VPC/VĩnhTường/VĩnhPhúc_VĩnhTường_TBA.json"
+        },
+        {
+          "name": "VĩnhTường_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/VPC/VĩnhTường/VĩnhPhúc_VĩnhTường_Đường_Dây.json"
+        }
+      ],
+      "VĩnhYên": [
+        {
+          "name": "VĩnhYên_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/VPC/VĩnhYên/VĩnhPhúc_VĩnhYên_Cột_Điện.json"
+        },
+        {
+          "name": "VĩnhYên_TBA",
+          "url": "/cot_trung_tuyen/json_cot/VPC/VĩnhYên/VĩnhPhúc_VĩnhYên_TBA.json"
+        },
+        {
+          "name": "VĩnhYên_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/VPC/VĩnhYên/VĩnhPhúc_VĩnhYên_Đường_Dây.json"
+        }
+      ],
+      "YênLạc": [
+        {
+          "name": "YênLạc_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/VPC/YênLạc/VĩnhPhúc_YênLạc_Cột_Điện.json"
+        },
+        {
+          "name": "YênLạc_TBA",
+          "url": "/cot_trung_tuyen/json_cot/VPC/YênLạc/VĩnhPhúc_YênLạc_TBA.json"
+        },
+        {
+          "name": "YênLạc_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/VPC/YênLạc/VĩnhPhúc_YênLạc_Đường_Dây.json"
+        }
+      ]
+    },
+    "YBI": {
+      "LụcYên": [
+        {
+          "name": "LụcYên_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/YBI/LụcYên/YênBái_LụcYên_Cột_Điện.json"
+        },
+        {
+          "name": "LụcYên_TBA",
+          "url": "/cot_trung_tuyen/json_cot/YBI/LụcYên/YênBái_LụcYên_TBA.json"
+        },
+        {
+          "name": "LụcYên_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/YBI/LụcYên/YênBái_LụcYên_Đường_Dây.json"
+        }
+      ],
+      "MùCăngChải": [
+        {
+          "name": "MùCăngChải_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/YBI/MùCăngChải/YênBái_MùCăngChải_Cột_Điện.json"
+        },
+        {
+          "name": "MùCăngChải_TBA",
+          "url": "/cot_trung_tuyen/json_cot/YBI/MùCăngChải/YênBái_MùCăngChải_TBA.json"
+        },
+        {
+          "name": "MùCăngChải_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/YBI/MùCăngChải/YênBái_MùCăngChải_Đường_Dây.json"
+        }
+      ],
+      "NghĩaLộ": [
+        {
+          "name": "NghĩaLộ_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/YBI/NghĩaLộ/YênBái_NghĩaLộ_Cột_Điện.json"
+        },
+        {
+          "name": "NghĩaLộ_TBA",
+          "url": "/cot_trung_tuyen/json_cot/YBI/NghĩaLộ/YênBái_NghĩaLộ_TBA.json"
+        },
+        {
+          "name": "NghĩaLộ_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/YBI/NghĩaLộ/YênBái_NghĩaLộ_Đường_Dây.json"
+        }
+      ],
+      "TrạmTấu": [
+        {
+          "name": "TrạmTấu_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/YBI/TrạmTấu/YênBái_TrạmTấu_Cột_Điện.json"
+        },
+        {
+          "name": "TrạmTấu_TBA",
+          "url": "/cot_trung_tuyen/json_cot/YBI/TrạmTấu/YênBái_TrạmTấu_TBA.json"
+        },
+        {
+          "name": "TrạmTấu_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/YBI/TrạmTấu/YênBái_TrạmTấu_Đường_Dây.json"
+        }
+      ],
+      "TrấnYên": [
+        {
+          "name": "TrấnYên_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/YBI/TrấnYên/YênBái_TrấnYên_Cột_Điện.json"
+        },
+        {
+          "name": "TrấnYên_TBA",
+          "url": "/cot_trung_tuyen/json_cot/YBI/TrấnYên/YênBái_TrấnYên_TBA.json"
+        },
+        {
+          "name": "TrấnYên_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/YBI/TrấnYên/YênBái_TrấnYên_Đường_Dây.json"
+        }
+      ],
+      "VănChấn": [
+        {
+          "name": "VănChấn_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/YBI/VănChấn/YênBái_VănChấn_Cột_Điện.json"
+        },
+        {
+          "name": "VănChấn_TBA",
+          "url": "/cot_trung_tuyen/json_cot/YBI/VănChấn/YênBái_VănChấn_TBA.json"
+        },
+        {
+          "name": "VănChấn_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/YBI/VănChấn/YênBái_VănChấn_Đường_Dây.json"
+        }
+      ],
+      "VănYên": [
+        {
+          "name": "VănYên_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/YBI/VănYên/YênBái_VănYên_Cột_Điện.json"
+        },
+        {
+          "name": "VănYên_TBA",
+          "url": "/cot_trung_tuyen/json_cot/YBI/VănYên/YênBái_VănYên_TBA.json"
+        },
+        {
+          "name": "VănYên_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/YBI/VănYên/YênBái_VănYên_Đường_Dây.json"
+        }
+      ],
+      "YênBái": [
+        {
+          "name": "YênBái_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/YBI/YênBái/YênBái_YênBái_Cột_Điện.json"
+        },
+        {
+          "name": "YênBái_TBA",
+          "url": "/cot_trung_tuyen/json_cot/YBI/YênBái/YênBái_YênBái_TBA.json"
+        },
+        {
+          "name": "YênBái_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/YBI/YênBái/YênBái_YênBái_Đường_Dây.json"
+        }
+      ],
+      "YênBình": [
+        {
+          "name": "YênBình_Cột_Điện",
+          "url": "/cot_trung_tuyen/json_cot/YBI/YênBình/YênBái_YênBình_Cột_Điện.json"
+        },
+        {
+          "name": "YênBình_TBA",
+          "url": "/cot_trung_tuyen/json_cot/YBI/YênBình/YênBái_YênBình_TBA.json"
+        },
+        {
+          "name": "YênBình_Đường_Dây",
+          "url": "/cot_trung_tuyen/json_cot/YBI/YênBình/YênBái_YênBình_Đường_Dây.json"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "table": [
+    {
+      "id": 6082292,
+      "code": "TBH0000002",
+      "name": "5",
+      "cabtype": 5,
+      "latlng": "(20.44537096633835,106.34677145630121)",
+      "branchid": 40,
+      "trubangduonglist": "",
+      "aheadcode": "",
+      "type": "trudon"
+    },
+    {
+      "id": 6082302,
+      "code": "TBH0000003",
+      "name": "6",
+      "cabtype": 5,
+      "latlng": "(20.445599985623595,106.34709734469652)",
+      "branchid": 40,
+      "trubangduonglist": "TBH0000002",
+      "aheadcode": "TBH0000002",
+      "type": "trudon"
+    },
+    {
+      "id": 6082312,
+      "code": "TBH0000004",
+      "name": "3.16",
+      "cabtype": 5,
+      "latlng": "(20.445934560509155,106.34681805968285)",
+      "branchid": 40,
+      "trubangduonglist": "",
+      "aheadcode": "",
+      "type": "trudon"
+    },
+    {
+      "id": 6082362,
+      "code": "TBH0000005",
+      "name": "CỘT CS CHỢ ĐẦU MỐI QUỲNH HẢI",
+      "cabtype": 5,
+      "latlng": "(20.66230628212519,106.33647579699755)",
+      "branchid": 40,
+      "trubangduonglist": "",
+      "aheadcode": "",
+      "type": "trudon"
+    },
+    {
+      "id": 6082372,
+      "code": "TBH0000006",
+      "name": "CỘT CHIẾU SÁNG CHỢ ĐẦU MỐI",
+      "cabtype": 5,
+      "latlng": "(20.66246878379242,106.33630782365799)",
+      "branchid": 40,
+      "trubangduonglist": "",
+      "aheadcode": "",
+      "type": "trudon"
+    },
+    {
+      "id": 6088732,
+      "code": "TBH0000007",
+      "name": "129 Đốc Đen",
+      "cabtype": 5,
+      "latlng": "(20.44188474175095,106.35095033794641)",
+      "branchid": 40,
+      "trubangduonglist": "",
+      "aheadcode": "",
+      "type": "trudon"
+    },
+    {
+      "id": 6088742,
+      "code": "TBH0000008",
+      "name": "119 Đốc Đen",
+      "cabtype": 5,
+      "latlng": "(20.44209931476472,106.35152500122786)",
+      "branchid": 40,
+      "trubangduonglist": "",
+      "aheadcode": "",
+      "type": "trudon"
+    },
+    {
+      "id": 6113862,
+      "code": "TBH0000009",
+      "name": "CộT CẠNH CỔNG CHÀO KĐT 379",
+      "cabtype": 5,
+      "latlng": "(20.43511124348117,106.33220169693232)",
+      "branchid": 40,
+      "trubangduonglist": "",
+      "aheadcode": "",
+      "type": "trudon"
+    },
+    {
+      "id": 6116402,
+      "code": "TBH0000010",
+      "name": "CỘT D31 T3",
+      "cabtype": 5,
+      "latlng": "(20.45770422148329,106.32413093000650)",
+      "branchid": 40,
+      "trubangduonglist": "",
+      "aheadcode": "",
+      "type": "trudon"
+    },
+    {
+      "id": 6116412,
+      "code": "TBH0000011",
+      "name": "CỘT CHIỀU SÁNG 0011",
+      "cabtype": 5,
+      "latlng": "(20.45664748313244,106.32323842495678)",
+      "branchid": 40,
+      "trubangduonglist": "",
+      "aheadcode": "",
+      "type": "trudon"
+    },
+    {
+      "id": 6116422,
+      "code": "TBH0000012",
+      "name": "CỘT CHIẾU SÁNG Đ4",
+      "cabtype": 5,
+      "latlng": "(20.45261742344829,106.32611677050591)",
+      "branchid": 40,
+      "trubangduonglist": "",
+      "aheadcode": "",
+      "type": "trudon"
+    }
+  ]
+}

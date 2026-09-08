@@ -1,0 +1,863 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA471-E12.2-57-HoaKieu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.50626611709595,
+          21.604639635258742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA471-E12.2-44-MuongLo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.51158884554906,
+          21.59977031477442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA471-E12.2-50-SơnHa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.51018336802748,
+          21.6014860794783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA471-E12.2-72-SuPham"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.50073729843399,
+          21.599104452935094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA472-E12.2-50-NghiaAn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.49812500000002,
+          21.584992199999995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA471-E12.2-53-ThuongNghiep"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.50874843259982,
+          21.601607161527127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA472-E12.2-60-NhaMayNuoc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4933957,
+          21.592119900000007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA472-E12.2-33-TuDung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.51507122806413,
+          21.595655961102164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA471-E12.2-61-SanVanDong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.50529168934484,
+          21.601274727297444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA472-E12.2-63-NguyenQuangBich"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.50249883920846,
+          21.594236336231166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA472-E12.2-60-11-4-PuTrang2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4926414,
+          21.59353060000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA374-E12.2-35-PhuongTrungTam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.51704323291779,
+          21.598804084298525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA374-E12.2-33-NghiaLoi1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.52555119991301,
+          21.59750726323821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA374-E12.2-49-BenXe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.50955986976612,
+          21.604051103183256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA374-E12.2-41-ChoC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5139902085065,
+          21.604222239081363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA374-E12.2-51-NghiaLoi3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5138198,
+          21.614286999999983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA374-E12.2-29-DocDo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5150488951981,
+          21.59502691754983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA374-E12.2-50-6-BenhVien"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.50622122338336,
+          21.612792958730665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA374-E12.2-56-NghiaPhuc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.50852662874152,
+          21.618276372871954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA374-E12.2-59-22-NghiaSon1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.48983528764234,
+          21.617900233482516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA374-E12.2-59-15-BanPun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.49700372710262,
+          21.61998276357227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA374-E12.2-50-CauNung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.50647841778878,
+          21.610384129580744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA375-E12.2-47-LangNghe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.46644604206085,
+          21.582563056145137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA375-E12.2-28-TongCo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5094071,
+          21.5800009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA374-E12.2-23-CauThia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5192265510559,
+          21.589207333316736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA374-E12.2-19-BanVe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.519081711769,
+          21.58473295495843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA374-E12.2-43-4-8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.52475849182353,
+          21.604680639501343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA471-E12.2-64-PuTrang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.49856281280518,
+          21.602769291988228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA472-E12.2-76-NhaThiDau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.50504839420319,
+          21.600410131196544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA374-E12.2-17-CauThia2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.52120870351794,
+          21.583573185499084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA471-E12.2-42-TanAn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.51160462974724,
+          21.59892540388564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA374-E12.2-49-7-ToHieu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.50773450000001,
+          21.605687900000003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA374-E12.2-59-18-BanPun2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.49257075786589,
+          21.62266351720908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA472-E12.2-60-6-SuPham2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.49763800592385,
+          21.596117388954493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA471-E12.2-36-ThiUy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.51372357301634,
+          21.597247231743175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA472-E12.2-36-TongCo2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.50853526592253,
+          21.58776078241559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA375-E12.2-14-BanVe2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5161084,
+          21.579618400000015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA377-E12.2-51-NamDong4.2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.45772472413503,
+          21.57870565062803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA471-E12.2-51"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.51036132999432,
+          21.5949410196235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA472-E12.2-32"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.511351,
+          21.591411479999998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA472-E12.2-56-7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.50863305122498,
+          21.5981941874129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA472-E12.2-95"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.50191423296928,
+          21.588208466523106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA471-E12.2-64-3-YTe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.50322907060311,
+          21.603165663738583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA374-E12.2-33-5-NghiaLoi4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5212193170371,
+          21.59486481132328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA374-E12.2-50-6-BenhVien2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.50530510037457,
+          21.61425018145515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA471-E12.2-34-PhuongTrungTam2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5136192777889,
+          21.599877550666125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA374-E12.2-33-3A-CauThia3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.52009144813361,
+          21.59185957838031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA472-E12.2-60-11-PuTrang3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.49195205339589,
+          21.60232277871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA472-E12.2-60-3-SanVanDong2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.4988188484437,
+          21.593969482887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA471-E12.2-43-TrungTamVanHoa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.51304579197209,
+          21.597994577223194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA374-E12.2-24-CauThia4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.51783302813688,
+          21.590113771263372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "374-E12.2-39"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5145741443649,
+          21.602301559358676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA374-E12.2-44B-Khu1PaKet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.51335340344441,
+          21.606349277257024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA374-E12.2-33-3A-CauThia5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.52013972805264,
+          21.591779770522734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA374-E12.2-33-3A-1-Khu8NghiaLoi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.52058497470848,
+          21.597046995317022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA374-E12.2-39-3-ChoMuongLo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.51487857509633,
+          21.602805309154267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA374-E12.2-44-NghiaLoi2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.51986974718234,
+          21.60751594182066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA374-E12.2-44-7-Khu5NL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.51815313341001,
+          21.605496010203034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA374-E12.2-33-Khu7NL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5224132424968,
+          21.598355456656357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA374-E12.2-44-DangKiem"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.51753459187898,
+          21.606551632905617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA374-E12.2-12-49-Nghĩa Lợi 5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.51675478022035,
+          21.623302946321775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA374-E12.2-49-3-Minh Anh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.50885655645146,
+          21.609524700609143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA472-E12.2-94-Nghĩa An 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.49820797541038,
+          21.588996443663873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA471-E12.2-42-HoaBan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.5123023132396,
+          21.598947339026648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA375-E12.2-41-NaVang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.48311522729179,
+          21.579478857289256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA375-E12.2-40-GachNghiaLo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.48983684308227,
+          21.578276643873075
+        ]
+      }
+    }
+  ]
+}

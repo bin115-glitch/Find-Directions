@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-A18.0-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.8340116,
+          18.046278499999975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-A18.0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.83375322387319,
+          18.045808179168517
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,590 @@
+[
+  {
+    "ID": "350062",
+    "Name": "NANU30001.001/O",
+    "XCoordinate": "18.691726",
+    "YCoordinate": "105.668165",
+    "Type": "1",
+    "length": "2.4",
+    "ownername": "FPT",
+    "materialname": null,
+    "capacityLid": null,
+    "angle": null,
+    "StartDeviceID": "196482",
+    "StartDeviceName": "NANU30001.007/G",
+    "StartNameFace": "Mặt A",
+    "StartConnectType": "3",
+    "LatLngTube": null,
+    "LatLng": [
+      {
+        "XCoordinate": "18.691750",
+        "YCoordinate": "105.668156"
+      },
+      {
+        "XCoordinate": "18.691726",
+        "YCoordinate": "105.668165"
+      }
+    ],
+    "tPipePlugSize": "∅ 110"
+  },
+  {
+    "ID": "350072",
+    "Name": "NANU30001.002/O",
+    "XCoordinate": "18.692085",
+    "YCoordinate": "105.667972",
+    "Type": "1",
+    "length": "2.7",
+    "ownername": "FPT",
+    "materialname": null,
+    "capacityLid": null,
+    "angle": null,
+    "StartDeviceID": "196502",
+    "StartDeviceName": "NANU30001.009/G",
+    "StartNameFace": "Mặt A",
+    "StartConnectType": "3",
+    "LatLngTube": null,
+    "LatLng": [
+      {
+        "XCoordinate": "18.692067",
+        "YCoordinate": "105.667888"
+      },
+      {
+        "XCoordinate": "18.692085",
+        "YCoordinate": "105.667972"
+      }
+    ],
+    "tPipePlugSize": "∅ 110"
+  },
+  {
+    "ID": "350082",
+    "Name": "NANU30001.003/O",
+    "XCoordinate": "18.690841",
+    "YCoordinate": "105.665761",
+    "Type": "1",
+    "length": "2.24",
+    "ownername": "FPT",
+    "materialname": null,
+    "capacityLid": null,
+    "angle": null,
+    "StartDeviceID": "196582",
+    "StartDeviceName": "NANU30001.015/G",
+    "StartNameFace": "Mặt A",
+    "StartConnectType": "3",
+    "LatLngTube": null,
+    "LatLng": [
+      {
+        "XCoordinate": "18.691295",
+        "YCoordinate": "105.665818"
+      },
+      {
+        "XCoordinate": "18.690841",
+        "YCoordinate": "105.665761"
+      }
+    ],
+    "tPipePlugSize": "∅ 110"
+  },
+  {
+    "ID": "311922",
+    "Name": "NANU30001.001/B",
+    "XCoordinate": "18.692293",
+    "YCoordinate": "105.666159",
+    "Type": "2",
+    "length": "1.51X0.836X0.8",
+    "ownername": "FPT",
+    "materialname": "Bê tông",
+    "capacityLid": "1",
+    "angle": null,
+    "StartDeviceID": null,
+    "StartDeviceName": null,
+    "StartNameFace": null,
+    "StartConnectType": null,
+    "LatLngTube": null,
+    "LatLng": [
+      {
+        "XCoordinate": null,
+        "YCoordinate": null
+      },
+      {
+        "XCoordinate": null,
+        "YCoordinate": null
+      }
+    ],
+    "tPipePlugSize": ""
+  },
+  {
+    "ID": "311932",
+    "Name": "NANU30001.002/B",
+    "XCoordinate": "18.692326",
+    "YCoordinate": "105.665998",
+    "Type": "2",
+    "length": "1.51X0.836X0.8",
+    "ownername": "FPT",
+    "materialname": "Bê tông",
+    "capacityLid": "1",
+    "angle": null,
+    "StartDeviceID": null,
+    "StartDeviceName": null,
+    "StartNameFace": null,
+    "StartConnectType": null,
+    "LatLngTube": null,
+    "LatLng": [
+      {
+        "XCoordinate": null,
+        "YCoordinate": null
+      },
+      {
+        "XCoordinate": null,
+        "YCoordinate": null
+      }
+    ],
+    "tPipePlugSize": ""
+  },
+  {
+    "ID": "311952",
+    "Name": "NANU30001.003/B",
+    "XCoordinate": "18.690896",
+    "YCoordinate": "105.665763",
+    "Type": "2",
+    "length": "1.51X0.83X0.7",
+    "ownername": "FPT",
+    "materialname": "Bê tông",
+    "capacityLid": "1",
+    "angle": null,
+    "StartDeviceID": null,
+    "StartDeviceName": null,
+    "StartNameFace": null,
+    "StartConnectType": null,
+    "LatLngTube": null,
+    "LatLng": [
+      {
+        "XCoordinate": null,
+        "YCoordinate": null
+      },
+      {
+        "XCoordinate": null,
+        "YCoordinate": null
+      }
+    ],
+    "tPipePlugSize": ""
+  },
+  {
+    "ID": "196422",
+    "Name": "NANU30001.001/G",
+    "XCoordinate": "18.689401",
+    "YCoordinate": "105.667933",
+    "Type": "3",
+    "length": "0.63X0.63X0.56",
+    "ownername": "FPT",
+    "materialname": "Bê tông",
+    "capacityLid": null,
+    "angle": null,
+    "StartDeviceID": null,
+    "StartDeviceName": null,
+    "StartNameFace": null,
+    "StartConnectType": null,
+    "LatLngTube": null,
+    "LatLng": [
+      {
+        "XCoordinate": null,
+        "YCoordinate": null
+      },
+      {
+        "XCoordinate": null,
+        "YCoordinate": null
+      }
+    ],
+    "tPipePlugSize": ""
+  },
+  {
+    "ID": "196432",
+    "Name": "NANU30001.002/G",
+    "XCoordinate": "18.689395",
+    "YCoordinate": "105.667911",
+    "Type": "3",
+    "length": "0.63X0.63X0.56",
+    "ownername": "FPT",
+    "materialname": "Bê tông",
+    "capacityLid": null,
+    "angle": null,
+    "StartDeviceID": null,
+    "StartDeviceName": null,
+    "StartNameFace": null,
+    "StartConnectType": null,
+    "LatLngTube": null,
+    "LatLng": [
+      {
+        "XCoordinate": null,
+        "YCoordinate": null
+      },
+      {
+        "XCoordinate": null,
+        "YCoordinate": null
+      }
+    ],
+    "tPipePlugSize": ""
+  },
+  {
+    "ID": "196442",
+    "Name": "NANU30001.003/G",
+    "XCoordinate": "18.689945",
+    "YCoordinate": "105.667969",
+    "Type": "3",
+    "length": "0.63X0.63X0.56",
+    "ownername": "FPT",
+    "materialname": "Bê tông",
+    "capacityLid": null,
+    "angle": null,
+    "StartDeviceID": null,
+    "StartDeviceName": null,
+    "StartNameFace": null,
+    "StartConnectType": null,
+    "LatLngTube": null,
+    "LatLng": [
+      {
+        "XCoordinate": null,
+        "YCoordinate": null
+      },
+      {
+        "XCoordinate": null,
+        "YCoordinate": null
+      }
+    ],
+    "tPipePlugSize": ""
+  },
+  {
+    "ID": "196452",
+    "Name": "NANU30001.004/G",
+    "XCoordinate": "18.690446",
+    "YCoordinate": "105.667976",
+    "Type": "3",
+    "length": "0.63X0.63X0.56",
+    "ownername": "FPT",
+    "materialname": "Bê tông",
+    "capacityLid": null,
+    "angle": null,
+    "StartDeviceID": null,
+    "StartDeviceName": null,
+    "StartNameFace": null,
+    "StartConnectType": null,
+    "LatLngTube": null,
+    "LatLng": [
+      {
+        "XCoordinate": null,
+        "YCoordinate": null
+      },
+      {
+        "XCoordinate": null,
+        "YCoordinate": null
+      }
+    ],
+    "tPipePlugSize": ""
+  },
+  {
+    "ID": "196462",
+    "Name": "NANU30001.005/G",
+    "XCoordinate": "18.690917",
+    "YCoordinate": "105.668052",
+    "Type": "3",
+    "length": "0.63X0.63X0.56",
+    "ownername": "FPT",
+    "materialname": "Bê tông",
+    "capacityLid": null,
+    "angle": null,
+    "StartDeviceID": null,
+    "StartDeviceName": null,
+    "StartNameFace": null,
+    "StartConnectType": null,
+    "LatLngTube": null,
+    "LatLng": [
+      {
+        "XCoordinate": null,
+        "YCoordinate": null
+      },
+      {
+        "XCoordinate": null,
+        "YCoordinate": null
+      }
+    ],
+    "tPipePlugSize": ""
+  },
+  {
+    "ID": "196472",
+    "Name": "NANU30001.006/G",
+    "XCoordinate": "18.691294",
+    "YCoordinate": "105.668101",
+    "Type": "3",
+    "length": "0.63X0.63X0.56",
+    "ownername": "FPT",
+    "materialname": "Bê tông",
+    "capacityLid": null,
+    "angle": null,
+    "StartDeviceID": null,
+    "StartDeviceName": null,
+    "StartNameFace": null,
+    "StartConnectType": null,
+    "LatLngTube": null,
+    "LatLng": [
+      {
+        "XCoordinate": null,
+        "YCoordinate": null
+      },
+      {
+        "XCoordinate": null,
+        "YCoordinate": null
+      }
+    ],
+    "tPipePlugSize": ""
+  },
+  {
+    "ID": "196482",
+    "Name": "NANU30001.007/G",
+    "XCoordinate": "18.691750",
+    "YCoordinate": "105.668156",
+    "Type": "3",
+    "length": "0.63X0.63X0.56",
+    "ownername": "FPT",
+    "materialname": "Bê tông",
+    "capacityLid": null,
+    "angle": null,
+    "StartDeviceID": null,
+    "StartDeviceName": null,
+    "StartNameFace": null,
+    "StartConnectType": null,
+    "LatLngTube": null,
+    "LatLng": [
+      {
+        "XCoordinate": null,
+        "YCoordinate": null
+      },
+      {
+        "XCoordinate": null,
+        "YCoordinate": null
+      }
+    ],
+    "tPipePlugSize": ""
+  },
+  {
+    "ID": "196492",
+    "Name": "NANU30001.008/G",
+    "XCoordinate": "18.692046",
+    "YCoordinate": "105.668185",
+    "Type": "3",
+    "length": "0.63X0.63X0.56",
+    "ownername": "FPT",
+    "materialname": "Bê tông",
+    "capacityLid": null,
+    "angle": null,
+    "StartDeviceID": null,
+    "StartDeviceName": null,
+    "StartNameFace": null,
+    "StartConnectType": null,
+    "LatLngTube": null,
+    "LatLng": [
+      {
+        "XCoordinate": null,
+        "YCoordinate": null
+      },
+      {
+        "XCoordinate": null,
+        "YCoordinate": null
+      }
+    ],
+    "tPipePlugSize": ""
+  },
+  {
+    "ID": "196502",
+    "Name": "NANU30001.009/G",
+    "XCoordinate": "18.692067",
+    "YCoordinate": "105.667888",
+    "Type": "3",
+    "length": "0.63X0.63X0.56",
+    "ownername": "FPT",
+    "materialname": "Bê tông",
+    "capacityLid": null,
+    "angle": null,
+    "StartDeviceID": null,
+    "StartDeviceName": null,
+    "StartNameFace": null,
+    "StartConnectType": null,
+    "LatLngTube": null,
+    "LatLng": [
+      {
+        "XCoordinate": null,
+        "YCoordinate": null
+      },
+      {
+        "XCoordinate": null,
+        "YCoordinate": null
+      }
+    ],
+    "tPipePlugSize": ""
+  },
+  {
+    "ID": "196512",
+    "Name": "NANU30001.010/G",
+    "XCoordinate": "18.692151",
+    "YCoordinate": "105.667227",
+    "Type": "3",
+    "length": "0.63X0.63X0.56",
+    "ownername": "FPT",
+    "materialname": "Bê tông",
+    "capacityLid": null,
+    "angle": null,
+    "StartDeviceID": null,
+    "StartDeviceName": null,
+    "StartNameFace": null,
+    "StartConnectType": null,
+    "LatLngTube": null,
+    "LatLng": [
+      {
+        "XCoordinate": null,
+        "YCoordinate": null
+      },
+      {
+        "XCoordinate": null,
+        "YCoordinate": null
+      }
+    ],
+    "tPipePlugSize": ""
+  },
+  {
+    "ID": "196522",
+    "Name": "NANU30001.011/G",
+    "XCoordinate": "18.692199",
+    "YCoordinate": "105.666968",
+    "Type": "3",
+    "length": "0.63X0.63X0.56",
+    "ownername": "FPT",
+    "materialname": "Bê tông",
+    "capacityLid": null,
+    "angle": null,
+    "StartDeviceID": null,
+    "StartDeviceName": null,
+    "StartNameFace": null,
+    "StartConnectType": null,
+    "LatLngTube": null,
+    "LatLng": [
+      {
+        "XCoordinate": null,
+        "YCoordinate": null
+      },
+      {
+        "XCoordinate": null,
+        "YCoordinate": null
+      }
+    ],
+    "tPipePlugSize": ""
+  },
+  {
+    "ID": "196532",
+    "Name": "NANU30001.012/G",
+    "XCoordinate": "18.692253",
+    "YCoordinate": "105.666572",
+    "Type": "3",
+    "length": "0.63X0.63X0.56",
+    "ownername": "FPT",
+    "materialname": "Bê tông",
+    "capacityLid": null,
+    "angle": null,
+    "StartDeviceID": null,
+    "StartDeviceName": null,
+    "StartNameFace": null,
+    "StartConnectType": null,
+    "LatLngTube": null,
+    "LatLng": [
+      {
+        "XCoordinate": null,
+        "YCoordinate": null
+      },
+      {
+        "XCoordinate": null,
+        "YCoordinate": null
+      }
+    ],
+    "tPipePlugSize": ""
+  },
+  {
+    "ID": "196542",
+    "Name": "NANU30001.013/G",
+    "XCoordinate": "18.691903",
+    "YCoordinate": "105.665926",
+    "Type": "3",
+    "length": "0.63X063X0.56",
+    "ownername": "FPT",
+    "materialname": "Bê tông",
+    "capacityLid": null,
+    "angle": null,
+    "StartDeviceID": null,
+    "StartDeviceName": null,
+    "StartNameFace": null,
+    "StartConnectType": null,
+    "LatLngTube": null,
+    "LatLng": [
+      {
+        "XCoordinate": null,
+        "YCoordinate": null
+      },
+      {
+        "XCoordinate": null,
+        "YCoordinate": null
+      }
+    ],
+    "tPipePlugSize": ""
+  },
+  {
+    "ID": "196572",
+    "Name": "NANU30001.014/G",
+    "XCoordinate": "18.691598",
+    "YCoordinate": "105.665861",
+    "Type": "3",
+    "length": "0.63X0.63X0.56",
+    "ownername": "FPT",
+    "materialname": "Bê tông",
+    "capacityLid": null,
+    "angle": null,
+    "StartDeviceID": null,
+    "StartDeviceName": null,
+    "StartNameFace": null,
+    "StartConnectType": null,
+    "LatLngTube": null,
+    "LatLng": [
+      {
+        "XCoordinate": null,
+        "YCoordinate": null
+      },
+      {
+        "XCoordinate": null,
+        "YCoordinate": null
+      }
+    ],
+    "tPipePlugSize": ""
+  },
+  {
+    "ID": "196582",
+    "Name": "NANU30001.015/G",
+    "XCoordinate": "18.691295",
+    "YCoordinate": "105.665818",
+    "Type": "3",
+    "length": "0.63X0.63X0.56",
+    "ownername": "FPT",
+    "materialname": "Bê tông",
+    "capacityLid": null,
+    "angle": null,
+    "StartDeviceID": null,
+    "StartDeviceName": null,
+    "StartNameFace": null,
+    "StartConnectType": null,
+    "LatLngTube": null,
+    "LatLng": [
+      {
+        "XCoordinate": null,
+        "YCoordinate": null
+      },
+      {
+        "XCoordinate": null,
+        "YCoordinate": null
+      }
+    ],
+    "tPipePlugSize": ""
+  }
+]

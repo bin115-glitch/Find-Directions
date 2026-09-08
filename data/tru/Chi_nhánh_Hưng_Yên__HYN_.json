@@ -1,0 +1,48 @@
+{
+  "table": [
+    {
+      "id": 6084892,
+      "code": "HYN0000002",
+      "name": "CỘT SẮT CÁCH TĐ 81.189 1 KHOẢNG CỘT",
+      "cabtype": 5,
+      "latlng": "(20.940832306831993,106.06677498668432)",
+      "branchid": 152,
+      "trubangduonglist": "",
+      "aheadcode": "",
+      "type": "trudon"
+    },
+    {
+      "id": 6084922,
+      "code": "HYN0000003",
+      "name": "CÁCH TRỤ 1 45M",
+      "cabtype": 5,
+      "latlng": "(20.940544852169243,106.06689266860485)",
+      "branchid": 152,
+      "trubangduonglist": "",
+      "aheadcode": "",
+      "type": "trudon"
+    },
+    {
+      "id": 6084932,
+      "code": "HYN0000004",
+      "name": "CÁCH TRỤ 2 40M",
+      "cabtype": 5,
+      "latlng": "(20.94026397273367,106.06705863028765)",
+      "branchid": 152,
+      "trubangduonglist": "",
+      "aheadcode": "",
+      "type": "trudon"
+    },
+    {
+      "id": 6084942,
+      "code": "HYN0000005",
+      "name": "CÁCH TRỤ 3 45M",
+      "cabtype": 5,
+      "latlng": "(20.93990981965083,106.06721922755241)",
+      "branchid": 152,
+      "trubangduonglist": "",
+      "aheadcode": "",
+      "type": "trudon"
+    }
+  ]
+}

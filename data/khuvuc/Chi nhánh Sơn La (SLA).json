@@ -1,0 +1,48 @@
+{
+  "table": [
+    {
+      "id": 4220002,
+      "code": "SLA0000001",
+      "name": "2a thôm mòn",
+      "cabtype": 5,
+      "latlng": "(21.326791244792258,103.91502477228643)",
+      "branchid": 232,
+      "trubangduonglist": "",
+      "aheadcode": "",
+      "type": "trudon"
+    },
+    {
+      "id": 4906822,
+      "code": "SLA0000002",
+      "name": "5A tba nong ca",
+      "cabtype": 5,
+      "latlng": "(21.328391859887994,103.92310425639154)",
+      "branchid": 232,
+      "trubangduonglist": "",
+      "aheadcode": "",
+      "type": "trudon"
+    },
+    {
+      "id": 4906832,
+      "code": "SLA0000003",
+      "name": "6a tba nọng cà",
+      "cabtype": 5,
+      "latlng": "(21.32823757696884,103.92300568521023)",
+      "branchid": 232,
+      "trubangduonglist": "",
+      "aheadcode": "",
+      "type": "trudon"
+    },
+    {
+      "id": 4962102,
+      "code": "SLA0000004",
+      "name": "CÔNG TƠ. CHÍNH, TRUNG",
+      "cabtype": 5,
+      "latlng": "(20.908462322679227,105.69700833410025)",
+      "branchid": 232,
+      "trubangduonglist": "",
+      "aheadcode": "HNI0096805",
+      "type": "trudon"
+    }
+  ]
+}

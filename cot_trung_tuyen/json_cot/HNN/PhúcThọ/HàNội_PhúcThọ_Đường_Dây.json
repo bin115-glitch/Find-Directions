@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LDA477-E25.10-84-17-23-5"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            105.55813259999998,
+            21.157284527
+          ],
+          [
+            105.55814492101267,
+            21.157226514621602
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LDA477-E25.10-84-17-23-2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            105.55662017,
+            21.157099826
+          ],
+          [
+            105.55616101242256,
+            21.156183303593565
+          ]
+        ]
+      }
+    }
+  ]
+}

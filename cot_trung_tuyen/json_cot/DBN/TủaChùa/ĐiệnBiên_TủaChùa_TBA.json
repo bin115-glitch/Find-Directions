@@ -1,0 +1,1487 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-222-97-3-DETAU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.45978539079076,
+          21.91756516320688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-326-1-NASA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.37027605270107,
+          21.972632469267072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-222-112-TUATHANG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.44630579999999,
+          21.93350729999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-222-61-30-1-BANLICH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.4140732884407,
+          21.919025334256386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-222-61-46-2-SO3TUATHANG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.42175904304678,
+          21.93352015258371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-222-6-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.42973738908766,
+          21.89562824298859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-222-61-84-3-TASILANG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.4241208957301,
+          21.96776502187346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-396-1-CANGTY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3364808896374,
+          22.048183600850233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-360-1-TACHINH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3509635925293,
+          22.013644496387933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-378-2-TASINTHANG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.33733986705754,
+          22.026477432803297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-222-61-40-1-SO3TUATHANG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.41921776533127,
+          21.930386542858304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-357-13-HANGSUA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3683428505233,
+          22.022440645943654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-369-18-1-LAUCAUPHINH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.32225445301849,
+          22.014627824987226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-369-32-LAOXAPHINH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.30560207366966,
+          22.005348750704332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-345A-1-XEOPHINH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.35812028144713,
+          22.00042871237632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-337-1-TAPHIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.36143348008308,
+          21.99065454713573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-222-61-169-1-PERANGKY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.4116724,
+          22.0879866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-222-61-139-1-UBHSO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.43405842781067,
+          22.03911059469137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-298-2-HANGDEDE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.36843740184516,
+          21.933110252748826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-314-1-HANGSUNG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.35868835449219,
+          21.954509307376284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-222-61-96-3-DECHU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.41267585754393,
+          21.985074850320956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-372-32-PAOTINHLANG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.36566868813789,
+          22.03991971258049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-222-61-73-17-25-BANTUATHANG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.46145182847977,
+          21.957404958189766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-222-61-73-19-HUOICHANG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.4550467133522,
+          21.982314073044133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-222-61-192-HUOILONG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.39630901813507,
+          22.128133778864097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-240A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.34560907861376,
+          21.853680232820544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-444-1-TRONGVOBUA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3626174395953,
+          22.086047767905125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-412-3-SINCHAI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.32897070436654,
+          22.070348773454327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-456-KHOPHINH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.36242673563275,
+          22.10309501599741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-290-46"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.29462770015145,
+          21.942163427999713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-385-15-NASANG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.32793000726855,
+          22.04095148191142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-222-61-73-17-16-6-PHIGIANG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.49143948050478,
+          21.951466055703868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-285-5-SINHPHINH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.33670083076207,
+          21.917446344734497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-290-33-1-TRUNGTHU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.30363992245854,
+          21.927742748258005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-230-38-TUNGA1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.34991875681186,
+          21.814418994823786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-230-14-1-HUOILUC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.34541141986847,
+          21.8408259048785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-222-61-1-1-XANHE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.42489331960677,
+          21.884637600577058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-231-7-PHAITONG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3589431643486,
+          21.853965845940404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-241-3-NMNSO2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3456622,
+          21.852086100000005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-230-28-1-TUNGAI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.33678079411787,
+          21.8137315582657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-230-16-5-BINHCHAU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3409847,
+          21.8403477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-230-9-5-NMNSO1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.34514051675797,
+          21.846835872484625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-222-67-27-PHANGNHANG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.44494908697315,
+          21.858358587939296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-210-8-HANGTRO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.36242053300826,
+          21.814132628172548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-213-7-PHIENGBUNG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3776532,
+          21.8335588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA--230-22-13-PUON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3148032763449,
+          21.82765597911991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-236-9-DONGPHI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3416045794065,
+          21.868109456700303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-275-3-TALACAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.34613147768351,
+          21.897438637705992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-230-6-5-MUONGBANG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3504531869335,
+          21.850471089698328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-265-1-PHIDINH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.32961979897247,
+          21.881017279318907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-258-6-3-DONGPHI1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.31962119432362,
+          21.861082251800333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-244-2-TRUNGTAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.34141883647995,
+          21.85552284798634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-222-1A-1-HUOIHEM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.36821879834785,
+          21.841865200810958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-240A-33-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3340429,
+          21.859216700000015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-245-4-BANCAP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.33603027858403,
+          21.853867369692118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-242-6-MAYGHACH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3380439469222,
+          21.85088994992555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-222-30-1-SINSU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.39607030153275,
+          21.859542113510443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-222-59-10-TINHB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.42600375413895,
+          21.87306365815961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-238-2-1-TRUONGCAPII"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.34688931703568,
+          21.856604642548707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-258-13-HANGTOMANG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.31271785886429,
+          21.849117409693974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-222-81-2-2-MUONGDUN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.4578382,
+          21.890622000000015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-261-4-VANGCHUA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.31276865324863,
+          21.87216411825742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-230-2-2-BVIEN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.35590796197567,
+          21.850424834233426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-222-47-2-HOANH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.40331763029099,
+          21.875831533670656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-230-12-4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3439067006111,
+          21.84510809492098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-222-61-127-3-TUTRA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.43591373056815,
+          22.02697285437246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-439-2-DBN287"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3588197,
+          22.074584999999974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-222-58A-2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.41701689752209,
+          21.881413026918256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-256-3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.33070486783981,
+          21.863858592571294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-222-81-21-BANHOT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.48108066355374,
+          21.876407882274485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-230-2_1-2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.35481764390872,
+          21.84949613019852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-240A-7-2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.344244658947,
+          21.85613663312141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-240A-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.33890766011679,
+          21.8590162876639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-240A-11-3-NHAKHACUBND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.34267209860884,
+          21.85677626879519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-228-3-DOI7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.35918992757799,
+          21.84731387065785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-240A-22-1-CONGAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3383384346962,
+          21.8577149140987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-238-6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.34268860905087,
+          21.859095600821572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-222-61-6-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.42936990019389,
+          21.895340651972866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-439_2-2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.35920045729199,
+          22.075073944263654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-222-102-4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.45269631237794,
+          21.924160366089854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-222-54-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.41224189493013,
+          21.87962437591882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-208"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3736302388673,
+          21.82638074945975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-240A-18_2-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.33965141899448,
+          21.857500673376187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-240A-24-3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.33782668799628,
+          21.858874199264566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-221-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.36549861933084,
+          21.840569013310713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-230-10-3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.34816584938625,
+          21.844711170274664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-247-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.33652749299466,
+          21.856902606031863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-337_2-3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.36023989708094,
+          21.98965971774965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-222-79"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.45406859756295,
+          21.89032825738917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-290-6-TRAITRUONG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.35074129993473,
+          21.924586013046152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-230-22-2-KECAI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.33755438656226,
+          21.825921456133862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-238_2-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.34838139656316,
+          21.85543121365389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-222-67-3-PANGDEA2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.43697621860429,
+          21.88349370760288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-240A-11-TRUONGCAP3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.342386165873,
+          21.85583523631222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-230-22-12-NAANG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.30869834624536,
+          21.815891592835296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-374-HANGCHO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.3395663535521,
+          22.021690030169463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-222-70-1-Cấp 2,3 Quyết Tiến"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.43946564585485,
+          21.885416487311844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-222-61-115-3-3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.42623766101036,
+          22.01290539942743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-222-61-115-17"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.41672308740267,
+          22.014647653447625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-412-1-9_1-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.32510220567202,
+          22.07845512541782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-412-1-11-20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.33912381456229,
+          22.10084401342675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-412-1-19-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.32537908723216,
+          22.10086625368767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-222-61-191-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.37993963833007,
+          22.116562598214593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-222-61-170-CAN HO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.40375069173297,
+          22.07901229438694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-230-22-8-8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.32728359489103,
+          21.833592428527183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-450-8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.37355102984526,
+          22.095110044003217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-260-3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.32638505488154,
+          21.871999412272384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-412-1-7-13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.31387523205292,
+          22.06877658137851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-412-1-28"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.32405890916175,
+          22.112701887340144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-412-1-9_2-10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.31269908339212,
+          22.075920282472275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-154-128-9-thuydiendebau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.29558390774149,
+          21.88042614485276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-372-32-PHANGMUPHINH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.40260538846407,
+          22.027745509646362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-369-12-18-CUDISANG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.32669082670787,
+          21.99823989181751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TBA371-E21.1-222-61-27-22-PHIENGPANG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.39548570958499,
+          21.9011002534183
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+﻿<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Load data only - Map</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <style>
+        html,
+        body,
+        #map {
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+
+        /* Sidebar as a floating menu */
+        #sidebar {
+            position: absolute;
+            top: 8px;
+            right: 8px;
+            z-index: 1000;
+            background: rgba(255, 255, 255, 0.97);
+            padding: 8px;
+            border-radius: 6px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.18);
+            max-height: 90%;
+            overflow: auto;
+            font-family: Arial, sans-serif;
+            font-size: 13px;
+            width: 320px;
+            transition: width 0.18s ease;
+        }
+
+        #sidebar h3 {
+            margin: 0 0 6px 0;
+            font-size: 14px;
+        }
+
+        #sidebar .menu-body {
+            display: block;
+        }
+
+        /* Hidden state: completely hide sidebar */
+        #sidebar.hidden {
+            display: none;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="map"></div>
+    <div id="sidebar">
+        <div style="display:flex;align-items:center;justify-content:space-between;">
+            <h3 style="margin:0;">Datasets</h3>
+            <button id="collapseBtn" title="Thu menu"
+                style="font-size:12px;padding:4px 6px;background:#ffffff;border:1px solid #ddd;border-radius:4px;cursor:pointer;">«</button>
+        </div>
+        <div id="status">Loading...</div>
+        <div style="margin-top:8px; display:flex; gap:6px; align-items:center;">
+            <button id="getCoordinatesBtn"
+                style="font-size:11px;padding:4px 8px;background:#28a745;color:white;border:none;border-radius:3px;cursor:pointer;">📍
+                Lấy tọa độ</button>
+            <button id="clearClickMarker"
+                style="font-size:11px;padding:4px 8px;background:#dc3545;color:white;border:none;border-radius:3px;cursor:pointer;">🗑️
+                Xóa tọa độ</button>
+        </div>
+
+        <div style="margin-top:8px;">
+            <label style="font-weight: bold; display:block;">Tuyến đường:</label>
+            <div style="margin-bottom: 5px;">
+                <button id="selectAllRoutes" style="font-size: 11px; padding: 2px 6px; margin-right: 5px;">Chọn tất
+                    cả</button>
+                <button id="clearAllRoutes" style="font-size: 11px; padding: 2px 6px;">Bỏ chọn tất cả</button>
+            </div>
+            <div id="routeCheckboxes"
+                style="max-height: 200px; overflow-y: auto; border: 1px solid #ccc; padding: 5px; background: white; border-radius: 4px;">
+            </div>
+        </div>
+        <div style="margin-top:8px;">
+            <label style="font-weight: bold; display:block;">Cột trung thế:</label>
+            <div id="cottrungtuyenCheckboxes"
+                style="max-height: 120px; overflow-y: auto; border: 1px solid #ccc; padding: 5px; background: white; border-radius: 4px;">
+            </div>
+        </div>
+        <div style="margin-top:8px; position: relative;">
+            <button id="poleDropdownBtn"
+                style="font-size: 12px; padding: 6px 12px; background: #17a2b8; color: white; border: none; border-radius: 4px; cursor: pointer;">
+                📍 Cột điện ▼
+            </button>
+            <div id="poleDropdownMenu"
+                style="display: none; position: fixed; z-index: 2000; background: white; border: 1px solid #ccc; border-radius: 4px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); padding: 8px; min-width: 280px;">
+                <div style="margin-bottom: 8px; padding-bottom: 6px; border-bottom: 1px solid #eee;">
+                    <label style="font-weight: bold; display: block; margin-bottom: 6px;">Cột điện:</label>
+                    <button id="selectAllPolesets"
+                        style="font-size: 11px; padding: 4px 10px; margin-right: 5px; border: 1px solid #ccc; border-radius: 3px; background: #f8f9fa; cursor: pointer;">Chọn
+                        tất cả</button>
+                    <button id="clearAllPolesets"
+                        style="font-size: 11px; padding: 4px 10px; border: 1px solid #ccc; border-radius: 3px; background: #f8f9fa; cursor: pointer;">Bỏ
+                        chọn tất cả</button>
+                </div>
+                <div id="poleCheckboxes" style="max-height: 250px; overflow-y: auto; padding: 4px;">
+                </div>
+            </div>
+        </div>
+
+
+        <!-- Universal Point Search -->
+        <div style="margin-top:8px;">
+            <label style="font-weight: bold; display:block; margin-bottom: 4px;">🔍 Tìm kiếm điểm:</label>
+            <div style="display: flex; gap: 4px; align-items: center;">
+                <input type="text" id="pointSearchInput" placeholder="Tìm POP, tủ, măng xông, cột điện..."
+                    style="flex: 1; padding: 6px 8px; font-size: 12px; border: 1px solid #ccc; border-radius: 3px;">
+                <button id="clearPointSearch" title="Xóa tìm kiếm"
+                    style="padding: 6px 10px; font-size: 12px; background: #6c757d; color: white; border: none; border-radius: 3px; cursor: pointer;">✕</button>
+            </div>
+            <div id="pointSearchResults"
+                style="margin-top: 6px; max-height: 200px; overflow-y: auto; font-size: 11px; border: 1px solid #e0e0e0; border-radius: 3px; background: #f9f9f9; padding: 4px; display: none;">
+            </div>
+        </div>
+
+        <div style="margin-top:8px; display:flex; gap:6px; align-items:center;">
+            <button id="showCandidatesBtn"
+                style="font-size:12px;padding:6px 10px;background:#007bff;color:white;border:none;border-radius:4px;cursor:pointer;">Đường
+                đi</button>
+        </div>
+        <div id="topResults"
+            style="margin-top:8px; max-height:200px; overflow:auto; font-family: monospace; font-size:12px;"></div>
+        <!-- Modal for displaying top results as interactive table -->
+        <div id="topResultsModal"
+            style="display:none; position:fixed; z-index:2000; left:0; top:0; width:100%; height:100%; background:rgba(0,0,0,0.4);">
+            <div
+                style="background:white; width:720px; max-width:95%; margin:6% auto; padding:12px; border-radius:6px; box-shadow:0 6px 20px rgba(0,0,0,0.25);">
+                <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:8px;">
+                    <div style="font-weight:bold;">Top network candidates</div>
+                    <button id="closeTopResultsModal" style="padding:4px 8px;">Close</button>
+                </div>
+                <div id="topResultsModalBody"
+                    style="max-height:60vh; overflow:auto; font-family:monospace; font-size:13px;"></div>
+            </div>
+        </div>
+    </div>
+    <!-- handle to reopen sidebar when it's hidden -->
+    <button id="sidebarHandle" title="Hiện menu"
+        style="display:none; position:absolute; top:8px; right:8px; z-index:1001; padding:6px 8px; border-radius:4px; border:1px solid #ddd; background: white; cursor:pointer;">☰</button>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <!-- Auto Console Logger - Must load first to capture all logs -->
+    <script src="./js/logger.js"></script>
+    <!-- Load all modular JavaScript files in dependency order -->
+    <script src="./js/config.js"></script>
+    <script src="./js/map-init.js"></script>
+    <script src="./js/utils.js"></script>
+    <script src="./js/data-loader.js"></script>
+    <script src="./js/pole-utils.js"></script>
+    <script src="./js/pathfinding.js"></script>
+    <script src="./js/network-pathfinding.js"></script>
+    <script src="./js/cot-trung-tuyen.js"></script>
+    <script src="./js/search.js"></script>
+    <script src="./js/ui-handlers.js"></script>
+    <script src="./js/main.js"></script>
+</body>
+
+</html>

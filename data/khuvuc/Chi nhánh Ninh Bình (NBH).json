@@ -1,0 +1,37 @@
+{
+  "table": [
+    {
+      "id": 6073322,
+      "code": "NBH0000001",
+      "name": "172E23.4",
+      "cabtype": 5,
+      "latlng": "(20.158238407148158,106.07403974980116)",
+      "branchid": 162,
+      "trubangduonglist": "",
+      "aheadcode": "",
+      "type": "trudon"
+    },
+    {
+      "id": 6075402,
+      "code": "NBH0000002",
+      "name": "BTNB",
+      "cabtype": 5,
+      "latlng": "(20.27101247715691, 105.96552059054375)",
+      "branchid": 162,
+      "trubangduonglist": "",
+      "aheadcode": "",
+      "type": "trudon"
+    },
+    {
+      "id": 6075452,
+      "code": "NBH0000003",
+      "name": "PNTD",
+      "cabtype": 5,
+      "latlng": "(20.33293038310554,105.91070596128702)",
+      "branchid": 162,
+      "trubangduonglist": "",
+      "aheadcode": "",
+      "type": "trudon"
+    }
+  ]
+}
