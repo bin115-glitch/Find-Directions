@@ -3365,20 +3365,21 @@
                 });
                 return out.sort((a, b) => a.dist - b.dist).slice(0, limit);
             };
+            const endpointRadiusKm = getEndpointSearchRadiusKm(false) || 0;
 
-            // The 5% radius controls endpoint pole selection. If it contains no
-            // ring node, still use the nearest selected ring node as the network
-            // target; the endpoint leg remains pole-first and never becomes a
-            // direct point-to-node shortcut.
-            if ((!startNearbyCandidates || startNearbyCandidates.length === 0) && startPointCoords) {
-                startNearbyCandidates = nearestRouteCandidates(startPointCoords, checkedRouteIds);
-                appendRouteRunDebug('start-ring-node-radius-fallback', startNearbyCandidates);
+            // Keep the endpoint search radius strict. Do not replace an empty
+            // 5%-radius result with the nearest node on the whole route: that
+            // silently creates multi-kilometre endpoint cable sections even
+            // when the user entered a short cable length such as 65 m.
+            if (!startNearbyCandidates || !endNearbyCandidates || startNearbyCandidates.length === 0 || endNearbyCandidates.length === 0) {
+                appendRouteRunDebug('no-ring-node-within-endpoint-radius', {
+                    radiusKm: getEndpointSearchRadiusKm(false),
+                    startNearbyCandidates,
+                    endNearbyCandidates
+                });
+                showRouteAlert('warning', `Khong co diem tren tuyen trong ban kinh quet ${(endpointRadiusKm * 1000).toFixed(1)} m. Hay tang chieu dai day hoac chon diem gan ha tang hon.`);
+                return;
             }
-            if ((!endNearbyCandidates || endNearbyCandidates.length === 0) && endPointCoords) {
-                endNearbyCandidates = nearestRouteCandidates(endPointCoords, checkedRouteIds);
-                appendRouteRunDebug('end-ring-node-radius-fallback', endNearbyCandidates);
-            }
-            if (!startNearbyCandidates || !endNearbyCandidates || startNearbyCandidates.length === 0 || endNearbyCandidates.length === 0) return;
             const adjacency = buildAdjacencyForSelectedRoutes();
             const edgeMap = buildEdgeGeometryMap();
             appendRouteRunDebug('graph-summary', {
@@ -3403,8 +3404,6 @@
             // Build candidate lists (top N nearest) for start and end, prioritizing nearby candidates then adjacency nodes
             const sCoords = startPointCoords || (startNearbyCandidates[0] ? [startNearbyCandidates[0].lat, startNearbyCandidates[0].lng] : null);
             const eCoords = endPointCoords || (endNearbyCandidates[0] ? [endNearbyCandidates[0].lat, endNearbyCandidates[0].lng] : null);
-            const endpointRadiusKm = getEndpointSearchRadiusKm(false) || 0;
-
             function uniqueById(arr) {
                 const seen = new Set(); const out = [];
                 arr.forEach(a => { if (!a) return; const id = a.id; if (id == null) return; if (!seen.has(id)) { seen.add(id); out.push(a); } });
