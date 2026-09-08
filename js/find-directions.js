@@ -3773,7 +3773,7 @@
             const jumperCount = nodeCount + 2;
             const pigtailCount = 2 * nodeCount + 2;
             const fusionCount = Math.ceil(totalKm / 4 + couplerCount);
-            const cableLoss = 0.35 * totalKm;
+            const cableLoss = 0.30 * totalKm;
             const couplerLoss = 0.30 * couplerCount;
             const fusionLoss = 0.10 * fusionCount;
             const jumperLoss = 0.30 * jumperCount;
@@ -3894,7 +3894,7 @@
             const jumperCount = lossSummary.jumperCount;
             const pigtailCount = lossSummary.pigtailCount;
             const fusionCount = lossSummary.fusionCount;
-            const cableLoss1310 = 0.35 * totalKm;
+            const cableLoss1310 = 0.30 * totalKm;
             const couplerLoss1310 = 0.30 * couplerCount;
             const fusionLoss1310 = 0.10 * fusionCount;
             const jumperLoss1310 = 0.30 * jumperCount;
@@ -3949,7 +3949,7 @@
             </table>
             <table style="width:100%;border-collapse:collapse;table-layout:fixed;margin-top:8px;">
                 <tr style="background:#f0f0f0;font-weight:bold;"><td style="padding:7px;border:1px solid #ddd;">Thành phần suy hao 1310 nm</td><td style="padding:7px;border:1px solid #ddd;text-align:right;">Suy hao</td></tr>
-                <tr><td style="padding:7px;border:1px solid #ddd;">Cáp quang (0,35 dB/km)</td><td style="padding:7px;border:1px solid #ddd;text-align:right;">${formatKm(cableLoss1310)} dB</td></tr>
+                <tr><td style="padding:7px;border:1px solid #ddd;">Cáp quang (0,30 dB/km)</td><td style="padding:7px;border:1px solid #ddd;text-align:right;">${formatKm(cableLoss1310)} dB</td></tr>
                 <tr><td style="padding:7px;border:1px solid #ddd;">Coupler SC (0,30 dB/coupler)</td><td style="padding:7px;border:1px solid #ddd;text-align:right;">${formatKm(couplerLoss1310)} dB</td></tr>
                 <tr><td style="padding:7px;border:1px solid #ddd;">Mối hàn (0,10 dB/mối)</td><td style="padding:7px;border:1px solid #ddd;text-align:right;">${formatKm(fusionLoss1310)} dB</td></tr>
                 <tr><td style="padding:7px;border:1px solid #ddd;">Dây nhảy (0,30 dB/dây)</td><td style="padding:7px;border:1px solid #ddd;text-align:right;">${formatKm(jumperLoss1310)} dB</td></tr>
