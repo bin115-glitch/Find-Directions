@@ -3680,7 +3680,7 @@
                     const walkingKm2 = (typeof leg2 === 'object' && leg2 && Number.isFinite(leg2.km)) ? leg2.km : (Number(best.accessEndKm) || 0);
                     const additionalCableKm = walkingKm1 + walkingKm2;
                     const totalKm = walkingKm1 + (best.networkKm || 0) + walkingKm2;
-                    if (endPointMarker) endPointMarker.bindPopup(`<b>Tuyến mạng tốt nhất</b><br>Từ điểm đầu đến ring FTEL: ${walkingKm1.toFixed(3)} km<br>Từ điểm cuối đến ring FTEL: ${walkingKm2.toFixed(3)} km<br><b>Tổng hai đoạn nối: ${additionalCableKm.toFixed(3)} km</b><br>Mạng hiện hữu: ${(best.networkKm || 0).toFixed(3)} km<br><b>Tổng tuyến: ${totalKm.toFixed(3)} km</b>`).openPopup();
+                    if (endPointMarker) endPointMarker.bindPopup(`<b>Tuyến mạng tốt nhất</b><br>Từ điểm đầu đến hạ tầng FTEL: ${walkingKm1.toFixed(3)} km<br>Từ điểm cuối đến hạ tầng FTEL: ${walkingKm2.toFixed(3)} km<br><b>Tổng hai đoạn nối: ${additionalCableKm.toFixed(3)} km</b><br>Mạng hiện hữu: ${(best.networkKm || 0).toFixed(3)} km<br><b>Tổng tuyến: ${totalKm.toFixed(3)} km</b>`).openPopup();
                 } catch (errLeg) {
                     // fallback: just save results and popup network-only
                     try {
@@ -3691,7 +3691,7 @@
                     } catch (e) { }
                     const fallbackAdditionalCableKm = (best.accessStartKm || 0) + (best.accessEndKm || 0);
                     const fallbackTotalKm = fallbackAdditionalCableKm + (best.networkKm || 0);
-                    if (endPointMarker) endPointMarker.bindPopup(`<b>Tuyến mạng tốt nhất</b><br>Từ điểm đầu đến ring FTEL: ${(best.accessStartKm || 0).toFixed(3)} km<br>Từ điểm cuối đến ring FTEL: ${(best.accessEndKm || 0).toFixed(3)} km<br><b>Tổng hai đoạn nối: ${fallbackAdditionalCableKm.toFixed(3)} km</b><br>Mạng hiện hữu: ${best.networkKm.toFixed(3)} km<br><b>Tổng tuyến: ${fallbackTotalKm.toFixed(3)} km</b>`).openPopup();
+                    if (endPointMarker) endPointMarker.bindPopup(`<b>Tuyến mạng tốt nhất</b><br>Từ điểm đầu đến hạ tầng FTEL: ${(best.accessStartKm || 0).toFixed(3)} km<br>Từ điểm cuối đến hạ tầng FTEL: ${(best.accessEndKm || 0).toFixed(3)} km<br><b>Tổng hai đoạn nối: ${fallbackAdditionalCableKm.toFixed(3)} km</b><br>Mạng hiện hữu: ${best.networkKm.toFixed(3)} km<br><b>Tổng tuyến: ${fallbackTotalKm.toFixed(3)} km</b>`).openPopup();
                 }
             }
         }
@@ -3795,8 +3795,9 @@
             const modal = document.getElementById('topResultsModal');
             if (!body || !modal) return;
             if (!results || results.length === 0) { body.innerHTML = '<div>Không tìm thấy tuyến phù hợp</div>'; modal.style.display = 'none'; return; }
-            let html = '<table style="width:100%;border-collapse:collapse;">';
-            html += '<tr style="font-weight:bold;background:#f0f0f0;"><td style="width:30px">#</td><td>Điểm đầu</td><td>Tuyến</td><td>Điểm cuối</td><td style="width:120px;text-align:center">POP + tủ</td><td style="width:95px;text-align:center">Măng xông</td><td style="width:105px;text-align:right">Tổng hai đoạn nối (km)</td><td style="width:90px;text-align:right">Tổng tuyến (km)</td><td style="width:120px;text-align:right">Suy hao 1310 nm (dB)</td><td style="width:120px">Thao tác</td></tr>';
+            let html = '<table style="width:100%;min-width:1160px;border:1px solid #d9dee3;border-collapse:collapse;table-layout:fixed;font-family:Arial,sans-serif;font-size:12px;">';
+            html += '<colgroup><col style="width:42px"><col style="width:150px"><col style="width:120px"><col style="width:150px"><col style="width:78px"><col style="width:88px"><col style="width:125px"><col style="width:115px"><col style="width:145px"><col style="width:170px"></colgroup>';
+            html += '<thead><tr style="font-weight:bold;background:#f0f0f0;"><th style="padding:8px 6px;text-align:center;border:1px solid #d9dee3">#</th><th style="padding:8px 6px;text-align:left;border:1px solid #d9dee3">Điểm đầu</th><th style="padding:8px 6px;text-align:left;border:1px solid #d9dee3">Tuyến</th><th style="padding:8px 6px;text-align:left;border:1px solid #d9dee3">Điểm cuối</th><th style="padding:8px 6px;text-align:center;border:1px solid #d9dee3">POP + tủ</th><th style="padding:8px 6px;text-align:center;border:1px solid #d9dee3">Măng xông</th><th style="padding:8px 6px;text-align:right;border:1px solid #d9dee3">Cáp kéo thêm (km)</th><th style="padding:8px 6px;text-align:right;border:1px solid #d9dee3">Tổng tuyến (km)</th><th style="padding:8px 6px;text-align:right;border:1px solid #d9dee3">Suy hao toàn tuyến (dB)</th><th style="padding:8px 6px;text-align:left;border:1px solid #d9dee3">Thao tác</th></tr></thead><tbody>';
             results.forEach((r, idx) => {
                 const sname = (r.startNode && (r.startNode.name || r.startNode.id)) || '';
                 const ename = (r.endNode && (r.endNode.name || r.endNode.id)) || '';
@@ -3816,11 +3817,11 @@
                     `<td style="padding:6px;text-align:center;vertical-align:middle">${deviceCounts.splices}</td>` +
                     `<td style="padding:6px;text-align:right;vertical-align:middle">${additionalCableKm.toFixed(6)}</td>` +
                     `<td style="padding:6px;text-align:right;vertical-align:middle">${totalKm.toFixed(6)}</td>` +
-                    `<td style="padding:6px;text-align:right;vertical-align:middle" title="Chưa cộng suy hao dự phòng">${loss1310.loss.toFixed(3)}</td>` +
+                    `<td style="padding:6px;text-align:right;vertical-align:middle">${loss1310.loss.toFixed(3)}</td>` +
                     `<td style="padding:6px;vertical-align:middle"><button data-idx="${idx}" class="modalShowBtn" style="padding:6px 8px;margin-right:6px">Xem</button><button data-idx="${idx}" class="modalInfoBtn" style="padding:6px 8px">Thông tin</button></td>` +
                     '</tr>';
             });
-            html += '</table>';
+            html += '</tbody></table>';
             body.innerHTML = html;
             // attach handlers
             Array.from(body.querySelectorAll('.modalShowBtn')).forEach(btn => {
@@ -3921,8 +3922,8 @@
                 <tr><td style="padding:8px;border:1px solid #ddd;">Ứng viên</td><td style="padding:8px;border:1px solid #ddd;">#${idx + 1}</td></tr>
                 <tr><td style="padding:8px;border:1px solid #ddd;">Cột đầu tuyến</td><td style="padding:8px;border:1px solid #ddd;">${escapeHtml(startName)}</td></tr>
                 <tr><td style="padding:8px;border:1px solid #ddd;">Cột cuối tuyến</td><td style="padding:8px;border:1px solid #ddd;">${escapeHtml(endName)}</td></tr>
-                <tr><td style="padding:8px;border:1px solid #ddd;">Từ điểm đầu đến ring FTEL</td><td style="padding:8px;border:1px solid #ddd;text-align:right;">${formatKm(r.accessStartKm)} km</td></tr>
-                <tr><td style="padding:8px;border:1px solid #ddd;">Từ điểm cuối đến ring FTEL</td><td style="padding:8px;border:1px solid #ddd;text-align:right;">${formatKm(r.accessEndKm)} km</td></tr>
+                <tr><td style="padding:8px;border:1px solid #ddd;">Từ điểm đầu đến hạ tầng FTEL</td><td style="padding:8px;border:1px solid #ddd;text-align:right;">${formatKm(r.accessStartKm)} km</td></tr>
+                <tr><td style="padding:8px;border:1px solid #ddd;">Từ điểm cuối đến hạ tầng FTEL</td><td style="padding:8px;border:1px solid #ddd;text-align:right;">${formatKm(r.accessEndKm)} km</td></tr>
                 <tr style="font-weight:bold;background:#eaf6ed;"><td style="padding:8px;border:1px solid #ddd;">Tổng hai đoạn nối</td><td style="padding:8px;border:1px solid #ddd;text-align:right;">${formatKm(additionalCableKm)} km</td></tr>
                 <tr><td style="padding:8px;border:1px solid #ddd;">Mạng hiện hữu</td><td style="padding:8px;border:1px solid #ddd;text-align:right;">${formatKm(r.networkKm)} km</td></tr>
                 <tr style="font-weight:bold;"><td style="padding:8px;border:1px solid #ddd;">Tổng chiều dài tuyến</td><td style="padding:8px;border:1px solid #ddd;text-align:right;">${formatKm(totalKm)} km</td></tr>
@@ -3995,7 +3996,7 @@
                 const walkingKm2 = (leg2 && Number.isFinite(leg2.km)) ? leg2.km : (Number(r.accessEndKm) || 0);
                 const additionalCableKm = walkingKm1 + walkingKm2;
                 const totalKm = walkingKm1 + (r.networkKm || 0) + walkingKm2;
-                if (endPointMarker) endPointMarker.bindPopup(`<b>Tuyến (ứng viên ${idx + 1})</b><br>Từ điểm đầu đến ring FTEL: ${walkingKm1.toFixed(3)} km<br>Từ điểm cuối đến ring FTEL: ${walkingKm2.toFixed(3)} km<br><b>Tổng hai đoạn nối: ${additionalCableKm.toFixed(3)} km</b><br>Mạng hiện hữu: ${(r.networkKm || 0).toFixed(3)} km<br><b>Tổng tuyến: ${totalKm.toFixed(3)} km</b>`).openPopup();
+                if (endPointMarker) endPointMarker.bindPopup(`<b>Tuyến (ứng viên ${idx + 1})</b><br>Từ điểm đầu đến hạ tầng FTEL: ${walkingKm1.toFixed(3)} km<br>Từ điểm cuối đến hạ tầng FTEL: ${walkingKm2.toFixed(3)} km<br><b>Tổng hai đoạn nối: ${additionalCableKm.toFixed(3)} km</b><br>Mạng hiện hữu: ${(r.networkKm || 0).toFixed(3)} km<br><b>Tổng tuyến: ${totalKm.toFixed(3)} km</b>`).openPopup();
             } catch (e) {
                 console.warn('showTopResult: walking leg draw failed', e);
             }
