@@ -3367,6 +3367,20 @@
             };
             const endpointRadiusKm = getEndpointSearchRadiusKm(false) || 0;
 
+            // Rebuild endpoint candidates on every route search. The cable
+            // length can be changed after the points were selected; reusing
+            // the old arrays would keep nodes found under a larger radius.
+            if (startPointCoords) {
+                startNearbyCandidates = findNearbyCandidatesWithFallback(startPointCoords[0], startPointCoords[1], endpointRadiusKm);
+            } else {
+                startNearbyCandidates = [];
+            }
+            if (endPointCoords) {
+                endNearbyCandidates = findNearbyCandidatesWithFallback(endPointCoords[0], endPointCoords[1], endpointRadiusKm);
+            } else {
+                endNearbyCandidates = [];
+            }
+
             // Keep the endpoint search radius strict. Do not replace an empty
             // 5%-radius result with the nearest node on the whole route: that
             // silently creates multi-kilometre endpoint cable sections even
