@@ -3786,8 +3786,7 @@
                 jumperCount,
                 pigtailCount,
                 fusionCount,
-                loss,
-                lossWithReserve: loss + 3
+                loss
             };
         }
 
@@ -3817,7 +3816,7 @@
                     `<td style="padding:6px;text-align:center;vertical-align:middle">${deviceCounts.splices}</td>` +
                     `<td style="padding:6px;text-align:right;vertical-align:middle">${additionalCableKm.toFixed(6)}</td>` +
                     `<td style="padding:6px;text-align:right;vertical-align:middle">${totalKm.toFixed(6)}</td>` +
-                    `<td style="padding:6px;text-align:right;vertical-align:middle" title="Đã cộng dự phòng cố định 3 dB">${loss1310.lossWithReserve.toFixed(3)}</td>` +
+                    `<td style="padding:6px;text-align:right;vertical-align:middle" title="Chưa cộng suy hao dự phòng">${loss1310.loss.toFixed(3)}</td>` +
                     `<td style="padding:6px;vertical-align:middle"><button data-idx="${idx}" class="modalShowBtn" style="padding:6px 8px;margin-right:6px">Xem</button><button data-idx="${idx}" class="modalInfoBtn" style="padding:6px 8px">Thông tin</button></td>` +
                     '</tr>';
             });
@@ -3900,7 +3899,6 @@
             const jumperLoss1310 = 0.30 * jumperCount;
             const pigtailLoss1310 = 0.15 * pigtailCount;
             const loss1310 = lossSummary.loss;
-            const loss1310WithReserve = lossSummary.lossWithReserve;
             const totalMeters = totalKm * 1000;
             const pointRows = pathIds.map((id, pointIndex) => {
                 const nodeObj = findNodeById(id);
@@ -3956,7 +3954,6 @@
                 <tr><td style="padding:7px;border:1px solid #ddd;">Dây nhảy (0,30 dB/dây)</td><td style="padding:7px;border:1px solid #ddd;text-align:right;">${formatKm(jumperLoss1310)} dB</td></tr>
                 <tr><td style="padding:7px;border:1px solid #ddd;">Pigtail (0,15 dB/dây)</td><td style="padding:7px;border:1px solid #ddd;text-align:right;">${formatKm(pigtailLoss1310)} dB</td></tr>
                 <tr style="font-weight:bold;background:#eaf6ed;"><td style="padding:7px;border:1px solid #ddd;">Tổng suy hao SH1310</td><td style="padding:7px;border:1px solid #ddd;text-align:right;">${formatKm(loss1310)} dB</td></tr>
-                <tr style="font-weight:bold;background:#fff3cd;"><td style="padding:7px;border:1px solid #ddd;">SH1310 có dự phòng cố định 3 dB</td><td style="padding:7px;border:1px solid #ddd;text-align:right;">${formatKm(loss1310WithReserve)} dB</td></tr>
             </table>`;
             modal.style.display = 'block';
             const closeBtn = document.getElementById('closeRouteInfoModal');
