@@ -3508,7 +3508,22 @@
                 // at the endpoint: that would make the final route ignore the pole.
                 const nearbyPoles = findPoleNeighbors(pointCoords[0], pointCoords[1], getPoleSnapRadiusKm(), 1);
                 if (nearbyPoles.length) return Infinity;
-                return calculateDistance(pointCoords[0], pointCoords[1], candidateNode.lat, candidateNode.lng);
+                // The endpoint has no usable pole path. Use the same road
+                // distance that will be drawn later, so candidate ranking,
+                // table totals, and the map popup all use one value.
+                try {
+                    const road = await drawRoadRoute(
+                        pointCoords[0],
+                        pointCoords[1],
+                        candidateNode.lat,
+                        candidateNode.lng,
+                        { draw: false }
+                    );
+                    if (road && Number.isFinite(road.km)) return road.km;
+                } catch (e) {
+                    console.warn('estimateAccessLegKm: road route failed', e);
+                }
+                return Infinity;
             }
 
             async function evaluateCandidatePairs(startList, endList) {
